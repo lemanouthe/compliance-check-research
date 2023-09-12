@@ -1,0 +1,414 @@
+1. Background
+Recent advances in biomedical and health sciences—from immunotherapy to treat 
+cancer, to the highly effective COVID-19 vaccines—demonstrate the strengths and 
+successes of the U.S. biomedical enterprise. Such advances present an opportunity to 
+revolutionize how to prevent, treat, and even cure a range of diseases including cancer, 
+infectious diseases, Alzheimer’s disease, and many others that together affect a 
+significant number of Americans.
+To improve the U.S. Government’s capabilities to speed research that can improve the 
+health of all Americans, the White House has created the Advanced Research Projects 
+Agency for Health (ARPA-H). Included in the President’s FY2022 budget was a 
+component of the National Institutes of Health (NIH) with a funding level of $1B 
+available for three years. ARPA-H will be tasked with building high-risk, high-reward 
+capabilities (or platforms) to drive biomedical breakthroughs—ranging from molecular 
+to societal—that would provide transformative solutions for all patients.
+Congress has funded the Advanced Research Project Agency (Health) which is led as an 
+initiative by the Office of Science and Technology Policy (OSTP). ARPA-H is viewed 
+as an approach to support quick scientific research in the biomedical arena and is an 
+agency within the Department of Human and Health Services (HHS).
+During the rapid start of ARPA-H, CIT services were leveraged, such as the 
+ServiceNow instance for incident management, while relying on other service area 
+capabilities provided by CIT (e.g., NIH network, Identity and Access Management 
+(IAM) Facilities, and STRIDES, etc.) as well as other critical administrative services
+(e.g., Acquisitions/Contracting, Financial Management, HR, onboarding, Property 
+Management, etc.) and Technology Management and Customer Support (Helpdesk, 
+Training, etc.).
+As ARPA-H continues to mature as an organization, ARPA-H and NIH executives want 
+to ensure that ARPA-H can develop a full range of IT services, systems or capabilities, 
+equipment, and technical support that is specific to performing the mission of ARPA-H
+as an independent organization. Over time ARPA-H will in some cases necessitate a 
+move away from some CIT provided services to tools and services that better fit the 
+unique mission of the agency.
+It is expected that ARPA-H, having its beginnings as a start-up federal agency, will grow 
+exponentially in size (personnel, facility, and equipment) as research projects are added. 
+As it does, the service delivery architecture will diverge from CIT’s support and the 
+ARPA-H Information Technology (IT) will increasingly become a stand-alone 
+environment. This document seeks to establish the initial Scope of IT Services and 
+means for creating a baseline of services to support the agency’s mission. The 
+Contractor understands and agrees that over time ARPA-H may require different 
+approaches for its support
+2. ARPA-H Assumptions
+ARPA-H requires the continued support of an outside vendor to provide a full range of IT 
+support, including but not limited to, service desk and desktop support, and IT design, 
+development, and implementation, starting with its initiation and as it continually evolves. IT 
+support services may require an initial start-up or may require transition related activities from 
+current providers and will require knowledge of the various sources of associated services (i.e., 
+CIT provided service such as the NIH administrative Applications, NIH Network, Identity 
+Access Management, Facilities, STRIDES, Biowulf, etc.). As a new agency, ARPA-H will take 
+the opportunity to be take a “cloud first” approach to all aspects of IT services. For example, the 
+agency does not intend to establish a network infrastructure or data centers but instead rely on 
+cloud-based services securely accessed from and supporting end user devices.
+This is a non-personal services, ARPA-H will provide the Government management and 
+technical oversight of ARPA-H Contractors, but will work closely with CIT’s existing service 
+support environment. Decisions concerning technical directions, budgets and commitments by 
+the Government will, at all times, remain with the Government.
+The Contractor shall offer the ability to scale its support resources to meet projected support,
+growth, and surge support activities or to decrease resources as projects complete.
+ARPA-H expects to grow to a level of ~ 800-1000 ARPA-H federal and contractor personnel in a 
+virtual nation-wide footprint (tentatively to include the DC Metro-Area, and two other sites),
+which includes ~210 Government personnel requiring executive level support. Currently ARPAH has approximately 70 federal staff supported by 290 contractors and Presidential Innovation 
+Fellows. These numbers are growing daily, and it is anticipated that the agency will be at a full 
+complement of staff within the next six (6) months to a year.
+3. ARPA-H Technology Principles
+The following principles are core to the delivery of services within the ARPA-H Office of 
+Technology and Data. They will serve as the playbook for this Contractor to deliver and 
+Contractors are expected to provide evidence of past performance aligned with these principles 
+in their proposals:
+• Be Customer-Centric: IT isn’t a castle – it exists to enable the agency. Our job is to get 
+ARPA-Hers the tools they need to do their jobs. We find a way to “get to yes” and don’t 
+pass costs on to other parts of the agency.
+• Rapid, Iterative Approach: You won’t get it perfect the first time. Get capabilities into 
+users’ hands as quickly as possible and iterate from there. Speed and data are more 
+important than consensus.
+• Build with the Future in Mind: Don’t pigeonhole capabilities. The resulting technology 
+and data should be re-usable by future entities and people whenever possible.
+• Manage Risk: Adopt a risk-based approach to managing IT. Consider the overall 
+sensitivity of the data and systems to make informed decisions to accept risk.
+• Economies of Scale: ARPA-H doesn’t have to do it all. Strategically utilize NIH/CIT to 
+provide IT support. Think creatively about talent; using detailed personnel and SETAs to 
+maximize flexibility and minimize footprint.
+• Buy it, don’t Build it: Buy it, where possible. Buy FedRAMP Authorized SaaS, PaaS, 
+IaaS first and in that order to move fast and simplify compliance.
+4. Program/Project Management – Task Area 1 (Labor Hour (LH))
+4.1. ARPA-H Organizational Stand-up
+The Contractor shall be responsible for standing up a new organization with full operational 
+responsibilities and ongoing projects, as described below. These responsibilities shall 
+include, but are not limited to planning, budgeting, service management and delivery, and 
+programmatic functions (e.g., Performance Management, Contract Management – including 
+financials, Human Resource Management, Quality Assurance, etc.) necessary to establish all 
+logistical and technical operations needed by ARPA-H.
+ARPA-H is a new organization requiring Information Technology (IT) infrastructure and 
+support services. At present, most IT infrastructure and support are being provided from 
+National Institute of Health (NIH) Center for Information Technology (CIT) but will be 
+converted, transitioned, or newly acquired for ARPA-H, as appropriate and justified by 
+relevant business cases. ARPA-H seeks to develop its own systems through a series of 
+controlled implementations and will retain complete control over IT decisions for 
+architecture, operations, processes, and security.
+While ARPA-H will retain control of IT decision the Contractor shall be responsible for and 
+produce a plan that addresses steps / phases for design, development, and implementation; 
+time management; controls for managing cost, schedule, risk; and identifying any 
+requirements that might be placed upon Government or other parties.
+The implementation and Phase-In period shall occur over a three-year period with 
+designs and controls being emphasized in the first year, stabilization phase by year 2, 
+and enhancements phase by year 3.
+During these phases, the Contractor shall plan and manage all planning and operational 
+activities necessary to establish a documented environment that can be transitioned from the 
+existing service provider to a competitively awarded contracts or contracts. Immediately 
+after the notice to commence work, the Contractor shall perform due diligence through 
+inventory of all ARPA-H plans for growth, planned assets, system configuration 
+The information, current operations, security controls, and system documentation. 
+Contractor shall document and provide findings to the Government in an Implementation 
+and Phase-In Plan (IPIP) that addresses the three (3) Phases indicated above. The IPIP shall 
+include what has been accomplished related to the current environment and plans for a 
+future state indicating the steps and funds needed to accomplish the future state. The
+implementation aspects of the IPIP shall assume service responsibility within a ninety-day 
+(90-day) transition timeframe, upon which the Contractor shall have full responsibility for 
+operational, technical and financial performance.
+Objectives for implementation include:
+• Establishment of new services and transfer of existing services,
+• No break in current service levels,
+• No delay in support for new and ongoing projects, 
+• Development and refinement of automated and semi-automated business processes,
+• Support of two (2) communication channels with ARPA-H personnel, the first for 
+immediate help-desk requests and the second for strategic technical requests (such as the 
+establishment of a new technical workflow),
+• Ability to support ARPA-H personnel during a rapid on-boarding, and 
+• Rapid creation of Institutional controls and procedures.
+During the phase-in period, the Contractor shall organize, plan, and recruit personnel for 
+remaining outstanding positions as well as mobilize resources, develop procedures, and 
+accomplish all actions necessary to commence full performance of the services at the end of 
+the transition period.
+During the Phase-In/Stand-Up period, the Contractor shall: 
+1) Establish project management procedures and establish, maintain, and review 
+Standard Operating Procedures1 (SOPs),
+2) Recruit, hire, and on-board necessary, and appropriately qualified personnel,
+3) Attend post-award meetings as required, and
+4) Create SOPs for each functional area covered under this Statement of Work (SOW).
+Content may include Quality Control (QC), work assignments, approval authorities, 
+workflow, functional relationships between the Government and the Contractor, 
+functional relationships between the Contractors’ organizational elements (including 
+subcontractors), and any other information needed for efficient and uniform 
+performance.
+Deliverables
+a) Draft Implementation and Phase-In Plan (IPIP) (as proposed by the 
+Contractor in the response to the SOW)
+b) Final Implementation and Phase-In Plan (IPIP) (as accepted by the 
+Government, 60 days after contract award)
+c) Resource Plan and Reporting Process
+d) Architectural design for the IT infrastructure, 60 days after contract award
+e) Weekly status reports for each program/task area
+f) SOPs for each functional area
+g) Ongoing updates to SOPs
+h) Ad-hoc business cases
+The Contractors shall provide a statement of assumption of Full Operational 
+Capability (FOC) upon completion of the 90-day assumption period.
+The Contractors shall provide a statement of assumption of Full Operational 
+Capability (FOC) upon completion of the 90-day assumption period.
+4.2. Key Personnel
+At a minimum, ARPA-H expects the following roles to be associated with key personnel:
+• Program Manager
+• Deputy Program Manager
+• Service Desk Manager
+• Deskside Support Manager
+• Project Manager PMO-Lead
+• Security Engineer-Lead
+• Desktop Engineering-Lead
+• Identity & Access Management-Lead
+• Solution Architect-Lead
+
+4.3. Disengagement
+Toward the end of the Contract term, the Contractor may be required to support a successor 
+Contractor, see FAR 52.237-3 Continuity of Services. In addition, during contract 
+performance the Government’s needs or requirements could potentially alter the support 
+efforts required by this contract. The Contractor shall cooperate to affect an effective, 
+orderly and efficient Transition-Out to any such successor Contractor during a Transition 
+period which will be specified by the Contracting Officer. The Contractor shall be required 
+to phase out the existing contract, turning over total contract control to the new Contractor 
+in a well-organized, systematic, and planned manner. The incumbent Contractor shall meet 
+as necessary with the new Contractor. All Contractor personnel shall support the efforts 
+established by the Transition Team. Both Contractors shall develop a joint Transition Plan of 
+critical areas to be satisfied, that will be initialed and dated by both parties.
+During the period of performance, the Contractor shall only use Government furnished electronic 
+communications vehicles to conduct the activities in this Statement of Work. Approved 
+communication vehicles include Government furnished e-mail accounts with a .gov address, 
+approved Government provided and operated online storage platforms such as Max.gov, 
+SharePoint Online, Box.com, Microsoft OneDrive or Google Workspaces that utilize 
+Government managed identity and access management tools. Contractors shall not use corporate 
+e-mail accounts, personal e-mail accounts, corporate or personal online storage platforms or 
+other corporate or personally owned mechanisms to conduct the activities in this SOW.
+4.4. Program Management
+In the performance of Task Area 1, the Contractor shall effectively and efficiently – as 
+demonstrated through its reporting – manage cost, schedule, and performance using 
+integrated program management processes across all aspects of performance and in a 
+manner that yields cost savings and/or performance efficiencies throughout the execution of 
+all work assignments issued under this SOW.
+Independently, and not as an agent of the Government, the Contractor shall furnish all the 
+necessary services, qualified personnel, material, equipment, and facilities, not otherwise 
+provided by the Government, as needed to perform individual task assignments in the Task 
+Areas specified that follow in sections below.The ARPA-H Program Management Office (PMO) requires the use of systematic program 
+and project management methodologies accompanying all IT support activities. The 
+methodologies shall use frameworks based on Industry Standards (e.g., Project Management 
+Institute (PMI)) and frameworks for project management. The Contractor shall maintain 
+data and information that relates technical components of infrastructure with business 
+requirements. Business management and reporting shall focus project activities and their 
+impact on budgeted work, planning and control, overall performance, and conformance to 
+contractual requirements. The technical component shall focus on areas such as data 
+gathering, requirements definition; technical design; development; testing, installation, 
+interoperability, operational support, maintenance, and management of software as 
+Government assets.
+The Contractor shall provide the day-to-day management of the project and deliver the 
+means, methods, and resources to meet the Contract end point requirements and the 
+intermediate requirements that the Contracting Officer’s Representative (COR) and/or 
+Performance Monitor(s) determined are value-added and necessary to achieve project 
+success. The following table identifies program management roles and responsibilities 
+associated with the Administrative Support Services.
+4.4.1. Subtask: Program Management
+Performance of this contract and task requirements require interaction with a wide range of 
+ARPA-H staff, Including the ARPA-H COR, ARPA-H leadership staff, ARPA-H
+administrative management staff, ARPA-H IT technical and program/project management 
+staff, other ARPA-H Contractors, and senior APRA-H managers and other stakeholders. The 
+Contractor shall:
+a) Appoint a Program Manager (PM) to serve as the Government’s single focal 
+point, with the necessary authority to utilize the company’s resources to 
+assure the work under work assignments issued under this SOW is 
+accomplished consistent with technical, cost, and schedule requirements, as 
+well as prudent programmatic management and risk mitigation. The 
+Program Manager shall ensure all the work and projects are completed 
+successfully and all services are delivered effectively, as measured by the 
+customer satisfaction Service Level Agreement (SLA). The Contractor shall 
+propose Service Level Measures and report against those measures for 
+acceptance by the Government. The Government will review and provide 
+approval of measurements and results.
+b) Appoint a Deputy Program Manager position/role to serve as a back-up to 
+the PM and assume that role anytime the PM is unavailable.
+c) Provide planning, execution, control, and direction of prime Contractor 
+employees and Subcontractor employees programmatic and technical work 
+performed under work assignments, as defined in the Contractor’s work 
+management plan (i.e., Program Management Plan).
+d) Provide technical expertise and functional activities necessary for successful 
+program management, as measured through the customer satisfaction SLA,of this SOW.
+e) Provide the necessary centralized administrative, clerical, documentation 
+and other related functions required to run a Program Management Office 
+of this size and complexity.
+f) Provide input and participate in Enterprise Information Resource 
+Management decisions, Strategic Planning, FITARA review and update, 
+compliance with Policies and Federal Regulations.
+g) Provide no less than monthly contract status and financial reports (See 
+Monthly Progress and Financial Reports – note this format will change as 
+the needs of the Government change). Reports shall be detailed at the 
+project level as specified per each task and shall include costs incurred to 
+date and planned costs to project completion.
+h) Conduct no less than monthly project and financial status meetings with 
+Government PMO personnel or other functional staff.
+i) Be available for legislative information requests, ad-hoc meetings or 
+conference calls with Government personnel, as designated by the 
+Government, at NIH or ARPA-H offices in Bethesda, Maryland, with as 
+little as two (2) hours notifications to the Contractor. Every effort shall be 
+made to schedule meetings at least 24 hours in advance.
+j) Provide contract and task related data and information to IT personnel 
+within 24 hours of request.
+k) Meet with the COR and federal task lead(s) on a regular, as decided by the 
+COR, Contractor, and stage of work activity, but no less than monthly, basis 
+and provide verbal activity and financial status reports, including status of 
+individual work assignments where relevant.
+The Contractor will ensure that they have staff available to report onsite, as requested within 
+a minimum of a two-hour timeframe on days when the Federal Government is open and 
+operating; and that these staff members provide appropriate coverage onsite during the core 
+business hours – 6am until 6pm weekdays. The number of onsite staff will be such that they 
+can support the needed onsite work. The number of staff that are required to be onsite will 
+be determined by the Government and may vary over time and by task area.
+Program Management as described herein only applies to ARPA-H. The Contractor shall not 
+function as a Program Management Office for other NIH Offices, Department’s, or NIH 
+Institutes.
+4.4.2. Subtask: Management of Task Assignments
+The Contractor shall:
+a) Employ an efficient use of technical skill and managerial oversight to 
+control costs and meet all schedule requirements. Any anticipated cost or 
+schedule overruns for LH, Project, or funded activities must be reported to 
+the ARPA-H COR immediately.
+b) Meet all deadlines and mitigate and manage risk to ensure successful 
+project outcomes.
+c) Maintain a Program Management Plan (provided with Proposal) which describes the Contractor’s overall management approach, communications 
+plan, risk management approach and reporting, staffing and organizational 
+resources plan, and management controls and reporting employed to meet 
+cost, performance, and schedule requirements. 
+d) For one-off projects the Contractor shall provide Integrated Project Plans
+(IPP), showing adherence or impact to configuration and change 
+management processes for all other schedules, milestones, and 
+deliverables.
+e) Hold weekly meetings, as required by ARPA-H, to keep the Government
+informed about project activities and review progress toward goals or to 
+refine strategy and tactics.
+f) Provide, maintain, and update project plans, identifying critical path 
+dependencies, major critical milestones, project deliverables, and tracking 
+(e.g., project earned value if needed) for Projects and for ongoing Service 
+Delivery.
+g) The Government desires programmatic leadership, technical expertise, 
+and capabilities for proactively identifying, promoting, implementing, and 
+communicating the advancement of solution engineering and 
+maintenance. As such, the Contractor is encouraged to:
+• Provide a team of experienced resources that can fulfill a variety of 
+activities ranging from subject matter disciplines and research to 
+expertise and skills in planning and implementation.
+• Provide flexibility in resources assigned. That is, where appropriate, 
+maintain continuity through a permanent mix of senior-, mid-, and 
+junior-level staff experienced in supporting requirements in an 
+environment similar to the size and complexity of ARPA-H. 
+However, as technologies change, ARPA-H expects that the 
+Contractor will maintain alignment by adjusting permanent 
+resources and/or providing ad-hoc expertise for projects and other 
+short-term assignments.
+• Establish continuous support and continuity through cross-training 
+to ensure there are no impacts due to planned or unplanned staff 
+changes.
+• Be proactive in establishing and maintaining operational guides that 
+document the ARPA-H organization, responsibilities, and processes 
+that can be used to train resources, transfer knowledge, and create 
+the basis for knowledge management.
+• Replace, modify and/or add staffing resources as needed in a timely, 
+professional, and consistent manner.
+h) Provide Program Management Professional (PMP), or equivalent
+experienced staff, for roles that include the management of the program or 
+significant teams.
+i) Provide Certified Information Systems Security Professional (CISSP), or 
+equivalent experienced staff, for roles that include the management 
+security posture of the program or significant teams.
+j) Provide Information Technology Infrastructure Library (ITIL), or 
+equivalent, trained personnel k) Provide HDI, or equivalent, certified Service Desk staff.
+4.4.3. Subtask: Quality Assurance Plan (QAP)
+The Contractor is responsible for delivering high-quality work products within budget 
+through effective project administration, efficiency, and cost containment.
+The Contractor shall establish a Quality Assurance Plan (QAP) for the work to be 
+performed under the contract. The QAP must address the following:
+a. Who will be responsible for quality control during contract performance?
+b. Who will be responsible for ensuring compliance with requirements?
+c. Where will the quality control activities be performed?
+d. When will the quality control activities be performed?
+e. How will quality control inspections be performed and reported?
+The final QAP shall be established by the Contractor within 30 days of contract award and 
+quality control activities shall be documented. The QAP shall be reported to the COR and 
+ARPA-H Program Manager monthly. The Government may use the Contractor’s QAP as the 
+basis for the Government’s Quality Assurance Surveillance Plan (QASP) or create its own 
+after contract award. The QAP will be used by the Government to manage and evaluate the 
+Contractor's performance for all task areas over the life of the contract.
+4.4.4. Subtask: System Architecture Support
+The Contractor shall provide a Systems Architect who is responsible for developing 
+documentation and requirements for current and future state use of technology. The Systems 
+Architect activities will result in roadmaps, and transition/transformation planning (e.g., 
+technology bricks, setting enterprise standards, etc.). As ARPA-H evolves the Architect will, 
+at a minimum, be responsible for other documentation needed and is, at a minimum, 
+responsible for:
+• Identifying, planning, and supporting system initiatives,
+• Establishing and maintaining technology roadmaps,
+• Defining and communicating standards, and
+• Soliciting regular feedback from internal customers.
+4.4.5. Subtask: Compliance with Federal, HHS, and NIH policies and 
+requirements
+The Contractor shall, at all times, ensure that work is in compliance with Federal Law and 
+Regulations, and with Local Laws and Regulations. The contractor shall specifically ensure that:
+a) Inherently Governmental functions are observed and that Contractor 
+personnel identify themselves as Contractors in all communications.
+b) Ensure only the appropriate disclosure of Government and 3rd party 
+information is made in accordance with Contract requirements and with 
+Non-Disclosure Agreements. 
+c) The Contractor shall support Government personnel in complying with the 
+Federal Information Technology Acquisition Reform Act (FITARA) and 
+ARPA-H guidance for FITARA Clearance. Such support will require the 
+Contractor to provide information on configurations, costs, and project 
+concerning IT roadmaps and/or transformation.
+d) The Contractor shall, always ensure compliance with the Federal 
+Information Security Management Act (FISMA), and other relevant Federal 
+Information Technology policies and guidance, derived from law or HHS Policy.
+4.4.6. IT Security Management and Compliance 
+Security Management services and compliance includes the physical and logical 
+security of all Government assets, software application components and data, access 
+protection and other IT related security services and shall be in compliance with ARPAH Security policies and all applicable federal regulatory requirements. The following 
+identifies Security Management roles and responsibilities associated with Service 
+Delivery:
+• Ensure that all IT security functions are routinely inspected and reported as part 
+of Quality Control and Quality Assurance and shall maintain security 
+requirements, standards, procedures, and policies including regulatory 
+requirements. 
+• Where required by ARPA-H the Contractor shall participate in industry security 
+forums and user groups to remain up to date with current security trends, threats, 
+common exploits and security policies and procedures.
+• Recommend security standards, policies, and procedures including industry best 
+practices for remediating and implementing Plans of Actions and Milestone.
+• Work with NIH Government Security Team and/or GAO audits to conduct risk 
+assessment, identify control or security gaps, develop remediation plans, and 
+respond to Government audits.
+• Document IT security practices and plans based upon standards and practices, 
+ARPA-H policies, and federal requirements.
+• Implement physical and logical security plans consistent with ARPA-H security 
+policies and industry standards / practices (e.g., FISMA, NIST, ISO, other • Establish access profiles and policies for adding, changing, enabling/disabling, 
+and deleting log-on access of ARPA-H employees, agents, and subcontractors.
+• Implement log-on/security-level access changes as detailed in profiles and 
+policies.
+• Report security violations to ARPA-H within parameters of ARPA-H policies.
+• Work with ARPA-H Senior Information Systems Security Officer (SISSO) and 
+other Government Security Teams to resolve security violations that originate 
+outside of the hosted network(s) (e.g., denial of service attacks, spoofing, Web 
+exploits).
+• Review all security patches relevant to the IT environment and classify the need 
+and speed in which the security patches should be installed as defined by security 
+policies.
+• Install security patches within 48 hours, or as otherwise directed by the ARPA-H.
+• Remediate security vulnerabilities within a five (5) business day period, or as 
+otherwise directed by ARPA-H.
+• Perform testing in conjunction with security patch deployment.
+• Participate in and support periodic security audits (Government or 3rd party).
+• Maintain all documentation required for security audits and internal control and 
+control testing.
+• Place and support systems with particularly sensitive data in controlled access 
+areas. Only Users with current, authorized access permission will be allowed to 
+enter these areas.

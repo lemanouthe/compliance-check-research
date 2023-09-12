@@ -1,0 +1,390 @@
+5.0 SPECIFIC TASKS AND DELIVERABLES
+The Contractor shall perform the following:
+5.1 PROJECT MANAGEMENT
+5.1.1 CONTRACTOR PROJECT MANAGEMENT PLAN
+The Contractor shall deliver a Contractor Project Management Plan (CPMP) that lays 
+out the Contractor’s approach, timeline and tools to be used in execution of this TO
+effort. The CPMP should take the form of both a narrative and graphic format that 
+displays the schedule, milestones, risks and resource support. The CPMP shall also 
+include how the Contractor shall coordinate and execute planned, routine, and ad hoc
+
+data collection reporting requests as identified within the PWS. The initial baseline 
+CPMP shall be concurred upon and updated in accordance with Section B of the TO. 
+The Contractor shall provide monthly updates to maintain the VA Program Manager 
+(PM) approved CPMP throughout the PoP.
+Deliverable: 
+A. Contractor Project Management Plan
+5.1.2 PRIVACY & HIPAA TRAINING
+The Contractor shall submit TMS training certificates of completion for VA Privacy and 
+Information Security Awareness and Rules of Behavior, Health Insurance Portability and 
+Accountability Act (HIPAA) training, Role Based Training dependent on standard roles,
+and provide signed copies of the Contractor Rules of Behavior in accordance with 
+Section 9, Training, from Appendix C of the VA Handbook 6500.6, “Contract Security”.
+Deliverables:
+A. VA Privacy and Information Security Awareness and Rules of Behavior Training 
+Certificate/Signed Contractor Rules of Behavior/VA HIPAA/Role Based Training
+Certificates of Completion
+5.1.3 TECHNICAL KICKOFF MEETING
+A technical kickoff meeting shall be held within 10 days after TO award. The Contractor 
+shall coordinate the date, time, and location (can be virtual) with the Contracting Officer 
+(CO), as the Post-Award Conference Chairperson, the VA PM, as the Co-Chairperson, 
+the Contract Specialist (CS), and the COR. The Contractor shall provide a draft agenda 
+to the CO and VA PM at least five (5) calendar days prior to the meeting. Upon 
+Government approval of a final agenda, the Contractor shall distribute to all meeting 
+attendees. During the kickoff-meeting, the Contractor shall present, for review and 
+approval by the Government, the details of the intended approach, work plan, and 
+project schedule for each effort via a Microsoft Office PowerPoint presentation. At the 
+conclusion of the meeting, the Contractor shall update the presentation with a final slide 
+entitled “Summary Report” which shall include notes on any major issues, agreements, 
+or disagreements discussed during the kickoff meeting and the following statement “As 
+the Post-Award Conference Chairperson, I have reviewed the entirety of this 
+presentation and assert that it is an accurate representation and summary of the 
+discussions held during the Technical Kickoff Meeting for the VA IT Campus Operations 
+and Support Services.” The Contractor shall submit the final updated presentation to 
+the CO for review and signature within three (3) calendar days after the meeting. The 
+Contractor shall also work with the CS, the Government’s designated note taker, to 
+prepare and distribute the meeting minutes of the kickoff meeting to the CO, COR and 
+all attendees within three (3) calendar days after the meeting. The Contractor shall 
+obtain concurrence from the CS on the content of the meeting minutes prior to 
+distribution of the document.
+
+5.2 VA IT CAMPUS WEB-SERVICES ENVIRONMENT PLATFORM SUPPORT 
+The Contractor shall operate and support production and pre-production VA IT Campus
+sub-environments. Contractor shall provide at minimum three (3) full time equivalents
+for the requirements of PWS Section 
+5.2 effort inclusive of sub-sections 
+5.2.1 and 
+5.2.2. 
+5.2.1 VA IT CAMPUS PLATFORM OPERATIONS AND SUSTAINMENT SUPPORT
+The Contractor shall provide assistance and support for implementation, operation, 
+Section 508 compliance (IAW Section 508 website: http://www.section508.gov), and 
+minor changes of the VA IT Campus software infrastructure including website and 
+associated databases and interfaces. The Contractor shall provide continuous 
+availability of support during ITWD core business hours, 8:00 am through 5:00 pm EST, 
+Monday through Friday, excluding Federal holidays, for the requirements outlined 
+below. The Contractor shall:
+1. Perform daily scheduled and ad hoc Internet Information Services (IIS) 
+administrator and maintenance services to include:
+a. Using a Serverless architecture, support the distribution of client-side webbased code via AWS S3, CloudFront, etc.
+b. Operation and administration of Application Deployment technologies for 
+both Pre-Production and Production sub-environments
+c. Operation and administration of Web Content Management Systems; 
+maintenance and monitoring of all AWS related services to ensure 
+acceptable user performance and availability; perform troubleshooting and 
+provide responses to all system service-related application issues
+d. Operation and administration of application performance and maintenance 
+monitoring in regard to SaaS applications, storage, content streaming.
+e. Perform application troubleshooting for defect resolution and apply 
+manufacturer-recommended and VA-approved remediation as needed.
+f. Create and configure Secure Sockets Layer (SSL) Security Certificates 
+g. Monitor, troubleshoot, and remediate issues during all live studio events
+2. Perform daily scheduled and ad hoc system administration and maintenance of
+services (i.e., Cloudfront; DynamoDB; H.264/Advanced Video Coding; H265; 
+HTML5) to include:
+a. Troubleshoot hang/crash issues
+b. Configure cross-domain hypertext transfer protocol (HTTP) streaming
+c. Performance tuning
+d. Monitor, troubleshoot, and remediate issues during all live studio events
+3. Perform daily scheduled and ad hoc database administration and maintenance 
+services to include:
+a. Design, develop, implement, and modify database instances for the Test 
+and Production environments
+b. Monitor and maintain database security and database software
+c. Database application query and performance tuning
+
+d. Database replication and recovery
+e. Creation of database objects and stored procedures based on VAprovided requirements, such as creating stored queries for weekly 
+administrator reports
+f. Coordinate and implement database/schema changes to subenvironments (Test and Production) based on VA-provided requirements, 
+such as adding data fields to the database
+g. Monitor/manage space usage; perform capacity planning
+h. Monitor, troubleshoot, and remediate issues during all live studio events
+i. Develop and modify database queries based on VA-provided 
+requirements, such as creation of ad-hoc queries for one (1)-time 
+administrator reports
+j. Develop and run daily course completion queries to record credits earned 
+by users from the VA IT Campus in the VA Talent Management System 
+(TMS) via an Application Programing Interface (API). If a flat file approach 
+is used, this flat file shall be formatted as approved by TMS 
+administrators. 
+k. Perform database application troubleshooting to resolve defects in support 
+of Application Operations
+4. Perform daily scheduled and ad hoc Web and Graphics development and 
+maintenance services to include:
+a. Design, develop and test screen layouts, graphical user interfaces (GUI), 
+reports, and interfaces based on VA-provided requirements, such as 
+moving a screen icon to a different location
+b. Perform testing and analysis on applications and systems to identify and 
+resolve problems
+c. Design, configure, and modify cloud-based, fully serverless-architected, 
+web-based applications using HTML5, JavaScript, Angular, Vue + Nuxt, 
+JWPLAYER (or other comparable player), Node.JS, WebSockets, AWS 
+Lambda, AWS API Gateway, AWS Fargate, AWS Aurora RDS MySQL 
+Serverless, AWS DynamoDB, AWS MediaLive, AWS S3, AWS 
+CloudFront, AWS AI Transcribe - and which is based on VA-provided 
+product requirements, and which meets the requirements for federal 
+government IT systems, such as Federal Risk and Authorization 
+Management Program (FedRAMP), Federal Information Security 
+Management Act (FISMA), National Institute of Standards and Technology
+(NIST) 800-53, Section 508, etc.
+d. Monitor, troubleshoot, and remediate issues during all live studio events
+e. Ensure all functionality is available through desktop and mobile users, 
+using standard mobile devices, smart phones and tablets (e.g.,
+Blackberry, Android and Apple devices)
+5. Administer AWS cloud-based hosting services within the VA Enterprise Cloud 
+(VAEC) owned instance that meets FedRAMP requirements for standardized 
+security controls and assessments of cloud products and services (VA 
+Directive 6517, “Cloud Computing Services”), to administer all platform 
+
+elements of the VA IT Campus including all infrastructures to develop, test, 
+implement, and support the web-services and manage storage for on-demand 
+courses. The Contractor must adhere to the FedRAMP requirements at a 
+FISMA Moderate Risk Level (SeeFISMA references) which shall be 
+maintained throughout the Period of Performance. 
+6. Comply with VA Security Standards and Assessments and shall remediate 
+deficiencies noted during assessments in accordance with VA Directives 
+6500 and 6517. The hosting platform shall be accessible to end users on the 
+VA network and the public internet. The internet domain 
+(VAITCAMPUS.COM) is owned by VA. If future VA directives require it, the 
+Contractor shall assist with transitioning the online platform to a .GOV 
+platform. 
+ 
+7. Maintain and update the infrastructure to ensure the Authority to Operate 
+(ATO) for the hosting solution isn’t compromised and shall create all 
+necessary artifacts required for continued certification. The Contractor shall 
+facilitate the ATO process by remediating all deficiencies found during the 
+ATO approval process that are not in compliance with VA Directives 6102, 
+6500, and 6500.3. 
+8. Manage the Cloud environment for the VA IT Campus, broken down into four 
+(4) distinct sub-environments: 
+a. Production environment 
+b. Pre-Production environment including a Testing environment 
+c. Development environment 
+d. Accreditation environment 
+The hosting environment shall be a unique, separate, and isolated instance 
+within the AWS environment, but can be contained within the same Cloud 
+environment as Pre-Production, Accreditation, and Development, as long as 
+the Cloud environment is not shared with any other customer, (whether 
+Government or commercial) and not a shared hosted environment with any 
+other supported customer element. 
+ 
+9. Maintain a Production sub-environment that supports the following: 
+a. Storage and on-demand streaming for up to 500 recorded sessions 
+annually at an average of 500 Mega Bytes (MBs) per recorded session 
+package. 
+b. The ability to support up to 20,000 live event concurrent users and 
+connections through the web interface, for training, meeting or 
+conference sessions. 
+VA IT Campus Operations and Support Services
+VA-23-00081690
+Page 12 of 37
+10.Maintain the Pre-Production environment to support up to 30 concurrent 
+users, for testing purposes but should otherwise mirror the Production subenvironment described above.
+11.Support 24 hours per day / seven (7) days per week / 365 days per year 
+(24/7/365) streaming capability of on-demand recorded content. Notes: 
+Streaming bandwidth to the user is approximately 500 Kb/s for desktops and 
+900 Kb/s for mobile devices.
+ 
+12.Support live content delivery times of 8:00 AM through 5:00 PM Eastern 
+Standard Time (EST), Monday through Friday, excluding Federal holidays. 
+The Government estimates approximately 40, 60-to-90-minute live sessions 
+per month total for each instance. 
+13.In addition to permissions-based user access, occasional open public 
+broadcasts are required. The Contractor shall provide public 
+broadcast/webcast capabilities when approved by COR and Program 
+Manager (VA PM will obtain VA approvals to ensure compliance with VA 
+security operations). 
+5.2.2 VA IT CAMPUS WEB-SERVICES ENVIRONMENT PLATFORM SUSTAINMENT 
+SUPPORT
+The Contractor shall develop and implement emergency fixes, program/site 
+enhancements, and minor changes to the VA IT Campus application on a quarterly 
+basis, based on requirements from, and approved by, the COR, utilizing an Agile 
+software methodology. All approved emergency fixes, program/site enhancements, and 
+minor changes shall be tested by VA end users and Contractor staff for proper 
+functionality and for Section 508 compliance (IAW Section 508 website: 
+http://www.section508.gov) in the Test sub-environment before being promoted in 
+releases to the Production sub-environment. The Contractor shall provide a 
+Release/Change Management Plan to the COR which is required to contain release 
+control procedures and processes to report and track all defects, fixes, and changes for 
+each release, as well as ensure quarterly releases at a minimum. The Contractor shall 
+provide a configuration control process tool to automate Release/Change Management 
+procedures and tracking. The Contractor shall organize and conduct a per sprint Virtual 
+Environment Change Control Board (CCB) meeting with Government representatives 
+for VA-required and minor recommended system changes and provide meeting minutes 
+within five (5) calendar days after the meeting. The Contractor shall develop Software 
+Release Notes for every release including a list of requirements, changes and 
+defects/fixes for each release delivered, when the request to promote releases to 
+production is COR approved.
+
+
+The Contractor shall maintain the Cloud Hosting Production sub-environment to assure 
+95% availability for end users (excluding external network related failures/problems). 
+The Contractor shall report the VA IT Campus environment availability in the 
+Contractor’s Progress, Status and Management Quarterly Report (CPSMR).
+The Contractor shall develop all VA IT Campus emergency fixes, program/site 
+enhancements, and minor changes to be compatible with all existing VA IT Campus
+system software infrastructures. The VA IT Campus shall be maintained in a manner 
+that it can be integrated into a Government Cloud host provider in the event the solution 
+is migrated in the future. The Contractor shall perform backups of all VA IT Campus
+Environment software infrastructures to include website and associated databases
+monthly, and again at each software release, to a Contractor-provided repository, and
+provide rollback capability of data. The Contractor shall provide Backup Data (including 
+on-demand library courses) to the COR quarterly via digital delivery to VA storage 
+location. All Software Code shall be provided in the production format and as a text 
+document. Any additional software developed under this TO is the property of VA. The 
+Contractor shall use VA accepted applications and all reporting and sharing of 
+information shall be in Microsoft (MS) Office format.
+The Contractor shall implement the VA IT Campus environments into the PreProduction sub-environments and perform integration and user testing, including 
+functional and operational testing of the VA IT Campus environments. The Contractor 
+shall provide a Test Plan that includes system requirements/configuration, testing 
+procedures for VA users and VA administrators, expected results to test cases that map 
+to all requirements, and procedures to document findings denoting severity and priority. 
+Additionally, the Contractor shall test to ensure that the VA IT Campus application 
+accepts the signals emanating from the Main Production Studios at both respective 
+locations, is accessible from an outside internet connection, and that all aspects of the 
+VA IT Campus are operating correctly. The Test Plan shall be provided to the COR for 
+review and approval, and testing shall not begin until the Test Plan is approved by the 
+COR. 
+The Contractor shall provide a Test Reportdocumenting results of tests to the COR. 
+The Test Report shall include a list of known issues found during testing identified by 
+severity and method to remediate. The Contractor shall correct all identified defects, 
+within five (5) days of notification from the COR, to proceed with corrections. If 
+remediation will take longer than five (5) days, this shall be coordinated and approved 
+by the COR. A successful test is when all defects have been remediated, and the 
+system is able to provide media seamlessly. 
+The Contractor shall develop, implement, and test quarterly software releases for all 
+approved changes. Each quarterly release may consist of up to 10 Low Level of Effort 
+(LOE) changes, five (5) Medium LOE changes, and three (3) High LOE changes. 
+
+
+The types of changes that are required during performance have been further defined 
+below. 
+The complexity of the LOE required for each change shall be determined during the 
+monthly Virtual Environment CCB meeting through collaborative review and agreement 
+between COR and the Contractor. Selected changes shall be approved by the COR 
+prior to commencing. LOE examples are set forth below.
+Note: Items listed in the three (3) levels below are examples of previous items produced 
+for this tasking. They are not specific requirements for this task order.
+1. Examples of Low LOE changes are:
+a. Develop a feature that allows end users to turn on or off the open/closed 
+captioning features on all live and recorded events; this feature shall be 
+incorporated as a navigation button to allow end users to turn it on and off 
+and not have to leave an event.
+b. Develop a note feature to allow end users to take notes during events and file 
+them in a user’s “My Office” repository.
+c. Develop a “virtual” business card that end users can customize (name, email, 
+phone number, organization, job title, etc.) and exchange with other end 
+users when logged into the VA IT Campus.
+2. Examples of Medium LOE changes are:
+a. Develop the capability for VA IT Campus Environment administrators to 
+generate both automatic and manual HTML email notifications to end users 
+for site announcements and updates. All automatic emails shall be generated 
+from an administrative account with permissions granted to VA administrators
+and Contract administrators. Events driving automatic HTML email 
+notifications include user training registration, user password reset/reminder, 
+initiate user-to-user dialogue, business card forwarding. Events driving 
+manual HTML notifications include administrative communications to end
+users. All automatic email configuration parameters shall be able to be 
+updated through the Content Management System (CMS) tool for users with 
+the appropriate level of access.
+b. Develop/maintain an on-demand library that allows end users to view ondemand presentations, multimedia, resource links, posters, communications, 
+and links to external courses. The on-demand library shall include a listing of 
+recorded events for end users to watch at their convenience, a document 
+repository where end users can search for documents (posters, 
+communications, course downloads, etc.) by topic or keywords (e.g., 
+associated with their job), and an area where additional information (links to 
+websites, external documents, etc.) can be shared to end users. Note: A 
+comprehensive search engine shall be built into the system to provide a 
+learner friendly search feature where all on-demand content (videos, 
+documents, etc.) can be searched from one screen. On-demand content 
+shall support MS Office and Adobe file formats, HTML, and the following 
+
+video containers: Moving Picture Experts Group-4 compression (MP4), Third 
+Generation Partnership Project (3GPP), and WebM. All end users shall have 
+read-only access to the on-demand library and all content therein.
+3. VA IT Campus Examples of High LOE changes are:
+a. Develop an Exhibit and Networking Directory for end users to network with 
+other end users, share business cards, discuss topics and talk/chat with 
+presenters or offices on specific topics or areas. End users shall have the 
+ability to ask questions and get immediate responses or have questions 
+emailed to experts, send their electronic business card or end user’s contact 
+information (name, organization, email address, phone number) to other end 
+users. 
+b. Develop three (3) separate areas within the virtual environment that can 
+handle Conferences, Training, and Meetings respectively, accessible to the 
+user from the website landing page. Each virtual environment shall display a 
+graphical representation to the user based on event type, based on VAprovided requirements approved by VA.
+The Contractor shall conduct a functional and operational test of the VA IT Campus
+application at each software release, in the Test sub-environment, before requesting 
+User Acceptance Test (UAT) for each release. The Contractor shall ensure that all 
+learner interfaces shall remain Section 508 compliant prior to implementing software 
+release updates and changes in the Production sub-environment.
+The Contractor shall develop and provide a VA UAT Plan to the COR for each software 
+release with testing procedures for VA users and VA administrators. The UAT Plan shall 
+include testing procedures and expected results (test cases) to test all requirements and 
+functionality for each release, procedures to document findings, (severity and priorities), 
+system requirements/configuration, and a list of known issues found during testing 
+performed by the Contractor prior to VA-performed UAT. 
+The Contractor shall provide a Test Report to the COR for each software release which 
+includes the summary results of VA and Contractor UAT, test findings for all test cases 
+and test variance. The Test Report shall include a list of known issues found during 
+testing performed by the Contractor prior to VA-performed UAT as well as issues 
+identified during UAT. The Contractor shall correct all defects and issues found during 
+Contractor-performed testing or UAT, within five (5) working days.
+The Contractor shall provide a Cloud Hosting Services Description Document for all 
+cloud services implemented in the pre-production sub-environments, and all standards 
+necessary to maintain and support the infrastructures to include database requirements, 
+mail server, domain, bandwidth requirements, data storage and other capability deemed 
+necessary by the Contractor. 
+
+
+The Contractor shall provide an Environment Validation Report that documents 
+verification that all technical, functional, operational, and security requirements have 
+been met for the sub-environments. The following elements shall be included in the 
+Environment Validation Report: 
+1. Technical: Web-services, package storage and Virtual Machine configurations 
+and integration 
+2. Functional: Validation of PWS Functional Requirements 
+3. Operational: Validation of the resource capacity 
+4. Security: Develop a Plan of Action and Milestones for mitigating identified 
+security findings and vulnerabilities identified during Assessment and 
+Authorization (A&A) activities. 
+After COR review of the Environment Validation Report, the Contractor shall 
+address/resolve COR comments and deliver a final Environment Validation Report…
+Deliverables:
+A. Release / Change Management Plan
+B. Software Release Notes
+C. Backup Data
+D. Software Code
+E. Test Plan
+F. User Acceptance Test (UAT) Plan
+G. Test Report
+H. VA IT Campus Cloud Hosting Services Description Document 
+I. Environment Validation Report
+5.2.3 USER ONLINE SUPPORT TOOL
+The Contractor shall conduct quarterly reviews of the current User On-line (Help) 
+Support Tool, provide recommendations for improvements to the tool to COR during the 
+monthly Virtual Environment CCB meetings, to obtain COR approval of any 
+modifications prior to implementation of any changes. The Contractor shall incorporate 
+COR approved emergency fixes and modifications into the updates. All COR approved 
+emergency fixes and modifications made will be documented in the Software Release 
+Notes, required under Section 5.3.2. Online tools shall provide end users with the 
+procedures and “how to” for using all the functions in the VA IT Campus. Thereafter, the 
+Contractor shall update the User Online Support Tool with applicable changes effected 
+by software releases.
+Deliverables:
+A. User Online Support Tool
+
+5.3 VA IT CAMPUS SYSTEM DOCUMENTATION 
+The Contractor shall validate and provide input for all existing documentation, which will 
+be provided by the COR, for VA IT Campus production and pre-production subenvironments. The Contractor shall only use VA approved templates and formats.
+5.3.1 SYSTEM DESCRIPTION DOCUMENTATION
+The Contractor shall provide a System Update Manual Memo that identifies, provides
+updated information and outlines all components of the VA IT Campus configurations
+that are changed for VA staff to modify the System Description Document (Attachment 
+A) that includes the systems configuration, functionality, flows and specifications. This 
+shall include all aspects and functions of the VA IT Campus requirements in accordance 
+with PWS 5.3 and includes: System overview, platform connections (i.e., how the 
+website communicates with the databases), GUI, and the Government owned Studio 
+hardware and software interfaces. 
+Deliverables:

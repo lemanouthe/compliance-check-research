@@ -1,0 +1,452 @@
+1. DESCRIPTION OF SERVICES
+1.1. Background.
+The Air Force Medical Readiness Agency, Capability Development Division (AFMRA/SG5) has the 
+responsibility for capability development within the Air Force Medical Service (AFMS). 
+AFMRA/SG5 oversees capability development and integration to provide affordable, sustainable, and 
+integrated solutions to the warfighter and beneficiaries through capabilities-based assessments, 
+innovation, research and development, acquisition, operational, and program management support. 
+AFMRA/SG5 establishes strategies, guidelines, policies, and procedures for defining, developing, 
+documenting, and validating AFMS operational capability requirements, coordinates with enterprise 
+partners to execute a research and development portfolio, and conducts test and evaluation activities in 
+support of those portfolios.
+The Requirement Management Branch (AFMRA/SG5R) is responsible for identifying and prioritizing
+AFMS operational capability gaps, conducting Capabilities Based Assessments (CBAs), Analysis of 
+Alternatives (AoAs), Cost Analyses, and development of AFMS requirement documents in support of 
+the Surgeon General Requirements Oversight Council (SGROC) and in accordance with the Joint 
+Capabilities Integration and Development System (JCIDS).
+The AFMRA/SG5 Lifecycle Strategy Branch, Innovation and Transition Branch (SG5L-S) is 
+responsible for applying program management principles across the lifecycle spectrum of research and 
+development to include requirement generation and management, applied scientific research, basic and 
+applied sciences, advanced development, acquisition programmatics, test and evaluation, and 
+sustainment and logistics.
+The Force Development Division (AFMRA/SG1/8) supports the full spectrum of military 
+operations, and the AFMS readiness goal of maintaining medically ready Airmen, by ensuring 
+well-trained, well equipped, and current medics.
+The Command Support Staff (AFMRA/CSS) is responsible for coordinating operational and 
+administrative support and execution for 652 Headquarters-level personnel across 20 
+geographically separated units. The training administrator facilitates required training and oversees 
+the completion and documentation of standard training requirements across three databases for a 
+total of 5,000-plus items. Training administrators monitor and report delinquent or non-compliant 
+training to training managers and supervisors across 10 Air Force Surgeon General (AF/SG)
+subordinate organizations.
+1.2. Scope. 
+This requirement spans all areas of Research & Development (R&D) Support Services market 
+segment. The contractor shall provide non-personal, professional, and advisory and assistance for a 
+variety of medical research and development program management, requirements management, cost 
+analysis support, training administration, administrative and clerical management support. Program 
+technical areas will span, but are not limited to, Medical Simulation Technologies; Infectious 
+Diseases; Military Health, Performance, and Recovery; Joint Battlefield Healthcare; Radiation Health 
+
+Effects; Clinical & Rehabilitative Medicine; Chemical and Biological Readiness; Clinical 
+Investigations, Graduate Health Science Education, and Military Health System Research; Genomics 
+and Omics-based Research; and other Emerging Science and Technology. The Contractor shall 
+establish and maintain communication with all stakeholders involved with or influential to capability 
+development and integration as these services are non-performance based. Performance based 
+acquisition is not appropriate for this acquisition because the government requires a specific number of 
+employees in various labor categories to work with government employees.
+2. APPLICABLE DOCUMENTS
+DOCUMENT NAME
+Air Force Handbook (AFH) 33-337, The Tongue and Quill
+Joint Travel Regulation (JTR )
+Air Force Instruction (AFI) 33-322, Records Management Program
+Joint Capabilities Integration and Development System (JCIDS) Manual (2021)
+Air Force A5/7 Capability Development Guidebooks & Handbooks
+Department of Defense Instruction 5000 Series
+AFI 36-2651 AF Training
+3. CONTRACT REQUIREMENTS
+3.1. Support Services. The Contractor shall provide Program Management Support Services to 
+AFMRA/SG5 as described in the following paragraphs by task.
+3.1.1. TASK I – EXECUTIVE ADMINISTRATIVE SUPPORT
+The contractor shall provide one mid-senior level Executive Administrative Support to two 
+Government executives and approximately 40 personnel within the SG5 Capability Development
+Division, located at Defense Health Headquarters (DHHQ), 7700 Arlington Blvd., Falls Church, VA.
+3.1.1.1. Use office automation software, such as Microsoft Office, to create and edit documents, 
+presentations, graphics, tables, electronic drafts, and electronic mail. Update existing databases or 
+spreadsheets. Review, edit, and update documents to include checking for proper format, spelling, 
+grammar, capitalization, and punctuation. Prepare and submit documents in appropriate formats IAW 
+the latest Air Force Handbook (AFH) 33-337, The Tongue and Quill.
+3.1.1.2. Receive telephone calls, greet, and prepare for visitors, and determine the nature of the calls 
+or visits; screen for requests that can be handled without assistance. Update and maintain office 
+procedures to ensure effective and efficient operations. Assist division personnel in locating and 
+selecting the appropriate guidelines, references, and procedures for application to specific taskings and 
+inquiries. Ensure correspondence and communication with returned calls, emails, and faxes are 
+promptly addressed within one (1) business day.
+3.1.1.3. Manage division’s Temporary Duty (TDY) approval process. Coordinate and track all 
+division funded and cross organizational TDYs. Plan and coordinate travel arrangements for 
+executives within 24 hours of request in the Defense Travel System (DTS). Travel arrangements shall 
+include making reservations, scheduling transportation, securing protocol and area approvals, 
+preparing travel itineraries and preparing travel orders based on general travel intentions or known 
+preferences of the traveler IAW established travel regulations. All military and government civilian 
+travel must be IAW the Joint Travel Regulation (JTR ) for Department of Defense (DoD) Uniformed 
+
+Service members and Civilian Employees at:
+http://www.defensetravel.dod.mil/Docs/perdiem/JTR.pdf. 
+3.1.1.4. Maintain and collect requests for office supplies as requested and approved by the SG5 
+Division Chief or designee. All requests will be coordinated with the AFMRA/SG5 Government 
+Purchase Card Holder for ordering and receipt of supplies and equipment. 
+3.1.1.5. Attend meetings and record meeting minutes and action items as requested by the 
+government leads to ensure clear, concise, and accurate communication is documented in support of 
+decisions, recommendations and courses of action. Establish draft suspenses of all meeting actions. 
+Track and monitor all division’s administrative suspenses and dates to ensure all actions are completed 
+in a timely and efficient manner. Provide meeting minutes to the Government within five business 
+days of the conclusion of the meeting IAW CDRL A002 and corresponding DID. 
+3.1.1.6. Review, process, and route incoming and outgoing correspondence, reports, and other written 
+materials submitted for review and coordinate for signature as applicable. 
+3.1.1.7. Coordinate and schedule meetings and conference calls. Manage executives’ schedules and 
+calendars. Provide administrative support as needed at AF supported conferences (e.g., Military Health 
+System Research Symposium (MHSRS)).
+3.1.1.8. Assist the Government Records Custodian with record management including planning, 
+organizing, training, and managerial activities records creation, maintenance, use, and disposition in 
+accordance with Air Force Instruction (AFI) 33-322, Records Management Program.
+3.1.1.9. Manage Task Management Tool (TMT) managerial activities including planning, organizing, 
+training, coordination and distribution, and timely/accurate task completion.
+3.1.1.10. Maintain division’s SharePoint site ensuring up-to-date documents are organized, accurate, 
+and posted in a timely manner.
+3.1.2. TASK II –REQUIREMENTS ANALYST MANAGEMENT SUPPORT
+(CLASSIFIED) 
+Contractor shall provide three mid-level and one senior-level Requirement Management (RM) 
+Analysts to assist in requirements development and management services in support of 
+AFMRA/SG5R located at DHHQ, Falls Church, VA. Provide RM analysts to aid with business and 
+project planning to support deliberate planning process at the enterprise level and in support of AF/SG 
+and nine Major Commands Surgeons General (MAJCOM/SGs). Assist the Government with 
+organizing, facilitating, and managing Integrated Process Teams (IPTs) and High-Performance Teams 
+(HPT), Joint Capabilities Integration and Development System (JCIDS) document development IAW 
+the JCIDS Manual instructions and applicable AF policies and instructions and other related activities
+across all AF medical readiness domains. 
+3.1.2.1. Assist in leading the development of AFMS, MAJCOM/Functional CBAs and other analysis 
+or studies through planning, coordinating, and facilitating IPTs and HPTs. Organize and coordinate all 
+aspects of an IPT, HPT or CBA. The IPT is a precursor to the HPT and may be conducted via 
+teleconference with the sponsor. The HPT event adequately captures, articulates, and enables 
+documentation of the sponsors’ capability gaps and aids in definition of the operational requirements. 
+Document facilitated sessions, record, and track action items by efficiently gathering required 
+information, preparing, and coordinating the CBA final report IAW CDRL A006 and corresponding 
+DID for final review and sponsors’ signature within 30 calendar days from the conclusion of the HPT 
+event. 
+
+3.1.2.2. Review AFMS requirements and provide detailed alignment assessments using established 
+AFMS strategic map and other strategic guidance as provided by AFMRA/SG5 leadership.
+3.1.2.3. Provide the facilitation, research, analysis, and documentation necessary to deliver 
+requirements documents to government for approval. In performance of this task, collaborate with the 
+functional sponsor and applicable government SMEs/offices. The Contractor shall adjudicate 
+coordinated document comments in coordination with the sponsor(s) and ensure the documentation is 
+accurate and complete before submission to the government.
+3.1.2.4. Gather required information to prepare, coordinate, and complete JCIDS requirements
+documentation for approval and signature within 30 calendar days from the conclusion of the HPT
+event. Requirements documentation may consist of, however is not limited to, the CBA; Initial 
+Capabilities Document (ICD); Information Systems ICD (IS-ICD); Capability Development 
+Document (CDD); CDD Update; Information Systems CDD (IS-CDD); Operational Needs Statement 
+(ONS); Joint Doctrine, Organization, Training, materiel, Leadership and Education, Personnel, 
+Facilities, and Policy (DOTmLPF-P) Change Recommendation (CR), Joint Urgent Operational Need 
+(JUON); or Joint Emergent Operational Need (JEON). 
+3.1.2.5. Liaise with stakeholders and gather required information to ensure requirements projects are 
+started and completed within approved timeframes. Prepare documents and presentations. Gather, 
+review, and provide briefings to the AFMRA, and HAF leadership.
+3.1.2.6. Obtain and maintain Secure Internet Protocol Router Network (SIPRNET) access/account for 
+JCIDS classified communication. Review and manage taskings, JCIDS requirement documents, and 
+other official documents received for coordination on SIPRNET. Support document reviews process, 
+ensure proper coordination with the stakeholders (i.e., SGROC voting members and functional 
+experts). Collect and consolidate inputs. Provide additional comments and submit the comment 
+resolution matrix document to the government for review and final approval. Submit government 
+approved comments via SIPRNET organizational box, Information and Resource Support System
+(IRSS) or other classified information management system. 
+3.1.2.7. Develop, review, and edit documents and reports to include ensuring correct content, format, 
+spelling, grammar, and punctuation. Prepare and submit documents in appropriate formats IAW the 
+JCIDS manual, Air Force A5/7 Capability Development Guidebooks & Handbooks, and other 
+applicable guidance.
+3.1.2.8. Organize, electronically file, and monitor all requirements generation projects and report 
+progress updates to the government upon request or during scheduled staff meetings.
+3.1.2.9. Attend meetings, conferences, and seminars that routinely include MAJCOM and other DoD 
+agencies participation to assist the Government in the formulation and development of AFMS 
+capabilities-based planning in support of the development of strategic goals, as well as aid in 
+identification of AF and DoD medical requirements. The RM analyst will assist the Government with 
+organizing, facilitating, and managing IPTs, HPTs, staff meetings, SGROC, Capability Development 
+Oversight Group (CDOG), and other senior level meetings.
+3.1.2.10. Use the JCIDS to drive AFMS medical modernization, Joint Staff initiatives, CBAs and 
+future strategic planning to meet the National Defense objectives. 
+3.1.2.11. Assist in establishing processes and procedures to improve requirements document 
+development to maximize operational capability and support to the warfighter.
+3.1.2.12. Assist in developing informational and decision papers and executive briefings that clearly 
+describe the requirements in the appropriate level of detail for AFMS Governance to understand the 
+
+capability supported by the potential solution, the alternatives, their business impacts and benefits, and 
+the implications to the users.
+3.1.2.13. Research and remain abreast of DoD and industry best practices and guidelines in deriving 
+user requirements.
+3.1.2.14. Manage JCIDS requirement documents on the Government provided SharePoint site or 
+other designated storage location.
+3.1.2.15. Provide subject matter expertise and technical, administrative, editorial, and graphics 
+assistance, as necessary, for the purpose of preparing reports; studies; analyses; and briefs on various 
+financial, administrative, and business process matters related to capability development management 
+and processes. Such work may encompass but is not limited to conducting information searches; 
+scientific, medical, financial, and technical writing; editing; graphics preparation; and report layout 
+and production.
+3.1.2.16. Prepare Government for solution pathway decisions by conducting and producing reports on 
+current market capabilities aligned to requirements using best practices for Market Research per the 
+Defense Acquisition University guidelines.
+3.1.3. TASK III –TRAINING and STAFF DEVELOPMENT SUPPORT
+3.1.3.1. Training Specialist III. The contractor shall provide a Training Specialist III in support of 
+AFMSA/CSS located at DHHQ, Falls Church, VA. Monitor and document compliance via the 
+appropriate tracking system (i.e., Air Force Training Record (AFTR), Air Force Information 
+Management Publishing Tool, Advanced Distributed Learning Service (ADLS), Joint Knowledge 
+Online (JKO), etc.) or other methodology which includes using various automated software, accessing 
+different training systems and entering appropriate data.
+3.1.3.1.1. Assists the Program Manager (PM) in the management of the AFMS electronic training 
+records of approximately 30,000 AF enlisted service members holding 17 medical specialty ratings. 
+Create ad-hoc reports to assist the government with determining the status of medical readiness 
+training. Aid programmers/analysts in program development, testing and implementation of 
+application features and support system release roll- outs ensuring functionalities are operationally 
+effective.
+3.1.3.1.2. Schedule conference rooms and set up required audio-visual equipment for meetings and 
+trainings.
+3.1.3.1.3. Review and coordinate AFMS Career Field Training and Education Programs (CFETPs) 
+with Career Field Managers to ensure that they are in compliance with AFI 36-2651 AF Training 
+Program prior to new CFETPs upload into AFTR.
+3.1.3.1.4. Review E-Publications to ensure that AFTR has the most current dated CFETPs and 
+Changes uploaded.
+3.1.3.1.5. Utilize the Administrator Toolset within ADLS to resolve users syncing issues with ADLS 
+and AFTR.
+3.1.3.1.6. Provide training and technical help desk assistance and support for incoming queries and 
+issues related to the AFTR program. Help desk responsibilities include ensuring the accuracy and 
+integrity of the program, including data input and output, technology management, and training and 
+support; guiding users through problem-solving processes; following-up with users to ensure issues 
+have been resolved; writing training manuals and developing instructional tools to assist users with 
+navigation throughout the program; and maintaining trouble ticket log and develop trend analysis for 
+
+recurring issues. Respond to user queries via the AFTR Workflow e-mail box or over the phone for 
+users seeking assistance.
+3.1.3.1.7. Evaluate and analyze System Change Requests (SCRs) for feasibility and submit to the 
+AFTR Program Managers Air Force Civil Engineer Center for coordination with the AFTR 
+Configuration Control Board (CCB).
+3.1.3.1.8. Attend and provide input from AFMS users at AFTR CCB meetings.
+3.1.3.1.9. Conduct AFTR training sessions either in a formal class setting or via Defense Connect 
+Services.
+3.1.3.2. Training Administrator. The contractor shall provide a Training Administrator in support 
+of AFMSA/CSS located at DHHQ, Falls Church, VA. Provide training and technical assistance with 
+staff development and perform the following duties:
+3.1.3.2.1. Assists the unit training manager and commander support staff to include new member in 
+and out processing, ancillary training tracking, scheduling and facilitating newcomer’s orientation, and 
+speaker coordination and agenda development for various meetings and training events.
+3.1.3.2.2. Monitor and document training compliance via the appropriate tracking system (i.e., 
+AFTR, ADLS, JKO, or other methodology which includes using various automated software) 
+accessing different training systems and entering appropriate data.
+3.1.3.2.3. Report compliance to the government oversight and unit training manager on a weekly 
+basis covering all aspects and types of training for military and civilian personnel, including but not 
+limited to ADLS certifications for active duty, civilians and contractor personnel, Suicide Prevention, 
+Newcomers Orientation, Resiliency/Green Dot training.
+3.1.3.2.4. Plan, organize and facilitate Newcomers Orientation, Green Dot Training, and Resilience 
+Training. Track numbers of personnel trained, maintain sign in rosters, and report training compliance 
+as required.
+3.1.4. TASK IV – COST ANALYSIS SERVICE SUPPORT
+The contractor shall provide one mid-level and one senior level cost analyst in support of 
+AFMRA/SG5R at DHHQ, Falls Church, VA. Provide cost life cycle management expertise in support 
+of program requirements managers, project planning activities, and deliberate planning processes at an 
+enterprise level. Perform the following duties: 
+3.1.4.1. Provide day-to-day operational analysis support to include responding to urgent and shortnotice taskers and attending and participating in IPTs, HPTs, internal and external strategic meetings, 
+including SGROC, CDOG, and others as determined by AFMRA/SG5. 
+3.1.4.2. Prepare cost estimates in support of joint or AFMS medical modernization portfolio and 
+acquisition programs. Provide cost analysis support in the areas of IM/IT, Defense Acquisition, 
+Science & Technology, Research and Development Investment Strategy, and Medical Readiness. 
+Perform alternative and affordability analysis to include excursions and sensitivity analysis using 
+historical performance models, cost models, and program metrics. All reports are due 10 business days 
+after request from the government IAW CDRL A007 and corresponding DID.
+3.1.4.3. Assess cost and budget impacts of program alternatives, prepare briefings in accordance with 
+the established guidelines, and expertly present the information to the senior leadership, including the 
+members of the SGROC.
+3.1.4.4. Conduct cost analyses in support of the following analyses: Work Breakdown Structure 
+(WBS), Business Case Analysis (BCA), Life Cycle Cost (LCC), Cost as an Independent Variable 
+
+(CAIV), Cost benefit/cost risk analyses, affordability/supportability analysis, Market Research 
+analysis, commercial off the shelf product evaluation and analysis, Earned Value Management (EVM), 
+Return on Investment (ROI) analysis and Rough Order of Magnitude (ROM) estimates. All cost 
+estimates are due 10 business days after request from Government IAW CDRL A007 and 
+corresponding DID.
+3.1.4.5. Conduct interviews, research, data analysis, and translate technical/programmatic language 
+into cohesive written documents and presentations.
+3.1.4.6. Assist senior Government staff in the development of acquisition strategies, analyses, plans 
+and documents.
+3.1.4.7. Respond to queries, prepare reports, justifications and background papers as applicable to the 
+cost analyst duties.
+3.1.4.8. Provide project status progress updates weekly to the COR or leadership unless individuals 
+are on travel or otherwise out of the office. Progress updates will be prepared and delivered at a date 
+set forth by the PM or COR.
+3.1.5. TASK V – CAPABILITY DEVELOPMENT PROGRAM MANAGEMENT SERVICE 
+SUPPORT 
+Provide two Program Manager Level II support personnel to monitor, coordinate, and plan projects 
+within the AFMRA/SG5 Lifecycle Strategy Branch, Innovation and Transition Branch (SG5L-S) and 
+Requirements Management Branch (SG5R) at DHHQ in Falls Church, VA.
+3.1.5.1. Provide subject matter expert (SME) and demonstrate comprehensive knowledge across the 
+Defense Acquisition System including Requirements, Research & Development and Acquisition, and 
+Planning, Programming, Budget & Execution.
+3.1.5.2. Coordinate the CDOG and SGROC meetings in concert with AFMRA/SG5 leadership. 
+Responsible for all administrative and logistical actions in coordination of the CDOG and SGROC, 
+both of which meet no less than quarterly or as required, to include preparation of read-aheads, slide 
+presentations, documentation of proceedings, video and teleconferencing, and logistical requirements 
+(i.e., venue location and set-up). Provide administrative support for the strategic oversight and 
+guidance of execution activities funded by Defense Health Program (DHP) Research, Development, 
+Testing and Evaluation (RDT&E) resources.
+3.1.5.3. Maintains and coordinates CDOG and SRGOC meeting schedules to meet organization 
+needs.
+3.1.5.4 Maintains and coordinates meeting schedules to meet organization needs.
+3.1.5.5. Executes administrative and logistical actions including securing meeting venue, drafting and 
+sending meeting invitations, agenda approval and distribution, organizing read-ahead materials and 
+draft and final slide presentations for meetings. Conduct administrative, logistical and collaboration 
+with internal and external customers (i.e., SG5R, SG5L-S, MAJCOMs, and other Agency members).
+3.1.5.6. Create and route meeting minutes and memorandums for coordination/signature of CDOG 
+and SGROC Chair(s) via SG5R and/or SG5L-S leadership. Distribute approved and signed 
+memorandums to the respective forum’s voting members within the timeframe specified in the 
+applicable charter.
+3.1.5.7. Update and maintain the CDOG and SCROC membership contact list. Manage CDOG and 
+SGROC RMCT required training of voting members.
+3.1.5.8. Attend conferences, seminars, and working groups that routinely include MAJCOM and 
+other DoD agency participation to formulate and develop joint and AFMS strategies.
+
+3.1.5.9. Conduct required research in preparation of draft requirement documents. Coordinate 
+policies and procedures using JCIDS and all applicable directives.
+3.1.5.10. Prepare status updates as required by Division Chief; SG5R; SG5L-S; SGROC Voting 
+Members, AFROC, and the JROC as reported by SG5R.
+3.1.5.11. Assist SG5R and SG5L-S leadership in the collection and organization of information from 
+a variety of sources. Gather input from Government and Contractor SMEs. 
+3.1.5.12. Attend division leadership meetings as requested; set-up meeting rooms and equipment, 
+record meeting minutes, track and report on open action items and follow-up until closure.
+3.1.5.13. Assist with the management of the AFMS Innovation Program, including the development 
+of and implementation of the division’s innovation strategies in concert with Government 
+stakeholders. Interface with internal and external Government and Industry stakeholders towards the 
+execution of innovation strategies. Establish relationships with inter- and intra-agency partners (i.e., 
+AFWERX, SBIR/STTR (Small Business Innovation Research/ Small Business Technology Transfer) 
+programs, etc.), and partner with innovation transition stakeholders across the RD&A, Logistics, and 
+end-user communities.
+3.1.5.1.14. Provide monthly status report No Later Than (NLT) 5th of the month for the previous 
+month to the COR IAW CDRL A003 and corresponding DID.
+3.1.6. TASK VI – INTEGRATION PROGRAM MANAGEMENT SERVICE SUPPORT
+Provide one Program Manager Level III support personnel to monitor, coordinate, and plan projects 
+within the AFMRA/SG5 Lifecycle Strategy Branch, Innovation and Transition Section (SG5L-S) at
+DHHQ in Falls Church, VA.
+3.1.6.1. Serve as Subject Matter Expert (SME) and demonstrate comprehensive knowledge of several 
+related fields across the Defense Acquisition System including Requirements, Research & 
+Development, Acquisition, and Planning, Programming, Budget & Execution.
+3.1.6.2. Manage all project-related information for AFMS-funded or managed projects and programs 
+that are anticipated to develop a materiel solution for entry into the AFMS RD&A portfolio, and serve 
+as the AFMRA/SG5 point of contact (POC) to collect, review, document, and share project related 
+information and identify and address antiquated or missed information with Government points of 
+contact, project managers, principle investigators, subject matter experts, end-users, and other 
+stakeholders. Schedule, facilitate, conduct, and document project reviews with leadership, briefers, 
+subject matter experts, and other stakeholders.
+3.1.6.3. Interface with research agencies, MAJCOM/SGRs, and Air Force Lifecycle Management 
+Center Aeromedical Branch (AFLCMC/WNU) to collect, manage, and maintain programmatic, 
+regulatory, and financial information on medical projects and programs managed under the auspice of 
+AFMRA/SG5. Assist the 711th Human Performance Wing (711 HPW) and Defense Health Agency 
+Deputy Assistant Director Research & Engineering (DAD/R&E) and Acquisition & Sustainment 
+(DAD/A&S) with the research-related activities that have AFMS equity.
+3.1.6.4. Update and maintain project and program spreadsheet/databases and associated projectspecific documents such as Technology Readiness Assessments (TRAs),Technology Transition 
+Agreements (TTAs), and other similar documents in coordination with the 711 HPW; develop a filing 
+strategy and maintain project documents on a shared drive, SharePoint or other designated storage 
+location, in an organized format. Ensure authorized stakeholders are provided access to project 
+information and information is properly archived.
+3.1.6.5. Review project information and interface with the project OPR(s) to update TTAs and other 
+documents on an annual basis or more frequently as needed by project or programchanges in 
+
+coordination with the 711 HPW. Provide project or program information to management when 
+requested and assist with planning of funding and transition for projects. Identify projects that require 
+a TRA and assist with scheduling a review. Maintain version control of documents and information.
+3.1.6.6. Liaise with AFMRA/SG5R to understand requirements and capability gaps for materiel 
+research. Coordinate with AFLCMC/WNU and Engineering, Test, and Sustainment Services Branch 
+(SG4E) for program management, clinical engineering, medical maintenance, and operational test and 
+evaluation to further lifecycle sustainment, acquisitions, and capability development needs strategies 
+for materiel product development. Coordinate with AFMRA/SG4 or DHA MEDLOG offices to 
+leverage procurement and sustainment strategies for materiel product development.
+3.1.6.7. Manage AFMS Innovation Program, including the development of and implementation of the 
+division’s innovation strategies in concert with Government stakeholders. Interface with internal and 
+external Government and Industry stakeholders towards the execution of bringing forth innovative 
+research that support capabilities required by the AFMS/warfighter. Establish relationships with interand intra-agency partners (i.e., AFWERX, SBIR/STTR programs, etc.), and partner with innovation 
+transition stakeholders across the RD&A, Logistics, and end-user communities.
+3.1.6.8. Maintain coordination with 711 HPW including, attend coordination and review meetings 
+(i.e., MAL, CDWG, Space Consortium, ABC, etc.); keep the SG5 Division Chief, SG5L-S Branch 
+Chief, and HAF/SG Chief Scientist apprised of portfolio progress; and maintain sufficient 
+programmatic understanding to contribute to AFMS Requirements Solution Pathway Decision 
+discussions and AFMS DHP portfolio PPBE planning. 
+3.1.6.9. Maintain coordination with Joint R&D programs including attendance at In-Progress 
+Reviews (IPR) and Review and Analysis (R&A) meetings. Assist with preparing the SG5 Division 
+Chief and HAF/SG Chief Scientist for Joint executive forums; and maintain sufficient programmatic 
+understanding to contribute to AFMS Requirements Solution Pathway Decision discussions and 
+AFMS DHP portfolio PPBE planning. 
+3.1.6.10. Assist government with planning, tracking, and submission of RDT&E financial planning 
+and execution via document preparation for Program Objective Memorandum (POM) cycles and 
+within year-of-execution budget and execution activities, as well as obligation and expenditure rates 
+and reporting activities.
+3.1.6.11. Maintain relationships with primary stakeholders, assist with development, tracking and 
+updates to interagency agreements and other partnership mechanisms and events.
+3.1.6.12. Provide monthly status report NLT the 5th of the month for the preceding month to the 
+COR IAW CDRL A003 and corresponding DID. 
+3.2. Minimum Qualifications: The Contractor shall provide personnel with the minimum 
+qualifications listed below:
+3.2.1. TASK I – EXECUTIVE ADMINISTRATIVE SUPPORT.
+3.2.1.1. The Contractor shall have an associate degree in science such as communication, business 
+management or administration, or related degree. 
+3.2.1.2. The contractor shall have a minimum of 4 years of related work experience in preparing and 
+editing executive documents. 
+3.2.1.3. The contractor shall have a minimum of 4 years of related work experience in working with 
+senior level DoD, other federal government agencies, or private sector companies. 
+3.2.1.4. Skilled in verbal and written communication.
+3.2.1.5. Knowledgeable in software applications to include MS-Office and SharePoint.
+
+3.2.1.6. Proficient in coordinating video and audio conference calls and maintaining webpages and 
+databases.
+3.2.1.7. Experience with working with TMT and the DTS. The Contractor must complete DTS, TMT 
+and Action Officer (AO) training within 60 calendar days (or next available class) of start date.
+3.2.1.8. Must have an active favorable Tier I (T1).
+3.2.2. TASK II - REQUIREMENTS ANALYST MANAGEMENT SUPPORT (CLASSIFIED).
+3.2.2.1. The three Mid-Level position shall have a bachelor's degree in sciences such as business 
+administration, business management, project management, information technology, healthcare 
+management, logistics, acquisition, or Science, Technology, Engineering, Mathematics (STEM) 
+related field and 5 years of work-related experience in requirements development, lifecycle 
+coordination, or acquisition.
+3.2.2.2. The one Senior-Level position shall have a bachelor's degree in sciences such as business 
+administration, business management, project management, information technology, healthcare 
+management, logistics, acquisition, or STEM related field and 8 years of work-related experience
+requirements development, lifecycle coordination, or acquisition.
+3.2.2.3. Proficient computer skills, including MS-Office and Share Point required.
+3.2.2.4. Excellent oral and written communication skills; experience briefing senior leaders and the 
+ability to interface with all levels of personnel; experience writing technical documentation, operating 
+instructions, policy memorandums, concept of operations and capabilities development documents.
+3.2.2.5. Ability to communicate effectively with senior government and non-government personnel.
+3.2.2.6. Experience in developing analytical framework for analysis and leading/facilitating teams or 
+studies, IPTs, and HPTs.
+3.2.2.7. Familiarity with JCIDS and DoD requirements generation process or RMCT. If not already 
+certified, required online training must be completed within 60 calendar days of in-processing.
+3.2.2.8. Must have an active favorable Tier 3 (T3).
+3.2.3. TASK III –TRAINING AND STAFF DEVELOPMENT SUPPORT
+3.2.3.1. Training Specialist III-Falls Church, VA.
+3.2.3.1.1. The contractor shall have a bachelor's degree in Management, Education, or Information 
+Technology.
+3.2.3.1.2. Three years of relevant experience in training and administrative support.
+3.2.3.1.3. Three years in training development/tracking.
+3.2.3.1.4. Must communicate effectively with senior government and non-government personnel.
+3.2.3.1.5. Must have an active favorableT1.
+3.2.3.2. Training Administrator-Falls Church, VA.
+3.2.3.2.1. The contractor shall have an associate degree in Administration, Management, Education, 
+Information Technology or similar degree.
+3.2.3.2.2. Three years of related work experience in facilitating audio/visual conferencing and 
+training development/tracking.
+3.2.3.2.3. Must communicate effectively with senior government and non-government personnel.
+3.2.3.2.4. Must have an active favorableT1.
+3.2.4. TASK IV –COST ANALYSIS SERVICE SUPPORT.
+
+3.2.4.1. The contractor shall have a bachelor's degree in science such as Finance, Accounting, 
+Statistics, or related discipline.
+3.2.4.2. The one Mid-Level position shall have 4 years’ experience in the financial analysis and 
+competency in the two or more of following analyses: ROI, ROM, WBS, BCA, LCC, CAIV, AoA, 
+cost benefit/cost risk analysis, affordability/supportability analysis.
+3.2.4.3. The one Senior-level position must have 8 years’ experience in the financial analysis and 
+competency in the two or more of following analyses: ROI, ROM, WBS, BCA, LCC, CAIV, AoA, 
+cost benefit/cost risk analysis, affordability/supportability analysis.
+3.2.4.4. Proficient in MS Office applications and MS Project Software.
+3.2.4.5. Excellent interpersonal skills: ability to work independently, and as a team member; ability to 
+establish a network of contacts.
+3.2.4.6. Excellent oral and written communication skills; experience briefing senior leaders and the 
+ability to interface with all levels of personnel; experience writing technical documentation, operating 
+instructions, policy memorandums, concept of operations or capabilities development documents.
+3.2.4.7. Must demonstrate the ability to meet the requirements of this PWS section 3.2.5. without 
+further training, except for familiarization of policies and procedures that govern the Air Force Medical 
+Service.
+3.2.4.8. Prior cost analysis experience in support of DoD acquisition programs.
+3.2.4.9. Must have an active favorable T1
