@@ -1,0 +1,1 @@
+Security baselines and hardening guides should be followed for server and network equipment.

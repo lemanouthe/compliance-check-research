@@ -1,0 +1,1 @@
+Users should receive recommendations based on their browsing and purchase history.

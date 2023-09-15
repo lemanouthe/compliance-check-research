@@ -1,0 +1,1 @@
+Users should receive order confirmation emails with detailed information.

@@ -1,0 +1,1 @@
+Data backups should be encrypted and regularly tested for recovery.

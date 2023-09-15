@@ -1,0 +1,1 @@
+It must support multiple languages and regional settings for international users.

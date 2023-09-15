@@ -1,0 +1,1 @@
+It must support integration with external data sources through APIs or data connectors.

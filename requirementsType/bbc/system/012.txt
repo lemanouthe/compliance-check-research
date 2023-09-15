@@ -1,0 +1,1 @@
+It should support the latest versions of major web browsers, including Chrome, Firefox, Safari, and Edge.

@@ -1,0 +1,1 @@
+Test scripts and configurations should be version-controlled.

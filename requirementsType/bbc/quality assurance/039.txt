@@ -1,0 +1,1 @@
+Data integrity checks should be implemented to prevent data corruption.

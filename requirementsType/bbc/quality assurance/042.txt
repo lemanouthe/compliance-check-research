@@ -1,0 +1,1 @@
+Automated testing tools and frameworks should be utilized.

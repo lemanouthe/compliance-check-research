@@ -1,0 +1,1 @@
+The system must allow users to add items to a shopping cart.

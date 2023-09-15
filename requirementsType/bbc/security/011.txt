@@ -1,1 +1,1 @@
-Review all security patches relevant to the IT environment and classify the need and speed in which the security patches should be installed as defined by security policies.
+The system must implement strong authentication mechanisms for user access.

@@ -1,1 +1,1 @@
-Review, edit, and update documents to ensure proper format, spelling, grammar, capitalization, and punctuation.
+Regular code reviews should be conducted to identify and address issues.

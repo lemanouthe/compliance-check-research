@@ -1,0 +1,1 @@
+It must support user consent management for data processing.

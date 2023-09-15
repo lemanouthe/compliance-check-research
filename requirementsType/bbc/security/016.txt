@@ -1,0 +1,1 @@
+All data transmission must use secure protocols like HTTPS or SSH.

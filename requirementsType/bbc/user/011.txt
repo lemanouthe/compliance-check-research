@@ -1,1 +1,1 @@
-Handle telephone calls and visitors efficiently, screening for requests that can be handled without assistance.
+Users must be able to create a new account with a unique email address.

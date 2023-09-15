@@ -1,0 +1,1 @@
+Physical access controls should be enforced for data center and server room entry.

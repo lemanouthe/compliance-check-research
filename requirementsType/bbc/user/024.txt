@@ -1,0 +1,1 @@
+Users should be able to filter product search results by various criteria.

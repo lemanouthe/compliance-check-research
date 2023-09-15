@@ -1,0 +1,1 @@
+It must have a process for vulnerability scanning and patch management.

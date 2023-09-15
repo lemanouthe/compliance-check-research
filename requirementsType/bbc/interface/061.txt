@@ -1,0 +1,1 @@
+The system's user interface (UI) should be designed to be intuitive and user-friendly, following industry best practices for usability, including clear navigation menus, consistent layout, and easy-to-understand icons.

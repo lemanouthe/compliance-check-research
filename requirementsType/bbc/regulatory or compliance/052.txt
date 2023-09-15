@@ -1,0 +1,1 @@
+The system should have a process for verifying user identities in compliance with KYC regulations.

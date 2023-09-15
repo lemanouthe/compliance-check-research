@@ -1,0 +1,1 @@
+It must have a mechanism for detecting and responding to security threats.

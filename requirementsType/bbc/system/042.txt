@@ -1,0 +1,1 @@
+It must support secure session management and session timeouts.

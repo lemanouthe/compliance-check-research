@@ -1,0 +1,1 @@
+Users should be able to view and print order invoices.

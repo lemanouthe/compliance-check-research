@@ -1,0 +1,1 @@
+Third-party software components should be regularly assessed for vulnerabilities.

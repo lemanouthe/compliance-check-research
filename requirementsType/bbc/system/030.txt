@@ -1,0 +1,1 @@
+It must have a mechanism for user authentication and password management.

@@ -1,0 +1,1 @@
+Accessibility standards, like WCAG, must be followed for web-based systems.

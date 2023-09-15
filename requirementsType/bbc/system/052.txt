@@ -1,0 +1,1 @@
+It must support remote monitoring and alerting for system health.

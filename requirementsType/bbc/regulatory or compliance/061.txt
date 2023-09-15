@@ -1,0 +1,1 @@
+Users should be informed about any data transfers to countries outside the EU in compliance with GDPR.

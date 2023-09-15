@@ -1,0 +1,1 @@
+Security patches and updates must be promptly applied to all system components.

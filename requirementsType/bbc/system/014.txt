@@ -1,0 +1,1 @@
+It should provide failover mechanisms to ensure high availability in case of server failures.

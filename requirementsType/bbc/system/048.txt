@@ -1,0 +1,1 @@
+It must provide data masking and redaction capabilities for sensitive information.

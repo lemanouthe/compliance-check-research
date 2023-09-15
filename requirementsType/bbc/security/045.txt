@@ -1,0 +1,1 @@
+Regular security assessments should be conducted on third-party vendors.

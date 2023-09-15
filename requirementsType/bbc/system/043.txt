@@ -1,0 +1,1 @@
+The system should provide an audit trail of all user actions and changes.

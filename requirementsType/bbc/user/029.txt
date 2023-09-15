@@ -1,0 +1,1 @@
+It must support multiple shipping address options for users.

@@ -1,0 +1,1 @@
+Users should have the option to delete their accounts and personal data.

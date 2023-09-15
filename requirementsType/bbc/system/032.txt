@@ -1,0 +1,1 @@
+It must allow users to reset their passwords securely.

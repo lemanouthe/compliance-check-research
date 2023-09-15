@@ -1,0 +1,1 @@
+It must be able to recover from server crashes or failures within five minutes.

@@ -1,0 +1,1 @@
+It must offer user-friendly error messages and validation checks.

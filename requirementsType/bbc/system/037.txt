@@ -1,0 +1,1 @@
+The system should provide user-friendly error messages and notifications.

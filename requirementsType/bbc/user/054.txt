@@ -1,0 +1,1 @@
+Users should have the option to save multiple payment methods.

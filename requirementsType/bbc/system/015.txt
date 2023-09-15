@@ -1,0 +1,1 @@
+The system should use a load balancing mechanism to distribute incoming traffic across multiple servers.

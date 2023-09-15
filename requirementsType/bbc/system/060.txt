@@ -1,0 +1,1 @@
+It must have a disaster recovery plan that includes regular testing.

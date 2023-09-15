@@ -1,0 +1,1 @@
+It must have a process for reporting and handling security incidents.

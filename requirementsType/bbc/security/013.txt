@@ -1,1 +1,1 @@
-The following identifies Security Management roles and responsibilities associated with Service  Delivery: Ensure that all IT security functions are routinely inspected and reported as part of Quality Control and Quality Assurance and shall maintain security requirements, standards, procedures, and policies including regulatory requirements.
+Access to sensitive data must be restricted based on user roles and permissions.

@@ -1,0 +1,1 @@
+User acceptance testing (UAT) should involve end-users in validating system functionality.

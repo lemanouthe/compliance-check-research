@@ -1,0 +1,1 @@
+Network segmentation should be implemented to isolate critical assets.

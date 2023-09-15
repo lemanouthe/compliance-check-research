@@ -1,0 +1,1 @@
+Secure coding practices should be followed during software development.

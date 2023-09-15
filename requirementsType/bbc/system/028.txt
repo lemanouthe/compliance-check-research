@@ -1,0 +1,1 @@
+It must support remote administration and monitoring capabilities.

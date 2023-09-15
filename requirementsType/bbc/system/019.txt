@@ -1,0 +1,1 @@
+The system should maintain a log of all user activities and system events for auditing purposes.

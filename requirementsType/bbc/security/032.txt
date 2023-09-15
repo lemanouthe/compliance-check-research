@@ -1,0 +1,1 @@
+Sensitive data should be classified and protected according to its level of sensitivity.

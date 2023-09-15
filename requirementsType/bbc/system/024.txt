@@ -1,0 +1,1 @@
+It must have firewall rules to restrict incoming and outgoing network traffic.

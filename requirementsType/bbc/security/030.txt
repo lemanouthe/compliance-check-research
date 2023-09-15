@@ -1,0 +1,1 @@
+A firewall should be in place to protect the system from external threats.

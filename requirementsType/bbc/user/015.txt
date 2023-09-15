@@ -1,0 +1,1 @@
+Users should be able to search for products by name, category, and price range.

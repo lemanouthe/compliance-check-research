@@ -1,0 +1,1 @@
+Users should receive real-time notifications for order status updates.

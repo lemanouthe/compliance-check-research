@@ -1,1 +1,1 @@
-Where required by ARPA-H the Contractor shall participate in industry security forums and user groups to remain up to date with current security trends, threats, common exploits and security policies and procedures.
+User passwords should be securely stored using industry-standard encryption.

@@ -1,0 +1,1 @@
+It must have an automated data archiving process to reduce database size.
