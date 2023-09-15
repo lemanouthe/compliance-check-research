@@ -1,0 +1,1 @@
+Handle telephone calls and visitors efficiently, screening for requests that can be handled without assistance.

@@ -1,0 +1,1 @@
+Interface elements should be intuitive for first-time users.

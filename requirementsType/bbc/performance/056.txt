@@ -1,0 +1,1 @@
+Browser rendering should not block critical content.

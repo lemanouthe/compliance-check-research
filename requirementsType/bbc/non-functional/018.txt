@@ -1,0 +1,1 @@
+Database storage should scale to support 5 years of data.

@@ -1,0 +1,1 @@
+The system must have an uptime of at least 99.9%.

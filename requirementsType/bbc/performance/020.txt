@@ -1,0 +1,1 @@
+The system should support data replication with a latency of under 5 seconds.

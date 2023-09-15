@@ -1,0 +1,1 @@
+The system must provide a user-friendly graphical user interface (GUI).

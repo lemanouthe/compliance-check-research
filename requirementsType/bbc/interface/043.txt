@@ -1,0 +1,1 @@
+The interface should be designed for quick data entry.

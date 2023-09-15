@@ -1,0 +1,1 @@
+The interface should include breadcrumbs for easy navigation.

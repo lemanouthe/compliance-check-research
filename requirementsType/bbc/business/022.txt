@@ -1,0 +1,1 @@
+Business stakeholders should have access to real-time performance metrics and KPIs.

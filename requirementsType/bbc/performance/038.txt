@@ -1,0 +1,1 @@
+Load testing should be conducted regularly to ensure performance benchmarks.

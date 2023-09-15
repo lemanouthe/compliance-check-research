@@ -1,0 +1,1 @@
+Error messages returned by APIs must be clear and informative.

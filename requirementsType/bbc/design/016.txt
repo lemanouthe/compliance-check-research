@@ -1,0 +1,1 @@
+Design must comply with accessibility standards for disabled users.

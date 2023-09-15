@@ -1,0 +1,1 @@
+The system should send order confirmation emails to users after successful checkout.

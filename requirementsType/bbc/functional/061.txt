@@ -1,0 +1,1 @@
+Admin users should have the capability to moderate and manage user-generated reviews.

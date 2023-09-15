@@ -1,0 +1,1 @@
+The system must respond to user inputs within 2 seconds for standard operations.

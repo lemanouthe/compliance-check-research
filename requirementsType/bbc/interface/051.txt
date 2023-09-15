@@ -1,0 +1,1 @@
+Users should have control over the level of detail displayed in reports.

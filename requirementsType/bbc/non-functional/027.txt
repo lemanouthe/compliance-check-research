@@ -1,0 +1,1 @@
+User authentication should use multi-factor authentication (MFA).

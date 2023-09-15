@@ -1,0 +1,1 @@
+Data exchange between system modules must follow JSON format.

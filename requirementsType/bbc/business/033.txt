@@ -1,0 +1,1 @@
+It should support remote training and onboarding for new employees.

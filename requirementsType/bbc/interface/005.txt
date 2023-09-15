@@ -1,0 +1,1 @@
+The user interface must support multiple languages, including English, Spanish, and French.

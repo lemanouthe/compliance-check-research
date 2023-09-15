@@ -1,0 +1,1 @@
+The system should integrate with a secure payment gateway for processing transactions.

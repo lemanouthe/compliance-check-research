@@ -1,0 +1,1 @@
+User acceptance testing (UAT) must involve real users to validate functionality.

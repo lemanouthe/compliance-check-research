@@ -1,0 +1,1 @@
+The system must integrate with third-party payment gateways using standardized APIs.

@@ -1,0 +1,1 @@
+Interfaces with external systems must use secure encryption protocols.

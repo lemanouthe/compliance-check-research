@@ -1,0 +1,1 @@
+Images and media files must load within 3 seconds on user interfaces.

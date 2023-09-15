@@ -1,0 +1,1 @@
+The design must follow the Model-View-Controller (MVC) architectural pattern.

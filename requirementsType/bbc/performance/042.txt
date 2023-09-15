@@ -1,0 +1,1 @@
+User authentication and authorization checks must be efficient.

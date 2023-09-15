@@ -1,0 +1,1 @@
+Browser caching should be utilized for static assets.

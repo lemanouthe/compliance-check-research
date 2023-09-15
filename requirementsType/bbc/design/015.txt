@@ -1,0 +1,1 @@
+User interactions must be consistent throughout the system.

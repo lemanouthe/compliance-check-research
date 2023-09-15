@@ -1,0 +1,1 @@
+Search queries should return relevant results within 1 second.

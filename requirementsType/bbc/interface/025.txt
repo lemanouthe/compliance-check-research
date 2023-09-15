@@ -1,0 +1,1 @@
+Contextual menus should be available for right-click actions.

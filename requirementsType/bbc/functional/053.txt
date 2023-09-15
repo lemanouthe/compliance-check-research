@@ -1,0 +1,1 @@
+Users should be able to add items to their shopping carts and view the cart's contents.

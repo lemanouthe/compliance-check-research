@@ -1,0 +1,1 @@
+The system should respond to user queries within 2 seconds.

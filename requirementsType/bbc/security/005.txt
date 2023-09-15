@@ -1,0 +1,1 @@
+Security patches and updates must be applied within 30 days of release.

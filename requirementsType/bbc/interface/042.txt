@@ -1,0 +1,1 @@
+Data tables should support sorting and filtering options.

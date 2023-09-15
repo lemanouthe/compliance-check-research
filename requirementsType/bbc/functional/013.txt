@@ -1,0 +1,1 @@
+Users must enter their payment information during the checkout process.

@@ -1,0 +1,1 @@
+The system should easily accommodate a 50% increase in user load.

@@ -1,0 +1,1 @@
+Users should be able to complete the checkout process by providing shipping and payment information.

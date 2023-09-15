@@ -1,0 +1,1 @@
+System updates and patches should be applied within 1 week of release.

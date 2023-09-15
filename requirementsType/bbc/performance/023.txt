@@ -1,0 +1,1 @@
+Reports generation should not take longer than 10 seconds.

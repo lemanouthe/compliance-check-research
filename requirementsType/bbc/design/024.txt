@@ -1,0 +1,1 @@
+Animations and transitions must be smooth and non-disruptive.

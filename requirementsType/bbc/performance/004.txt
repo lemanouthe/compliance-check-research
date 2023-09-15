@@ -1,0 +1,1 @@
+The system must handle a minimum of 100 transactions per second during peak hours.

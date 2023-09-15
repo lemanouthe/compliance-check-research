@@ -1,0 +1,1 @@
+Critical system components should have failover mechanisms.

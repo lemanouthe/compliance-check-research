@@ -1,0 +1,1 @@
+The system must adhere to the Health Insurance Portability and Accountability Act (HIPAA) for healthcare data.

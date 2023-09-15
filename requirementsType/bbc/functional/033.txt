@@ -1,0 +1,1 @@
+Users should be able to leave items in their shopping cart for future purchase.

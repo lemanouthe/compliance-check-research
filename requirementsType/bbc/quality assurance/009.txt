@@ -1,0 +1,1 @@
+Load testing must simulate peak user loads to assess system performance.

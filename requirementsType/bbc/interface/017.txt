@@ -1,0 +1,1 @@
+Interface elements should adapt to different screen sizes and resolutions.

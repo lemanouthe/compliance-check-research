@@ -1,0 +1,1 @@
+The system should send automated email responses for customer support inquiries.

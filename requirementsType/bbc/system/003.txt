@@ -1,0 +1,1 @@
+The system must be compatible with Oracle Database version 19c.

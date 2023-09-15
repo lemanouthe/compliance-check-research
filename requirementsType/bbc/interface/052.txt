@@ -1,0 +1,1 @@
+Interfaces must have clear error messages and recovery options.

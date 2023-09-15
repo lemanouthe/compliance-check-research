@@ -1,0 +1,1 @@
+Registered users should have the ability to track their order's shipping status.

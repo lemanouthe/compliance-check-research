@@ -1,0 +1,1 @@
+Users should receive a final order confirmation email after checkout.

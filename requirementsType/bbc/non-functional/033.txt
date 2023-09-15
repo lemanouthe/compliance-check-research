@@ -1,0 +1,1 @@
+Help documentation should be easily accessible from within the system.

@@ -1,0 +1,1 @@
+Dropdown menus must be used for selecting options.

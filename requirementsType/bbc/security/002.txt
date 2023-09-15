@@ -1,0 +1,1 @@
+User passwords must be securely hashed and salted before storage.

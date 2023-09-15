@@ -1,0 +1,1 @@
+Users must be able to customize their profile by adding a photo and a description.

@@ -1,0 +1,1 @@
+Data encryption must be enforced for all sensitive data in transit and at rest.

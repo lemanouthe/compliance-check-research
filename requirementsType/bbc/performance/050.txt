@@ -1,0 +1,1 @@
+The system must handle high volumes of concurrent database transactions.

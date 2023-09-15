@@ -1,0 +1,1 @@
+Users must be able to follow other users and see their posts in their feed.

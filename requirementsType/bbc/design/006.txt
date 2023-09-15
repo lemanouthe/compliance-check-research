@@ -1,0 +1,1 @@
+The system must have a modular design to facilitate future updates.

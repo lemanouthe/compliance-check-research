@@ -1,0 +1,1 @@
+The system must monitor server resources and auto-scale as needed.

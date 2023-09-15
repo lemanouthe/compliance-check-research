@@ -1,0 +1,1 @@
+Charts and graphs must be interactive for data analysis.

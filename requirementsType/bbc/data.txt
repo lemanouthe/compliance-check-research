@@ -1,0 +1,125 @@
+business	003.txt	The system must reduce company operational costs by 15% within two years.
+business	002.txt	The system must enable rapid expansion into new geographic markets.
+business	014.txt	These responsibilities shall include, but are not limited to planning, budgeting, service management and delivery, and programmatic functions.
+business	001.txt	The system must support a 20% increase in company sales within the first year.
+business	011.txt	As ARPA-H continues to mature as an organization, ARPA-H and NIH executives want to ensure that ARPA-H can develop a full range of IT services, systems or capabilities, equipment, and technical support that is specific to performing the mission of ARPA-H as an independent organization.
+business	005.txt	The system must enable efficient inventory management and reduce shortages.
+business	004.txt	The system must improve customer satisfaction by reducing wait times by 30%.
+business	010.txt	The system must offer high-quality customer support to resolve issues promptly.
+business	006.txt	The system must generate accurate financial reports compliant with international accounting standards.
+business	012.txt	Economies of Scale: ARPA-H doesn't have to do it all.
+business	013.txt	The Contractor shall be responsible for standing up a new organization with full operational responsibilities and ongoing projects, as described below.
+business	007.txt	The system must provide real-time information for informed decision-making.
+business	009.txt	The system must ensure the confidentiality of financial data and customer information.
+business	008.txt	The system must allow seamless integration with business partners.
+design	003.txt	The database design must normalize data to reduce redundancy.
+design	002.txt	The user interface must be responsive and mobile-friendly.
+design	014.txt	The IPIP shall  include what has been accomplished related to the current environment and plans for a future state indicating the steps and funds needed to accomplish the future state.
+design	001.txt	The design must follow the Model-View-Controller (MVC) architectural pattern.
+design	015.txt	The implementation aspects of the IPIP shall assume service responsibility within a ninety-day (90-day) transition timeframe, upon which the Contractor shall have full responsibility for operational, technical and financial performance.
+design	011.txt	The Contractor shall be responsible for and  produce a plan that addresses steps / phases for design, development, and implementation; time management; controls for managing cost, schedule, risk; and identifying any requirements that might be placed upon Government or other parties.
+design	005.txt	The design must include a user-friendly dashboard for administrators.
+design	004.txt	The system must use RESTful APIs for external integrations.
+design	010.txt	The design must ensure data privacy and compliance with data protection regulations.
+design	006.txt	The system must have a modular design to facilitate future updates.
+design	012.txt	The implementation and Phase-In period shall occur over a three-year period with designs and controls being emphasized in the first year, stabilization phase by year 2, and enhancements phase by year 3.
+design	013.txt	The Contractor shall document and provide findings to the Government in an Implementation and Phase-In Plan (IPIP) that addresses the three (3) Phases indicated above.
+design	007.txt	The design must use a color scheme consistent with the company's branding.
+design	009.txt	The system design must be documented with UML diagrams.
+design	008.txt	The user interface must provide tooltips for user guidance.
+functional	003.txt	The system must provide advanced search functionality for users.
+functional	002.txt	The system must allow users to reset their password in case of forgetfulness.
+functional	014.txt	Manage division’s Temporary Duty (TDY) approval process. Coordinate and track all division funded and cross-organizational TDYs. Plan and coordinate travel arrangements for executives within 24 hours of request in the Defense Travel System (DTS). Travel arrangements shall include making reservations, scheduling transportation, securing protocol and area approvals, preparing travel itineraries, and preparing travel orders based on general travel intentions or known preferences of the traveler IAW established travel regulations.
+functional	001.txt	The system must allow users to log in with their username and password.
+functional	011.txt	The contractor shall provide one mid-senior level Executive Administrative Support to two Government executives and approximately 40 personnel within the SG5 Capability Development Division, located at Defense Health Headquarters (DHHQ), 7700 Arlington Blvd., Falls Church, VA.
+functional	005.txt	The system must send email notifications to users for important updates.
+functional	004.txt	The system must automatically generate monthly reports on user activity.
+functional	010.txt	The system must perform automatic data backups every 24 hours.
+functional	006.txt	The system must allow administrators to add, modify, and delete user accounts.
+functional	012.txt	Use office automation software, such as Microsoft Office, to create and edit documents, presentations, graphics, tables, electronic drafts, and electronic mail. Update existing databases or spreadsheets. Review, edit, and update documents to include checking for proper format, spelling, grammar, capitalization, and punctuation. Prepare and submit documents in appropriate formats IAW the latest Air Force Handbook (AFH) 33-337, The Tongue and Quill.
+functional	013.txt	Receive telephone calls, greet, and prepare for visitors, and determine the nature of the calls or visits; screen for requests that can be handled without assistance. Update and maintain office procedures to ensure effective and efficient operations. Assist division personnel in locating and selecting the appropriate guidelines, references, and procedures for application to specific taskings and inquiries. Ensure correspondence and communication with returned calls, emails, and faxes are promptly addressed within one (1) business day.
+functional	007.txt	The system must ensure that only authorized users have access to sensitive data.
+functional	009.txt	The system must allow users to customize their experience based on their preferences.
+functional	008.txt	The system must provide a user-friendly interface for content management.
+non-functional	003.txt	System response times must not exceed 2 seconds for basic queries.
+non-functional	002.txt	The system must be capable of handling 10,000 users simultaneously without performance degradation.
+non-functional	014.txt	Performance-based acquisition is not appropriate for this acquisition because the government requires a specific number of employees in various labor categories to work with government employees.
+non-functional	001.txt	The system must guarantee an availability of 99.9%.
+non-functional	011.txt	This requirement spans all areas of Research & Development (R&D) Support Services market segment.
+non-functional	005.txt	Security updates must be applied within 7 days of their release.
+non-functional	004.txt	The system must encrypt all sensitive data in transit and at rest.
+non-functional	010.txt	The system must be scalable to support future growth.
+non-functional	006.txt	System audit logs must be retained for one year.
+non-functional	012.txt	The Contractor shall provide non-personal, professional, and advisory and assistance for a variety of medical research and development program management, requirements management, cost analysis support, training administration, administrative and clerical management support.
+non-functional	013.txt	Program technical areas will span, but are not limited to, Medical Simulation Technologies; Infectious Diseases; Military Health, Performance, and Recovery; Joint Battlefield Healthcare; Radiation Health Effects; Clinical & Rehabilitative Medicine; Chemical and Biological Readiness; Clinical Investigations, Graduate Health Science Education, and Military Health System Research; Genomics and Omics-based Research; and other Emerging Science and Technology.
+non-functional	007.txt	The system must comply with data privacy regulations.
+non-functional	009.txt	The system must provide comprehensive user documentation.
+non-functional	008.txt	The user interface must be user-friendly and intuitive for novice users.
+performance	003.txt	Database queries must execute in less than 2 seconds on average.
+performance	002.txt	The system must support a minimum of 1000 concurrent users without performance degradation.
+performance	001.txt	The system must achieve a response time of less than 500 milliseconds for user requests.
+performance	005.txt	Images and media files must load within 3 seconds on user interfaces.
+performance	004.txt	The system must handle a minimum of 100 transactions per second during peak hours.
+performance	010.txt	Performance benchmarks must be conducted regularly to identify and address bottlenecks.
+performance	006.txt	System backups must be completed within 1 hour.
+performance	007.txt	The system must maintain 99.9% uptime over a 12-month period.
+performance	009.txt	The system must efficiently use server resources to minimize operating costs.
+performance	008.txt	Page load times for web pages must not exceed 3 seconds.
+quality assurance	003.txt	Test results must be documented, and defects must be tracked and resolved.
+quality assurance	002.txt	Test cases must cover both positive and negative scenarios.
+quality assurance	001.txt	Quality assurance tests must be conducted on all system components.
+quality assurance	011.txt	During these phases, the Contractor shall plan and manage all planning and operational activities necessary to establish a documented environment that can be transitioned from the existing service provider to a competitively awarded contracts or contracts.
+quality assurance	005.txt	A continuous integration and continuous deployment (CI/CD) pipeline must be established.
+quality assurance	004.txt	User acceptance testing (UAT) must involve real users to validate functionality.
+quality assurance	010.txt	A disaster recovery plan must be in place to ensure data integrity in case of system failures.
+quality assurance	006.txt	Version control must be implemented for source code management.
+quality assurance	012.txt	Review, edit, and update documents to ensure proper format, spelling, grammar, capitalization, and punctuation.
+quality assurance	007.txt	Code reviews must be performed for all code changes.
+quality assurance	009.txt	Load testing must simulate peak user loads to assess system performance.
+quality assurance	008.txt	Documentation must be regularly updated to reflect system changes.
+regulatory or compliance	003.txt	The system must follow Payment Card Industry Data Security Standard (PCI DSS) for handling credit card information.
+regulatory or compliance	002.txt	The system must adhere to the Health Insurance Portability and Accountability Act (HIPAA) for healthcare data.
+regulatory or compliance	001.txt	The system must comply with the General Data Protection Regulation (GDPR).
+regulatory or compliance	011.txt	Prepare and submit documents in appropriate formats in accordance with the latest Air Force Handbook (AFH) 33-337, The Tongue and Quill.
+regulatory or compliance	005.txt	The system must adhere to the Sarbanes-Oxley Act (SOX) for financial data.
+regulatory or compliance	004.txt	The system must meet the requirements of the Americans with Disabilities Act (ADA) for accessibility.
+regulatory or compliance	010.txt	The system must maintain records of compliance audits and certifications.
+regulatory or compliance	006.txt	The system must comply with the Federal Information Security Management Act (FISMA) for government data.
+regulatory or compliance	007.txt	The system must follow the ISO 9001 quality management standard.
+regulatory or compliance	009.txt	The system must ensure secure storage and transmission of personal health information (PHI).
+regulatory or compliance	008.txt	The system must be compliant with industry-specific regulations for the pharmaceutical sector.
+security	003.txt	The system must have intrusion detection and prevention systems (IDPS) in place.
+security	002.txt	User passwords must be securely hashed and salted before storage.
+security	001.txt	The system must implement role-based access control (RBAC) to restrict user permissions.
+security	011.txt	Review all security patches relevant to the IT environment and classify the need and speed in which the security patches should be installed as defined by security policies.
+security	005.txt	Security patches and updates must be applied within 30 days of release.
+security	004.txt	Data encryption must be enforced for all sensitive data in transit and at rest.
+security	010.txt	Security awareness training must be provided to all system users and administrators.
+security	006.txt	Access logs must be maintained and regularly reviewed for security incidents.
+security	012.txt	Where required by ARPA-H the Contractor shall participate in industry security forums and user groups to remain up to date with current security trends, threats, common exploits and security policies and procedures.
+security	013.txt	The following identifies Security Management roles and responsibilities associated with Service  Delivery: Ensure that all IT security functions are routinely inspected and reported as part of Quality Control and Quality Assurance and shall maintain security requirements, standards, procedures, and policies including regulatory requirements.
+security	007.txt	The system must undergo regular security assessments and penetration testing.
+security	009.txt	The system must have a documented incident response plan.
+security	008.txt	Multi-factor authentication (MFA) must be required for privileged users.
+system	003.txt	The system must be compatible with Oracle Database version 19c.
+system	002.txt	The system must have a minimum of 8 GB RAM for optimal performance.
+system	001.txt	The system must support Windows 10 and macOS operating systems.
+system	011.txt	The Contractor shall perform due diligence through  inventory of all ARPA-H plans for growth, planned assets, system configuration. The information, current operations, security controls, and system documentation.
+system	005.txt	The system must provide failover support for high availability.
+system	004.txt	The system must use HTTPS for secure data transmission.
+system	010.txt	The system must maintain an audit log of all user activities.
+system	006.txt	The system must be capable of handling a minimum of 1000 concurrent database connections.
+system	007.txt	The system must have a backup and recovery mechanism in place.
+system	009.txt	The system must use AES-256 encryption for sensitive data.
+system	008.txt	The system must support integration with third-party payment gateways.
+user	003.txt	Users must be able to post messages, photos, and videos on their profile.
+user	002.txt	Users must be able to customize their profile by adding a photo and a description.
+user	001.txt	Users must be able to create an account with a valid email address.
+user	011.txt	Handle telephone calls and visitors efficiently, screening for requests that can be handled without assistance.
+user	005.txt	Users must be able to like, comment on, and share posts.
+user	004.txt	Users must be able to follow other users and see their posts in their feed.
+user	010.txt	Users must have easy access to their account's privacy settings.
+user	006.txt	Users must receive real-time notifications for interactions on their posts.
+user	007.txt	Users must be able to send private messages to other users.
+user	009.txt	Users must be able to report inappropriate content or abuse.
+user	008.txt	Users must have a dashboard to manage their friends, followers, and subscriptions.

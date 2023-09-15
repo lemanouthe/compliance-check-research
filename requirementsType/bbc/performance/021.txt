@@ -1,0 +1,1 @@
+File uploads and downloads must not exceed 10 seconds.

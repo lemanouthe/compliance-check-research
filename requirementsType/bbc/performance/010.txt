@@ -1,0 +1,1 @@
+Performance benchmarks must be conducted regularly to identify and address bottlenecks.

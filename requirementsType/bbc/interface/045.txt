@@ -1,0 +1,1 @@
+Tooltips should provide additional information on hover.

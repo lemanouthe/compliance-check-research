@@ -1,0 +1,1 @@
+User interface elements should be appropriately sized for different devices.

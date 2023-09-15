@@ -1,0 +1,1 @@
+Design must consider touch-friendliness for mobile devices.

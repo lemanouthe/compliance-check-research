@@ -1,0 +1,1 @@
+Database queries should return results in less than 1 second.

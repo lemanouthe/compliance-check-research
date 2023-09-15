@@ -1,0 +1,1 @@
+Availability reports should be generated weekly.

@@ -1,0 +1,1 @@
+Users should receive email confirmations for return and refund requests.

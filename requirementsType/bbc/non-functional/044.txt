@@ -1,0 +1,1 @@
+User data should only be used for the intended purposes.

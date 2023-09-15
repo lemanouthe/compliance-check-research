@@ -1,0 +1,1 @@
+The system should allow users to print shipping labels for returns.

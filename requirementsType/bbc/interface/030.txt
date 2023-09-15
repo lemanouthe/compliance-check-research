@@ -1,0 +1,1 @@
+Interface colors must be chosen for accessibility and readability.

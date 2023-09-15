@@ -1,0 +1,1 @@
+Design must consider localization for global use.

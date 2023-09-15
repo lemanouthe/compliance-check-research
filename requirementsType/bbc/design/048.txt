@@ -1,0 +1,1 @@
+Design elements must be responsive to user actions.

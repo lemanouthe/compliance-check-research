@@ -1,0 +1,1 @@
+UI elements must be responsive to different screen sizes.

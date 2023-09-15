@@ -1,0 +1,1 @@
+The GUI should provide visual feedback for user actions.

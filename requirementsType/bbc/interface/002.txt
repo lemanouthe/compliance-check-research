@@ -1,0 +1,1 @@
+User interfaces must be compatible with major web browsers, including Chrome, Firefox, and Safari.

@@ -1,0 +1,1 @@
+System response times must not exceed 2 seconds for basic queries.

@@ -1,0 +1,1 @@
+Toolbars and menus must be customizable by users.

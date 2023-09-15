@@ -1,0 +1,1 @@
+The system must perform automatic data backups every 24 hours.

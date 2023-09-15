@@ -1,0 +1,1 @@
+Users must be able to post messages, photos, and videos on their profile.

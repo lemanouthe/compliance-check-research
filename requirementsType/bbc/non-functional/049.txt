@@ -1,0 +1,1 @@
+Redundant internet connections should be in place to prevent downtime.

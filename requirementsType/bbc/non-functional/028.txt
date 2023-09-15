@@ -1,0 +1,1 @@
+Passwords should be stored securely using industry-standard encryption.

@@ -1,0 +1,1 @@
+The system should support integration with social media platforms for sharing.

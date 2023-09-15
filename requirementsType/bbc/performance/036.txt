@@ -1,0 +1,1 @@
+System logs must be rotated and archived to prevent performance degradation.

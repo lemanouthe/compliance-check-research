@@ -1,0 +1,1 @@
+The system must optimize database queries for minimal resource consumption.

@@ -1,0 +1,1 @@
+It should support event planning and management processes.

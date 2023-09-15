@@ -1,0 +1,1 @@
+Web pages must load and display content in under 3 seconds.

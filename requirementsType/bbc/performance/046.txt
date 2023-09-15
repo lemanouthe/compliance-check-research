@@ -1,0 +1,1 @@
+Network latency between data centers should not exceed 50 milliseconds.

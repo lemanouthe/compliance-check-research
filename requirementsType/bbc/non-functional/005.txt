@@ -1,0 +1,1 @@
+Security updates must be applied within 7 days of their release.

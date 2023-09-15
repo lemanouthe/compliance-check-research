@@ -1,0 +1,1 @@
+In case of downtime, users should be notified via email within 30 minutes.

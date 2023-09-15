@@ -1,0 +1,1 @@
+The system should calculate and display the total order cost, including taxes and shipping fees.

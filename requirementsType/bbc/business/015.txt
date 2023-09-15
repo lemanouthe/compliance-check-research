@@ -1,0 +1,1 @@
+Business users should be able to access the system remotely to support telecommuting.

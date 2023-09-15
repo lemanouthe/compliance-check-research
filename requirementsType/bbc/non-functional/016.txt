@@ -1,0 +1,1 @@
+Response time for file downloads should not exceed 5 seconds.

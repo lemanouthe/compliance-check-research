@@ -1,0 +1,1 @@
+User sessions should remain active for at least 30 minutes of inactivity.
