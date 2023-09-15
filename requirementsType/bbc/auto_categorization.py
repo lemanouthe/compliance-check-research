@@ -191,11 +191,11 @@ if __name__ == "__main__":
     # train_classifier(docs)
     
     # deployement in production
-    # new_doc = "Update existing databases or spreadsheets as needed." # non-functional
+    new_doc = "Update existing databases or spreadsheets as needed." # non-functional
     # new_doc = "Provide one mid-senior level Executive Administrative Support to two Government executives and approximately 40 personnel within the SG5 Capability Development Division, located at Defense Health Headquarters (DHHQ), 7700 Arlington Blvd., Falls Church, VA." # non-functional
     # new_doc = "Review, edit, and update documents to ensure proper format, spelling, grammar, capitalization, and punctuation."
     # new_doc = "Prepare and submit documents in appropriate formats in accordance with the latest Air Force Handbook (AFH) 33-337, The Tongue and Quill."
-    new_doc = "Handle telephone calls and visitors efficiently, screening for requests that can be handled without assistance." # User
+    # new_doc = "Handle telephone calls and visitors efficiently, screening for requests that can be handled without assistance." # User
     
     classify(new_doc)
 
