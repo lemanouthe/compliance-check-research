@@ -1,0 +1,1 @@
+Hardware must include mechanisms for secure data erasure.

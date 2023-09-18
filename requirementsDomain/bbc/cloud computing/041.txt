@@ -1,0 +1,1 @@
+Data retention policies within cloud services must specify the duration for which data is retained.

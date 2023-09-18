@@ -1,0 +1,1 @@
+User access reviews must be conducted regularly to revoke unnecessary permissions.

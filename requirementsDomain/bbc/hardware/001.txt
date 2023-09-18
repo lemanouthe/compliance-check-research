@@ -1,0 +1,1 @@
+Hardware devices must have secure boot processes to prevent unauthorized access.

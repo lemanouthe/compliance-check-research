@@ -1,0 +1,1 @@
+Data transmission to and from the cloud must be encrypted using secure protocols.

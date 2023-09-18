@@ -1,0 +1,1 @@
+User accounts within cloud services must be disabled promptly upon termination.

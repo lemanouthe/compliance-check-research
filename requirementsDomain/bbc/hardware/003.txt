@@ -1,0 +1,1 @@
+Hardware must include intrusion detection systems to detect physical tampering.

@@ -1,0 +1,1 @@
+AI models must comply with Payment Card Industry Data Security Standard (PCI DSS) for credit card data.

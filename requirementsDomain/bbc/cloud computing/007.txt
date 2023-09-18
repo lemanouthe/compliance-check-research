@@ -1,0 +1,1 @@
+User consent mechanisms for cloud data processing must be provided.

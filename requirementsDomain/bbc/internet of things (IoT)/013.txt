@@ -1,0 +1,1 @@
+IoT devices must implement security patches and updates promptly.

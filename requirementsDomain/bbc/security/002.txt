@@ -1,0 +1,1 @@
+Multi-factor authentication (MFA) must be enforced for secure access.

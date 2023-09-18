@@ -1,0 +1,1 @@
+Access to sensitive data must be restricted based on user roles and permissions.

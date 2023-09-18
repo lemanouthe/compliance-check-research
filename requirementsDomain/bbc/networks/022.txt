@@ -1,0 +1,1 @@
+Network data must be encrypted to prevent eavesdropping.

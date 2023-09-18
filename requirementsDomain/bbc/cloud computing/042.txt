@@ -1,0 +1,1 @@
+Cloud platforms must support automated data archiving for long-term retention.

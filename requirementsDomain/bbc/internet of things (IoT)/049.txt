@@ -1,0 +1,1 @@
+Data retention automation tools must enforce policies for IoT-generated data.

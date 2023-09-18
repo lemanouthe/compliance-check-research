@@ -1,0 +1,1 @@
+Data integration between hardware systems must maintain data quality.

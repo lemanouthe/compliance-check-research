@@ -1,0 +1,1 @@
+Data governance policies for hardware-generated data must be established.

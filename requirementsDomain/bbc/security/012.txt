@@ -1,0 +1,1 @@
+Data in transit must be encrypted using secure protocols (e.g., TLS).

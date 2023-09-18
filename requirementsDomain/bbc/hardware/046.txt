@@ -1,0 +1,1 @@
+Hardware devices must support data portability for users.

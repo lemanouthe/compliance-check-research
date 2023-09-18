@@ -1,0 +1,1 @@
+Hardware vendors must provide documentation on data security and compliance.

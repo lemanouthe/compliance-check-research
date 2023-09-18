@@ -1,0 +1,1 @@
+IoT device access logs must be maintained for auditing and monitoring.

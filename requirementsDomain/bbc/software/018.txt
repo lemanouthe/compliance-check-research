@@ -1,0 +1,1 @@
+Secure APIs must be implemented to protect data during external integrations.

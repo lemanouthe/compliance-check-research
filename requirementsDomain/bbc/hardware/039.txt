@@ -1,0 +1,1 @@
+Hardware must comply with regulations governing electromagnetic interference (EMI).

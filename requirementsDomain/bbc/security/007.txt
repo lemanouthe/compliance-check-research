@@ -1,0 +1,1 @@
+User sessions must be automatically logged out after inactivity.

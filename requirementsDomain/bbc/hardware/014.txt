@@ -1,0 +1,1 @@
+Data retention policies for hardware-generated data must be defined and followed.

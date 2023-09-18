@@ -1,0 +1,1 @@
+Data from multiple hardware sensors must be synchronized for consistency.

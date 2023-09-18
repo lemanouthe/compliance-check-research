@@ -1,0 +1,1 @@
+Security assessments of third-party vendors must be conducted.

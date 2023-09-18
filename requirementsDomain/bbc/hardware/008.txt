@@ -1,0 +1,1 @@
+Security patches and firmware updates must be regularly applied to hardware.

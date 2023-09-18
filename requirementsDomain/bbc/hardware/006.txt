@@ -1,0 +1,1 @@
+Physical access to data storage devices must be restricted and logged.

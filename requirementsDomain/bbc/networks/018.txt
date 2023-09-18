@@ -1,0 +1,1 @@
+Network data access and transmission must adhere to PCI DSS for credit card data.

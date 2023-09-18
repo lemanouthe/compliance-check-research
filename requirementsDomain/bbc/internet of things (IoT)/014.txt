@@ -1,0 +1,1 @@
+Intrusion detection and prevention mechanisms must be employed by IoT devices.

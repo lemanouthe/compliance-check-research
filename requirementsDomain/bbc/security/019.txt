@@ -1,0 +1,1 @@
+Encrypted storage devices must be used for data protection.

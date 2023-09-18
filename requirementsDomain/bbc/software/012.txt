@@ -1,0 +1,1 @@
+Access to sensitive data must be role-based and restricted as per RBAC principles.

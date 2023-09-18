@@ -1,0 +1,1 @@
+Data encryption must be implemented to safeguard data in transit.

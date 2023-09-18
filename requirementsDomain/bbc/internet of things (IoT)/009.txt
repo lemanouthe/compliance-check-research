@@ -1,0 +1,1 @@
+IoT device manufacturers must implement security features to protect data.

@@ -1,0 +1,1 @@
+Hardware components must comply with industry-specific security standards (e.g., FIPS 140-2).

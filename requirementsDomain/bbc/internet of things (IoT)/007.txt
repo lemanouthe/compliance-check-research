@@ -1,0 +1,1 @@
+Sensitive data collected by IoT devices must be encrypted to prevent unauthorized access.

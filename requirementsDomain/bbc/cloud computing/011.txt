@@ -1,0 +1,1 @@
+Cloud services must provide strong authentication methods for user access control.

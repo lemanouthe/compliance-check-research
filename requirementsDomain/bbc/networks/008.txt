@@ -1,0 +1,1 @@
+Network devices must support virtual LANs (VLANs) for segmentation.

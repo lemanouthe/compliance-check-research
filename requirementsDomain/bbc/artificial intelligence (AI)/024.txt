@@ -1,0 +1,1 @@
+Data integration between AI models must maintain data consistency and integrity.

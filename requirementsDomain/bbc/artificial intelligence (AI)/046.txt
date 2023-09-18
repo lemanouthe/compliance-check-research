@@ -1,0 +1,1 @@
+Data portability mechanisms for AI-generated data must allow users to transfer their data to other systems.

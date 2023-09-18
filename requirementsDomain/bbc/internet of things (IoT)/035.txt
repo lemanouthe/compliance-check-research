@@ -1,0 +1,1 @@
+Data compliance reports for IoT data must be generated and submitted as required.

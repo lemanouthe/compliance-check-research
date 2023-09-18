@@ -1,0 +1,1 @@
+Access to IoT device data must require strong user authentication.

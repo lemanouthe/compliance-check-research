@@ -1,0 +1,1 @@
+Data retention policies for cloud-stored data must align with legal requirements.

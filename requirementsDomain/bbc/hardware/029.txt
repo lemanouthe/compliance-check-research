@@ -1,0 +1,1 @@
+Data recovery plans must be in place for hardware failures.

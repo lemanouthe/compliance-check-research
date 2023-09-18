@@ -1,0 +1,1 @@
+Network latency and jitter must be monitored for performance optimization.

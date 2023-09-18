@@ -1,0 +1,1 @@
+Data integrity checks must be implemented during network transmission.

@@ -1,0 +1,1 @@
+Data processing by IoT devices must adhere to data privacy regulations (e.g., CCPA).

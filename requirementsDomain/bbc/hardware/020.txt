@@ -1,0 +1,1 @@
+Data access and transmission from hardware must comply with PCI DSS for credit card data.

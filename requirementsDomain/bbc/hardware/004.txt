@@ -1,0 +1,1 @@
+Data transmitted between hardware components must be encrypted.

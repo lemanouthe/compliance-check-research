@@ -1,0 +1,1 @@
+Cloud data portability mechanisms must allow users to transfer their data to other systems.

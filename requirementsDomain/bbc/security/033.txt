@@ -1,0 +1,1 @@
+Data anonymization and pseudonymization techniques must be applied.

@@ -1,0 +1,1 @@
+User access reviews must be conducted to revoke unnecessary permissions within AI systems.

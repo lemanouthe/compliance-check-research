@@ -1,0 +1,1 @@
+Data processing activities in the cloud must adhere to data privacy regulations (e.g., CCPA).

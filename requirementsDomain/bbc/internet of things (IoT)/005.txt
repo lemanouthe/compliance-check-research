@@ -1,0 +1,1 @@
+Data sharing from IoT devices to third parties must follow privacy regulations.

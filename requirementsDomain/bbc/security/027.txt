@@ -1,0 +1,1 @@
+Security logs must be retained for a specified period.

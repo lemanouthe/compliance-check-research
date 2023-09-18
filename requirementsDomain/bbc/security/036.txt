@@ -1,0 +1,1 @@
+Consent mechanisms for data processing must be in place.

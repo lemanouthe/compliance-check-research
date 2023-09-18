@@ -1,0 +1,1 @@
+Consent tracking mechanisms must be implemented for data processing.

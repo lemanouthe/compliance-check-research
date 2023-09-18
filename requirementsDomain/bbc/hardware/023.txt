@@ -1,0 +1,1 @@
+Hardware must include error-checking mechanisms for data integrity.

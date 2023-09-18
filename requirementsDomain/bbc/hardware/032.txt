@@ -1,0 +1,1 @@
+Hardware devices must support compliance reporting and auditing.

@@ -1,0 +1,1 @@
+Hardware must encrypt data at rest to protect against unauthorized access.

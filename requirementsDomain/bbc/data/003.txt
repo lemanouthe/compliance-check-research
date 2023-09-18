@@ -1,0 +1,1 @@
+Data anonymization techniques must be applied to protect individual identities.

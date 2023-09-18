@@ -1,0 +1,1 @@
+Strong authentication methods must be used for user access control.

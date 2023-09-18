@@ -1,0 +1,1 @@
+Data within cloud systems must adhere to defined data quality standards and guidelines.

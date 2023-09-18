@@ -1,0 +1,1 @@
+Data encryption key management practices within IoT systems must be documented.

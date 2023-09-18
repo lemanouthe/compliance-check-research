@@ -1,0 +1,1 @@
+Hardware must have data encryption key management practices in place.

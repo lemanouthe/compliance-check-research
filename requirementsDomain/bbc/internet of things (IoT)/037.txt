@@ -1,0 +1,1 @@
+Compliance with industry-specific regulations (e.g., healthcare, automotive) must be maintained for IoT data.

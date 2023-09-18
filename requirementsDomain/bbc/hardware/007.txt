@@ -1,0 +1,1 @@
+Hardware devices must have built-in firewalls for network security.

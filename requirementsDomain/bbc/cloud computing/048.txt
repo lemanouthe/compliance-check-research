@@ -1,0 +1,1 @@
+Data encryption key management practices within cloud environments must be documented.

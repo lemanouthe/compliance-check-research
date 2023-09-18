@@ -1,0 +1,1 @@
+Network data portability mechanisms must allow users to retrieve their data.

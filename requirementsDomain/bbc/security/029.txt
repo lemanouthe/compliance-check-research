@@ -1,0 +1,1 @@
+Security assessments and vulnerability scans must be performed regularly.

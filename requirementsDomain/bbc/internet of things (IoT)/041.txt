@@ -1,0 +1,1 @@
+IoT data retention policies must specify the duration for which data is retained.

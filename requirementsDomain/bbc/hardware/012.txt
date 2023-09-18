@@ -1,0 +1,1 @@
+Data collected by hardware sensors must be anonymized to protect privacy.

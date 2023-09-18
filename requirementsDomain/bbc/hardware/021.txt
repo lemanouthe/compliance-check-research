@@ -1,0 +1,1 @@
+Hardware sensors must be calibrated to ensure data accuracy.

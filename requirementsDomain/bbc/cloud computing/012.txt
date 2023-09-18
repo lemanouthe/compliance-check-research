@@ -1,0 +1,1 @@
+Access to cloud data must be restricted based on user roles and permissions.

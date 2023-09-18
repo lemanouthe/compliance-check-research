@@ -1,0 +1,1 @@
+Cloud backup and recovery plans must be tested for compliance and data integrity.

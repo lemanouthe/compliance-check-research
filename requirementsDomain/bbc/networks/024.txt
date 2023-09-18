@@ -1,0 +1,1 @@
+Network devices must support quality of service (QoS) for data prioritization.

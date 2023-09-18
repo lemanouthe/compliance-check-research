@@ -1,0 +1,1 @@
+User accounts on IoT devices must be disabled promptly upon user termination.

@@ -1,0 +1,1 @@
+Cloud data access and modification must be logged for auditing purposes.

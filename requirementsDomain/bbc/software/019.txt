@@ -1,0 +1,1 @@
+Data at rest must be encrypted to prevent unauthorized access.

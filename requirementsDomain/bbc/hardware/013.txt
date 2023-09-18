@@ -1,0 +1,1 @@
+Hardware devices must have mechanisms for user consent and data processing opt-outs.

@@ -1,0 +1,1 @@
+Cloud service providers must have data encryption key storage mechanisms in place.

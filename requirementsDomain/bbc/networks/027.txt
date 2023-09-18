@@ -1,0 +1,1 @@
+Data compression and deduplication must be supported for efficient data transfer.

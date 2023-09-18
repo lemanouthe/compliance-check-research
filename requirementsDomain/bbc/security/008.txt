@@ -1,0 +1,1 @@
+Access to sensitive data must be logged and monitored for unauthorized access.

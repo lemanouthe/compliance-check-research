@@ -1,0 +1,1 @@
+Data stored in the cloud must undergo regular cleaning and deduplication to maintain quality.

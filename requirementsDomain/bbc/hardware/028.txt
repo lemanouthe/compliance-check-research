@@ -1,0 +1,1 @@
+Hardware devices must have backup power sources to prevent data loss.
