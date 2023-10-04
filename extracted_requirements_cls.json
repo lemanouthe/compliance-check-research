@@ -1,0 +1,1410 @@
+[
+    {
+        "requirement_id": 1,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The VA IT CampusWeb Application is a collaborative platform to deliver virtual training, meetings, andconferences to large numbers of simultaneous users at a lower cost and more timelythan traditional physical classroom activities and provides for automatic TalentManagement System (TMS) credit.",
+        "requirement_type": "Functional",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Data",
+        "confidence_factor": 0,
+        "relationships": []
+    },
+    {
+        "requirement_id": 2,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "0 APPLICABLE DOCUMENTSThe Contractor shall comply with the following documents, in addition to the documentsin Paragraph 2.",
+        "requirement_type": "Regulatory or compliance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": []
+    },
+    {
+        "requirement_id": 3,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "0 SPECIFIC TASKS AND DELIVERABLESThe Contractor shall perform the following:5.",
+        "requirement_type": "Performance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0.25,
+        "relationships": []
+    },
+    {
+        "requirement_id": 4,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "1 CONTRACTOR PROJECT MANAGEMENT PLANThe Contractor shall deliver a Contractor Project Management Plan (CPMP) that lays out the Contractors approach, timeline and tools to be used in execution of this TOeffort.",
+        "requirement_type": "Business",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": []
+    },
+    {
+        "requirement_id": 5,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The CPMP should take the form of both a narrative and graphic format that displays the schedule, milestones, risks and resource support.",
+        "requirement_type": "Business",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            4
+        ]
+    },
+    {
+        "requirement_id": 6,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The CPMP shall also include how the Contractor shall coordinate and execute planned, routine, and ad hocdata collection reporting requests as identified within the PWS.",
+        "requirement_type": "Regulatory or compliance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            2
+        ]
+    },
+    {
+        "requirement_id": 7,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The initial baseline CPMP shall be concurred upon and updated in accordance with Section B of the TO.",
+        "requirement_type": "Security",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": []
+    },
+    {
+        "requirement_id": 8,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall provide monthly updates to maintain the VA Program Manager (PM) approved CPMP throughout the PoP.",
+        "requirement_type": "System",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": []
+    },
+    {
+        "requirement_id": 9,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "2 PRIVACY & HIPAA TRAININGThe Contractor shall submit TMS training certificates of completion for VA Privacy and Information Security Awareness and Rules of Behavior, Health Insurance Portability and Accountability Act (HIPAA) training, Role Based Training dependent on standard roles,and provide signed copies of the Contractor Rules of Behavior in accordance with Section 9, Training, from Appendix C of the VA Handbook 6500.",
+        "requirement_type": "Regulatory or compliance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Security",
+        "confidence_factor": 0,
+        "relationships": [
+            2,
+            6
+        ]
+    },
+    {
+        "requirement_id": 10,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "3 TECHNICAL KICKOFF MEETINGA technical kickoff meeting shall be held within 10 days after TO award.",
+        "requirement_type": "Non-functional",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": []
+    },
+    {
+        "requirement_id": 11,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall coordinate the date, time, and location (can be virtual) with the Contracting Officer (CO), as the Post-Award Conference Chairperson, the VA PM, as the Co-Chairperson, the Contract Specialist (CS), and the COR.",
+        "requirement_type": "Performance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            3
+        ]
+    },
+    {
+        "requirement_id": 12,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall provide a draft agenda to the CO and VA PM at least five (5) calendar days prior to the meeting.",
+        "requirement_type": "User",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": []
+    },
+    {
+        "requirement_id": 13,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "Upon Government approval of a final agenda, the Contractor shall distribute to all meeting attendees.",
+        "requirement_type": "Functional",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            1
+        ]
+    },
+    {
+        "requirement_id": 14,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "During the kickoff-meeting, the Contractor shall present, for review and approval by the Government, the details of the intended approach, work plan, and project schedule for each effort via a Microsoft Office PowerPoint presentation.",
+        "requirement_type": "Quality assurance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": []
+    },
+    {
+        "requirement_id": 15,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "At the conclusion of the meeting, the Contractor shall update the presentation with a final slide entitled Summary Report which shall include notes on any major issues, agreements, or disagreements discussed during the kickoff meeting and the following statement As the Post-Award Conference Chairperson, I have reviewed the entirety of this presentation and assert that it is an accurate representation and summary of the discussions held during the Technical Kickoff Meeting for the VA IT Campus Operations and Support Services.",
+        "requirement_type": "Business",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            4,
+            5
+        ]
+    },
+    {
+        "requirement_id": 16,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall submit the final updated presentation to the CO for review and signature within three (3) calendar days after the meeting.",
+        "requirement_type": "Security",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            7
+        ]
+    },
+    {
+        "requirement_id": 17,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall also work with the CS, the Governments designated note taker, to prepare and distribute the meeting minutes of the kickoff meeting to the CO, COR and all attendees within three (3) calendar days after the meeting.",
+        "requirement_type": "Non-functional",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0,
+        "relationships": [
+            10
+        ]
+    },
+    {
+        "requirement_id": 18,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall obtain concurrence from the CS on the content of the meeting minutes prior to distribution of the document.",
+        "requirement_type": "Performance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            3,
+            11
+        ]
+    },
+    {
+        "requirement_id": 19,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "2 VA IT CAMPUS WEB-SERVICES ENVIRONMENT PLATFORM SUPPORT The Contractor shall operate and support production and pre-production VA IT Campussub-environments.",
+        "requirement_type": "System",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Cloud computing",
+        "confidence_factor": 0,
+        "relationships": [
+            8
+        ]
+    },
+    {
+        "requirement_id": 20,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "Contractor shall provide at minimum three (3) full time equivalentsfor the requirements of PWS Section 5.",
+        "requirement_type": "Business",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Networks",
+        "confidence_factor": 0,
+        "relationships": [
+            4,
+            5,
+            15
+        ]
+    },
+    {
+        "requirement_id": 21,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "1 VA IT CAMPUS PLATFORM OPERATIONS AND SUSTAINMENT SUPPORTThe Contractor shall provide assistance and support for implementation, operation, Section 508 compliance (IAW Section 508 website: http://www.",
+        "requirement_type": "Business",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            4,
+            5,
+            15,
+            20
+        ]
+    },
+    {
+        "requirement_id": 22,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall provide continuous availability of support during ITWD core business hours, 8:00 am through 5:00 pm EST, Monday through Friday, excluding Federal holidays, for the requirements outlined below.",
+        "requirement_type": "Business",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            4,
+            5,
+            15,
+            20,
+            21
+        ]
+    },
+    {
+        "requirement_id": 23,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall:1.",
+        "requirement_type": "Functional",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            1,
+            13
+        ]
+    },
+    {
+        "requirement_id": 24,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "Operation and administration of Web Content Management Systems; maintenance and monitoring of all AWS related services to ensure acceptable user performance and availability; perform troubleshooting and provide responses to all system service-related application issuesd.",
+        "requirement_type": "System",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Cloud computing",
+        "confidence_factor": 0,
+        "relationships": [
+            8,
+            19
+        ]
+    },
+    {
+        "requirement_id": 25,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "Develop and run daily course completion queries to record credits earned by users from the VA IT Campus in the VA Talent Management System (TMS) via an Application Programing Interface (API).",
+        "requirement_type": "Functional",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            1,
+            13,
+            23
+        ]
+    },
+    {
+        "requirement_id": 26,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "If a flat file approach is used, this flat file shall be formatted as approved by TMS administrators.",
+        "requirement_type": "Non-functional",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0,
+        "relationships": [
+            10,
+            17
+        ]
+    },
+    {
+        "requirement_id": 27,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "Ensure all functionality is available through desktop and mobile users, using standard mobile devices, smart phones and tablets (e.",
+        "requirement_type": "Design",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Internet of things (iot)",
+        "confidence_factor": 0,
+        "relationships": []
+    },
+    {
+        "requirement_id": 28,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor must adhere to the FedRAMP requirements at a FISMA Moderate Risk Level (SeeFISMA references) which shall be maintained throughout the Period of Performance.",
+        "requirement_type": "Regulatory or compliance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Networks",
+        "confidence_factor": 0,
+        "relationships": [
+            2,
+            6,
+            9
+        ]
+    },
+    {
+        "requirement_id": 29,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "Comply with VA Security Standards and Assessments and shall remediate deficiencies noted during assessments in accordance with VA Directives 6500 and 6517.",
+        "requirement_type": "Regulatory or compliance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Security",
+        "confidence_factor": 0,
+        "relationships": [
+            2,
+            6,
+            9,
+            28
+        ]
+    },
+    {
+        "requirement_id": 30,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The hosting platform shall be accessible to end users on the VA network and the public internet.",
+        "requirement_type": "User",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Networks",
+        "confidence_factor": 0,
+        "relationships": [
+            12
+        ]
+    },
+    {
+        "requirement_id": 31,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "If future VA directives require it, the Contractor shall assist with transitioning the online platform to a .",
+        "requirement_type": "Design",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Networks",
+        "confidence_factor": 0,
+        "relationships": [
+            27
+        ]
+    },
+    {
+        "requirement_id": 32,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "Maintain and update the infrastructure to ensure the Authority to Operate (ATO) for the hosting solution isnt compromised and shall create all necessary artifacts required for continued certification.",
+        "requirement_type": "Business",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0,
+        "relationships": [
+            4,
+            5,
+            15,
+            20,
+            21,
+            22
+        ]
+    },
+    {
+        "requirement_id": 33,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall facilitate the ATO process by remediating all deficiencies found during the ATO approval process that are not in compliance with VA Directives 6102, 6500, and 6500.",
+        "requirement_type": "Regulatory or compliance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            2,
+            6,
+            9,
+            28,
+            29
+        ]
+    },
+    {
+        "requirement_id": 34,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "Accreditation environment The hosting environment shall be a unique, separate, and isolated instance within the AWS environment, but can be contained within the same Cloud environment as Pre-Production, Accreditation, and Development, as long as the Cloud environment is not shared with any other customer, (whether Government or commercial) and not a shared hosted environment with any other supported customer element.",
+        "requirement_type": "Business",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Cloud computing",
+        "confidence_factor": 0,
+        "relationships": [
+            4,
+            5,
+            15,
+            20,
+            21,
+            22,
+            32
+        ]
+    },
+    {
+        "requirement_id": 35,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "Maintain the Pre-Production environment to support up to 30 concurrent users, for testing purposes but should otherwise mirror the Production sub\u0002environment described above.",
+        "requirement_type": "Performance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            3,
+            11,
+            18
+        ]
+    },
+    {
+        "requirement_id": 36,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall provide public broadcast/webcast capabilities when approved by COR and Program Manager (VA PM will obtain VA approvals to ensure compliance with VA security operations).",
+        "requirement_type": "System",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            8,
+            19,
+            24
+        ]
+    },
+    {
+        "requirement_id": 37,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "2 VA IT CAMPUS WEB-SERVICES ENVIRONMENT PLATFORM SUSTAINMENT SUPPORTThe Contractor shall develop and implement emergency fixes, program/site enhancements, and minor changes to the VA IT Campus application on a quarterly basis, based on requirements from, and approved by, the COR, utilizing an Agile software methodology.",
+        "requirement_type": "Security",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0,
+        "relationships": [
+            7,
+            16
+        ]
+    },
+    {
+        "requirement_id": 38,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "All approved emergency fixes, program/site enhancements, and minor changes shall be tested by VA end users and Contractor staff for proper functionality and for Section 508 compliance (IAW Section 508 website: http://www.",
+        "requirement_type": "Quality assurance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0.25,
+        "relationships": [
+            14
+        ]
+    },
+    {
+        "requirement_id": 39,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall provide a Release/Change Management Plan to the COR which is required to contain release control procedures and processes to report and track all defects, fixes, and changes for each release, as well as ensure quarterly releases at a minimum.",
+        "requirement_type": "Business",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0,
+        "relationships": [
+            4,
+            5,
+            15,
+            20,
+            21,
+            22,
+            32,
+            34
+        ]
+    },
+    {
+        "requirement_id": 40,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall provide a configuration control process tool to automate Release/Change Management procedures and tracking.",
+        "requirement_type": "System",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Security",
+        "confidence_factor": 0,
+        "relationships": [
+            8,
+            19,
+            24,
+            36
+        ]
+    },
+    {
+        "requirement_id": 41,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall organize and conduct a per sprint Virtual Environment Change Control Board (CCB) meeting with Government representatives for VA-required and minor recommended system changes and provide meeting minutes within five (5) calendar days after the meeting.",
+        "requirement_type": "Security",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Data",
+        "confidence_factor": 0,
+        "relationships": [
+            7,
+            16,
+            37
+        ]
+    },
+    {
+        "requirement_id": 42,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall develop Software Release Notes for every release including a list of requirements, changes and defects/fixes for each release delivered, when the request to promote releases to production is COR approved.",
+        "requirement_type": "Security",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0,
+        "relationships": [
+            7,
+            16,
+            37,
+            41
+        ]
+    },
+    {
+        "requirement_id": 43,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall maintain the Cloud Hosting Production sub-environment to assure 95% availability for end users (excluding external network related failures/problems).",
+        "requirement_type": "System",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Cloud computing",
+        "confidence_factor": 0,
+        "relationships": [
+            8,
+            19,
+            24,
+            36,
+            40
+        ]
+    },
+    {
+        "requirement_id": 44,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall report the VA IT Campus environment availability in the Contractors Progress, Status and Management Quarterly Report (CPSMR).",
+        "requirement_type": "Functional",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            1,
+            13,
+            23,
+            25
+        ]
+    },
+    {
+        "requirement_id": 45,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall develop all VA IT Campus emergency fixes, program/site enhancements, and minor changes to be compatible with all existing VA IT Campussystem software infrastructures.",
+        "requirement_type": "Security",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0,
+        "relationships": [
+            7,
+            16,
+            37,
+            41,
+            42
+        ]
+    },
+    {
+        "requirement_id": 46,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The VA IT Campus shall be maintained in a manner that it can be integrated into a Government Cloud host provider in the event the solution is migrated in the future.",
+        "requirement_type": "Business",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Cloud computing",
+        "confidence_factor": 0,
+        "relationships": [
+            4,
+            5,
+            15,
+            20,
+            21,
+            22,
+            32,
+            34,
+            39
+        ]
+    },
+    {
+        "requirement_id": 47,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall perform backups of all VA IT CampusEnvironment software infrastructures to include website and associated databasesmonthly, and again at each software release, to a Contractor-provided repository, andprovide rollback capability of data.",
+        "requirement_type": "Security",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            7,
+            16,
+            37,
+            41,
+            42,
+            45
+        ]
+    },
+    {
+        "requirement_id": 48,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall provide Backup Data (including on-demand library courses) to the COR quarterly via digital delivery to VA storage location.",
+        "requirement_type": "System",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            8,
+            19,
+            24,
+            36,
+            40,
+            43
+        ]
+    },
+    {
+        "requirement_id": 49,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "All Software Code shall be provided in the production format and as a text document.",
+        "requirement_type": "Quality assurance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Security",
+        "confidence_factor": 0,
+        "relationships": [
+            14,
+            38
+        ]
+    },
+    {
+        "requirement_id": 50,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall use VA accepted applications and all reporting and sharing of information shall be in Microsoft (MS) Office format.",
+        "requirement_type": "System",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Security",
+        "confidence_factor": 0,
+        "relationships": [
+            8,
+            19,
+            24,
+            36,
+            40,
+            43,
+            48
+        ]
+    },
+    {
+        "requirement_id": 51,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall implement the VA IT Campus environments into the Pre\u0002Production sub-environments and perform integration and user testing, including functional and operational testing of the VA IT Campus environments.",
+        "requirement_type": "Quality assurance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Cloud computing",
+        "confidence_factor": 0,
+        "relationships": [
+            14,
+            38,
+            49
+        ]
+    },
+    {
+        "requirement_id": 52,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall provide a Test Plan that includes system requirements/configuration, testing procedures for VA users and VA administrators, expected results to test cases that map to all requirements, and procedures to document findings denoting severity and priority.",
+        "requirement_type": "Quality assurance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0,
+        "relationships": [
+            14,
+            38,
+            49,
+            51
+        ]
+    },
+    {
+        "requirement_id": 53,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "Additionally, the Contractor shall test to ensure that the VA IT Campus application accepts the signals emanating from the Main Production Studios at both respective locations, is accessible from an outside internet connection, and that all aspects of the VA IT Campus are operating correctly.",
+        "requirement_type": "Quality assurance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Cloud computing",
+        "confidence_factor": 0,
+        "relationships": [
+            14,
+            38,
+            49,
+            51,
+            52
+        ]
+    },
+    {
+        "requirement_id": 54,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Test Plan shall be provided to the COR for review and approval, and testing shall not begin until the Test Plan is approved by the COR.",
+        "requirement_type": "Quality assurance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Security",
+        "confidence_factor": 0,
+        "relationships": [
+            14,
+            38,
+            49,
+            51,
+            52,
+            53
+        ]
+    },
+    {
+        "requirement_id": 55,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall provide a Test Reportdocumenting results of tests to the COR.",
+        "requirement_type": "Quality assurance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            14,
+            38,
+            49,
+            51,
+            52,
+            53,
+            54
+        ]
+    },
+    {
+        "requirement_id": 56,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Test Report shall include a list of known issues found during testing identified by severity and method to remediate.",
+        "requirement_type": "Quality assurance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            14,
+            38,
+            49,
+            51,
+            52,
+            53,
+            54,
+            55
+        ]
+    },
+    {
+        "requirement_id": 57,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall correct all identified defects, within five (5) days of notification from the COR, to proceed with corrections.",
+        "requirement_type": "Non-functional",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0,
+        "relationships": [
+            10,
+            17,
+            26
+        ]
+    },
+    {
+        "requirement_id": 58,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "If remediation will take longer than five (5) days, this shall be coordinated and approved by the COR.",
+        "requirement_type": "Non-functional",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            10,
+            17,
+            26,
+            57
+        ]
+    },
+    {
+        "requirement_id": 59,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall develop, implement, and test quarterly software releases for all approved changes.",
+        "requirement_type": "Quality assurance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Internet of things (iot)",
+        "confidence_factor": 0,
+        "relationships": [
+            14,
+            38,
+            49,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56
+        ]
+    },
+    {
+        "requirement_id": 60,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The complexity of the LOE required for each change shall be determined during the monthly Virtual Environment CCB meeting through collaborative review and agreement between COR and the Contractor.",
+        "requirement_type": "Functional",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0,
+        "relationships": [
+            1,
+            13,
+            23,
+            25,
+            44
+        ]
+    },
+    {
+        "requirement_id": 61,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "Selected changes shall be approved by the COR prior to commencing.",
+        "requirement_type": "Regulatory or compliance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0,
+        "relationships": [
+            2,
+            6,
+            9,
+            28,
+            29,
+            33
+        ]
+    },
+    {
+        "requirement_id": 62,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "Develop a feature that allows end users to turn on or off the open/closed captioning features on all live and recorded events; this feature shall be incorporated as a navigation button to allow end users to turn it on and off and not have to leave an event.",
+        "requirement_type": "User",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0.25,
+        "relationships": [
+            12,
+            30
+        ]
+    },
+    {
+        "requirement_id": 63,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "Develop the capability for VA IT Campus Environment administrators to generate both automatic and manual HTML email notifications to end users for site announcements and updates.",
+        "requirement_type": "Functional",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0,
+        "relationships": [
+            1,
+            13,
+            23,
+            25,
+            44,
+            60
+        ]
+    },
+    {
+        "requirement_id": 64,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "All automatic emails shall be generated from an administrative account with permissions granted to VA administratorsand Contract administrators.",
+        "requirement_type": "User",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Artificial intelligence (ai)",
+        "confidence_factor": 0,
+        "relationships": [
+            12,
+            30,
+            62
+        ]
+    },
+    {
+        "requirement_id": 65,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "All automatic email configuration parameters shall be able to be updated through the Content Management System (CMS) tool for users with the appropriate level of access.",
+        "requirement_type": "Functional",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0,
+        "relationships": [
+            1,
+            13,
+            23,
+            25,
+            44,
+            60,
+            63
+        ]
+    },
+    {
+        "requirement_id": 66,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The on-demand library shall include a listing of recorded events for end users to watch at their convenience, a document repository where end users can search for documents (posters, communications, course downloads, etc.",
+        "requirement_type": "User",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            12,
+            30,
+            62,
+            64
+        ]
+    },
+    {
+        "requirement_id": 67,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "Note: A comprehensive search engine shall be built into the system to provide a learner friendly search feature where all on-demand content (videos, documents, etc.",
+        "requirement_type": "User",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            12,
+            30,
+            62,
+            64,
+            66
+        ]
+    },
+    {
+        "requirement_id": 68,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "On-demand content shall support MS Office and Adobe file formats, HTML, and the following video containers: Moving Picture Experts Group-4 compression (MP4), Third Generation Partnership Project (3GPP), and WebM.",
+        "requirement_type": "Performance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            3,
+            11,
+            18,
+            35
+        ]
+    },
+    {
+        "requirement_id": 69,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "All end users shall have read-only access to the on-demand library and all content therein.",
+        "requirement_type": "Functional",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0,
+        "relationships": [
+            1,
+            13,
+            23,
+            25,
+            44,
+            60,
+            63,
+            65
+        ]
+    },
+    {
+        "requirement_id": 70,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "End users shall have the ability to ask questions and get immediate responses or have questions emailed to experts, send their electronic business card or end users contact information (name, organization, email address, phone number) to other end users.",
+        "requirement_type": "Functional",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0,
+        "relationships": [
+            1,
+            13,
+            23,
+            25,
+            44,
+            60,
+            63,
+            65,
+            69
+        ]
+    },
+    {
+        "requirement_id": 71,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "Develop three (3) separate areas within the virtual environment that can handle Conferences, Training, and Meetings respectively, accessible to the user from the website landing page.",
+        "requirement_type": "Performance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Security",
+        "confidence_factor": 0,
+        "relationships": [
+            3,
+            11,
+            18,
+            35,
+            68
+        ]
+    },
+    {
+        "requirement_id": 72,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "Each virtual environment shall display a graphical representation to the user based on event type, based on VA\u0002provided requirements approved by VA.",
+        "requirement_type": "Functional",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Security",
+        "confidence_factor": 0,
+        "relationships": [
+            1,
+            13,
+            23,
+            25,
+            44,
+            60,
+            63,
+            65,
+            69,
+            70
+        ]
+    },
+    {
+        "requirement_id": 73,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall conduct a functional and operational test of the VA IT Campusapplication at each software release, in the Test sub-environment, before requesting User Acceptance Test (UAT) for each release.",
+        "requirement_type": "Quality assurance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Internet of things (iot)",
+        "confidence_factor": 0,
+        "relationships": [
+            14,
+            38,
+            49,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            59
+        ]
+    },
+    {
+        "requirement_id": 74,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall ensure that all learner interfaces shall remain Section 508 compliant prior to implementing software release updates and changes in the Production sub-environment.",
+        "requirement_type": "Security",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0,
+        "relationships": [
+            7,
+            16,
+            37,
+            41,
+            42,
+            45,
+            47
+        ]
+    },
+    {
+        "requirement_id": 75,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall develop and provide a VA UAT Plan to the COR for each software release with testing procedures for VA users and VA administrators.",
+        "requirement_type": "System",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0,
+        "relationships": [
+            8,
+            19,
+            24,
+            36,
+            40,
+            43,
+            48,
+            50
+        ]
+    },
+    {
+        "requirement_id": 76,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The UAT Plan shall include testing procedures and expected results (test cases) to test all requirements and functionality for each release, procedures to document findings, (severity and priorities), system requirements/configuration, and a list of known issues found during testing performed by the Contractor prior to VA-performed UAT.",
+        "requirement_type": "Quality assurance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0,
+        "relationships": [
+            14,
+            38,
+            49,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            59,
+            73
+        ]
+    },
+    {
+        "requirement_id": 77,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall provide a Test Report to the COR for each software release which includes the summary results of VA and Contractor UAT, test findings for all test cases and test variance.",
+        "requirement_type": "Quality assurance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            14,
+            38,
+            49,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            59,
+            73,
+            76
+        ]
+    },
+    {
+        "requirement_id": 78,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Test Report shall include a list of known issues found during testing performed by the Contractor prior to VA-performed UAT as well as issues identified during UAT.",
+        "requirement_type": "Quality assurance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Security",
+        "confidence_factor": 0,
+        "relationships": [
+            14,
+            38,
+            49,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            59,
+            73,
+            76,
+            77
+        ]
+    },
+    {
+        "requirement_id": 79,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall correct all defects and issues found during Contractor-performed testing or UAT, within five (5) working days.",
+        "requirement_type": "Quality assurance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Security",
+        "confidence_factor": 0,
+        "relationships": [
+            14,
+            38,
+            49,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            59,
+            73,
+            76,
+            77,
+            78
+        ]
+    },
+    {
+        "requirement_id": 80,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall provide a Cloud Hosting Services Description Document for all cloud services implemented in the pre-production sub-environments, and all standards necessary to maintain and support the infrastructures to include database requirements, mail server, domain, bandwidth requirements, data storage and other capability deemed necessary by the Contractor.",
+        "requirement_type": "Regulatory or compliance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Cloud computing",
+        "confidence_factor": 0,
+        "relationships": [
+            2,
+            6,
+            9,
+            28,
+            29,
+            33,
+            61
+        ]
+    },
+    {
+        "requirement_id": 81,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall provide an Environment Validation Report that documents verification that all technical, functional, operational, and security requirements have been met for the sub-environments.",
+        "requirement_type": "Regulatory or compliance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            2,
+            6,
+            9,
+            28,
+            29,
+            33,
+            61,
+            80
+        ]
+    },
+    {
+        "requirement_id": 82,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The following elements shall be included in the Environment Validation Report: 1.",
+        "requirement_type": "Design",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            27,
+            31
+        ]
+    },
+    {
+        "requirement_id": 83,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "After COR review of the Environment Validation Report, the Contractor shall address/resolve COR comments and deliver a final Environment Validation ReportDeliverables:A.",
+        "requirement_type": "User",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0.25,
+        "relationships": [
+            12,
+            30,
+            62,
+            64,
+            66,
+            67
+        ]
+    },
+    {
+        "requirement_id": 84,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "3 USER ONLINE SUPPORT TOOLThe Contractor shall conduct quarterly reviews of the current User On-line (Help) Support Tool, provide recommendations for improvements to the tool to COR during the monthly Virtual Environment CCB meetings, to obtain COR approval of any modifications prior to implementation of any changes.",
+        "requirement_type": "User",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            12,
+            30,
+            62,
+            64,
+            66,
+            67,
+            83
+        ]
+    },
+    {
+        "requirement_id": 85,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall incorporate COR approved emergency fixes and modifications into the updates.",
+        "requirement_type": "Functional",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            1,
+            13,
+            23,
+            25,
+            44,
+            60,
+            63,
+            65,
+            69,
+            70,
+            72
+        ]
+    },
+    {
+        "requirement_id": 86,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "Online tools shall provide end users with the procedures and how to for using all the functions in the VA IT Campus.",
+        "requirement_type": "User",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0,
+        "relationships": [
+            12,
+            30,
+            62,
+            64,
+            66,
+            67,
+            83,
+            84
+        ]
+    },
+    {
+        "requirement_id": 87,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "Thereafter, the Contractor shall update the User Online Support Tool with applicable changes effected by software releases.",
+        "requirement_type": "Regulatory or compliance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0,
+        "relationships": [
+            2,
+            6,
+            9,
+            28,
+            29,
+            33,
+            61,
+            80,
+            81
+        ]
+    },
+    {
+        "requirement_id": 88,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "3 VA IT CAMPUS SYSTEM DOCUMENTATION The Contractor shall validate and provide input for all existing documentation, which will be provided by the COR, for VA IT Campus production and pre-production sub\u0002environments.",
+        "requirement_type": "Regulatory or compliance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Cloud computing",
+        "confidence_factor": 0,
+        "relationships": [
+            2,
+            6,
+            9,
+            28,
+            29,
+            33,
+            61,
+            80,
+            81,
+            87
+        ]
+    },
+    {
+        "requirement_id": 89,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "The Contractor shall only use VA approved templates and formats.",
+        "requirement_type": "Performance",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Software",
+        "confidence_factor": 0,
+        "relationships": [
+            3,
+            11,
+            18,
+            35,
+            68,
+            71
+        ]
+    },
+    {
+        "requirement_id": 90,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "1 SYSTEM DESCRIPTION DOCUMENTATIONThe Contractor shall provide a System Update Manual Memo that identifies, providesupdated information and outlines all components of the VA IT Campus configurationsthat are changed for VA staff to modify the System Description Document (Attachment A) that includes the systems configuration, functionality, flows and specifications.",
+        "requirement_type": "System",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Hardware",
+        "confidence_factor": 0.25,
+        "relationships": [
+            8,
+            19,
+            24,
+            36,
+            40,
+            43,
+            48,
+            50,
+            75
+        ]
+    },
+    {
+        "requirement_id": 91,
+        "original_RFP_context": "texteN2.txt",
+        "extracted_requirements": "This shall include all aspects and functions of the VA IT Campus requirements in accordance with PWS 5.",
+        "requirement_type": "Design",
+        "RFP_domain": "Healthcare",
+        "requirement_domain": "Networks",
+        "confidence_factor": 0,
+        "relationships": [
+            27,
+            31,
+            82
+        ]
+    }
+]

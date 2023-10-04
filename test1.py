@@ -11,6 +11,10 @@ from src import (
     identify_relationships,
 )
 
+from requirementsType.bbc import auto_categorization as types
+from requirementsDomain.bbc import auto_categorization as domain
+from rfp_domain.bbc import auto_categorization as rfp_domain
+
 # categorizer = get_requirement.RequirementCategorizer()
 
 
@@ -21,6 +25,7 @@ class RequirementsExtractor:
         self.paragraphs = ""
         self.cleaned_text = ""
         self.sentences = ""
+        self.background_subsection = ""
         self.all_requirements_data = []
         self.extracted_requirements_list = []
         self.segmented_text = []
@@ -40,7 +45,8 @@ class RequirementsExtractor:
 
     def segment_paragraphs(self):
         # Remplacer les sauts de ligne par des espaces pour nettoyer les paragraphes
-        self.cleaned_text = re.sub(r"\n", " ", self.text)
+        self.cleaned_text = re.sub(r"[^\x00-\x7f]", "", self.text)
+        self.cleaned_text = re.sub(r"\n", "", self.cleaned_text)
         self.cleaned_text = re.sub(r"–", "", self.cleaned_text).strip()
         # Segmenter le texte en paragraphes
         self.paragraphs = re.split(r"\n\n+", self.cleaned_text)
@@ -52,6 +58,7 @@ class RequirementsExtractor:
         self.keywords = [
             "shall",
             "must",
+            "must be able to",
             "should",
             "have to",
             "need to",
@@ -82,6 +89,46 @@ class RequirementsExtractor:
         with open(self.file_path, "r") as txt_file:
             self.text = txt_file.read()
 
+    def extract_background_subsection(self):
+        # Define the possible start markers for the "Background" subsection
+        start_markers = [
+            "1. Background",
+            "1.1. Background.",
+            "1.0 BACKGROUND",
+        ]
+
+        # Define the possible end markers for the subsection
+        end_markers = [
+            "2.",
+            "1.2.",
+            "2.0",
+        ]
+
+        # Initialize variables to store the start and end positions
+        start_index = None
+        end_index = None
+
+        # Find the starting position using any of the possible start markers
+        for marker in start_markers:
+            start_index = self.text.find(marker)
+            if start_index != -1:
+                break  # Exit the loop if a valid start marker is found
+
+        # Find the ending position using any of the possible end markers
+        for marker in end_markers:
+            if start_index is not None:
+                end_index = self.text.find(marker, start_index)
+                if end_index != -1:
+                    break  # Exit the loop if a valid end marker is found
+
+        if start_index is not None and end_index != -1:
+            # Extract the "Background" subsection
+            self.background_subsection = self.text[start_index:end_index].strip()
+            # print(self.background_subsection)
+            return self.background_subsection
+        else:
+            return None
+
     def extract_requirements(self):
         for req in self.segmented_text:
             # Créez un dictionnaire représentant une exigence
@@ -90,9 +137,15 @@ class RequirementsExtractor:
                     "requirement_id": len(self.extracted_requirements_list) + 1,
                     "original_RFP_context": os.path.basename(self.file_path),
                     "extracted_requirements": req.strip(),
-                    "requirement_type": get_requirement_type(req),
-                    "RFP_domain": get_rfp_domain(req),
-                    "requirement_domain": get_requirement_domain(req),
+                    "requirement_type": types.classify(
+                        req
+                    ),  # get_requirement_type(req),
+                    "RFP_domain": rfp_domain.classify(
+                        self.background_subsection
+                    ),  # get_rfp_domain(req),
+                    "requirement_domain": domain.classify(
+                        req
+                    ),  # get_requirement_domain(req),
                     "confidence_factor": get_confidence_factor(req),
                     "relationships": [],
                 }
@@ -121,8 +174,11 @@ class RequirementsExtractor:
         else:
             print("Extension de fichier non prise en charge.")
             # return
+
+        self.extract_background_subsection()
+
         self.paragraphs = self.segment_paragraphs()
-        
+
         for paragraph in self.paragraphs:
             sentences = self.segment_sentences(paragraph)
             self.segmented_text.extend(sentences)
@@ -131,6 +187,6 @@ class RequirementsExtractor:
 
 
 # Utilisation de la classe
-file_path = "/Users/mamoutou.doumbia/Desktop/ComplianceCheck/research/data/texteN3.txt"  # Remplacez par le chemin vers votre fichier
+file_path = "/Users/mamoutou.doumbia/Desktop/ComplianceCheck/research/data/texteN2.txt"  # Remplacez par le chemin vers votre fichier
 extractor = RequirementsExtractor(file_path)
 extractor.process_file()

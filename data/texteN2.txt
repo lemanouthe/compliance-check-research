@@ -1,3 +1,37 @@
+1.0 BACKGROUND
+The mission of the Department of Veterans Affairs (VA), Office of Information &
+Technology (OIT), Office of People Science (OPS), IT Workforce Development (ITWD)
+is to provide benefits and services to Veterans of the United States. In meeting these
+goals, OIT strives to provide high quality, effective, and efficient Information Technology
+(IT) services to those responsible for providing care to the Veterans at the point-of-care
+as well as throughout all points of Veterans’ health care in an effective, timely and
+compassionate manner. VA depends on Information Management/Information
+Technology (IM/IT) systems to meet mission goals.
+ITWD maintains responsibility for the design, development, and delivery of IT-specific
+training in support of the VA OIT workforce. This includes approximately 8,000 OIT
+Government employees and an additional 8,000 contractors. To accomplish its
+mission, ITWD delivers internally developed training and industry recognized IT
+certification courses using various modalities. This includes physical and virtual
+classrooms.
+To enable virtual delivery of courses, ITWD has a significant software and hardware
+infrastructure. This includes a VA IT Campus Web Application that supports two green
+screen studios with control rooms in Shepherdstown, West Virginia and two green
+screen studios with control rooms in Washington DC. The VA IT Campus Web
+Application (vaitcampus.com) utilizes PIV authentication via SSOe and is hosted in
+Amazon AWS Commercial East utilizing Cloudfront and NodeJS Lambda functions as a
+serverless application and DynamoDB as a serverless database. Cloud-hosting allows
+ITWD to achieve remote delivery of training to the OIT workforce in a manner
+decreasing the performance impact on VA internal network components. This is due to
+the bandwidth required to stream video content to course attendees and the focus of the
+VA internal network to deliver other mission essential resources. The VA IT Campus
+Web Application is a collaborative platform to deliver virtual training, meetings, and
+conferences to large numbers of simultaneous users at a lower cost and more timely
+than traditional physical classroom activities and provides for automatic Talent
+Management System (TMS) credit.
+2.0 APPLICABLE DOCUMENTS
+The Contractor shall comply with the following documents, in addition to the documents
+in Paragraph 2.0 in the T4NG Basic Performance Work Statement (PWS), in the
+performance of this effort:
 5.0 SPECIFIC TASKS AND DELIVERABLES
 The Contractor shall perform the following:
 5.1 PROJECT MANAGEMENT

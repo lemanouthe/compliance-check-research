@@ -170,16 +170,17 @@ def train_classifier(docs):
 
 def classify(text):
     # load classifier
-    clf_filename = 'naive_bayes_classifier.pkl'
+    clf_filename = '/Users/mamoutou.doumbia/Desktop/ComplianceCheck/research/requirementsDomain/bbc/naive_bayes_classifier.pkl'
     nb_clf = pickle.load(open(clf_filename, 'rb'))
     
     # vectorize the new text
-    vec_filename = 'count_vectorizer.pkl'
+    vec_filename = '/Users/mamoutou.doumbia/Desktop/ComplianceCheck/research/requirementsDomain/bbc/count_vectorizer.pkl'
     vectorizer = pickle.load(open(vec_filename, 'rb'))
     
     pred = nb_clf.predict(vectorizer.transform([text]))
     
-    print(pred[0].capitalize())
+    # print(pred[0].capitalize())
+    return pred[0].capitalize()
 
 if __name__ == "__main__":
     # create_data_set()
