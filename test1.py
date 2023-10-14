@@ -15,6 +15,8 @@ from requirementsType.bbc import auto_categorization as types
 from requirementsDomain.bbc import auto_categorization as domain
 from rfp_domain.bbc import auto_categorization as rfp_domain
 
+import nltk
+
 # categorizer = get_requirement.RequirementCategorizer()
 
 
@@ -37,16 +39,21 @@ class RequirementsExtractor:
         self.cleaned_text = re.sub(r"\s+", " ", self.cleaned_text)
 
         self.cleaned_text.strip()
+        
+        return self.cleaned_text
 
     def segment_sentences(self, text):
         # Segmenter le texte en phrases
         sentences = re.findall(r"[^.!?]+[.!?]", text)
+        # Tokenisation
+        # sentences = nltk.sent_tokenize(text)
         return sentences
 
     def segment_paragraphs(self):
         # Remplacer les sauts de ligne par des espaces pour nettoyer les paragraphes
         self.cleaned_text = re.sub(r"[^\x00-\x7f]", "", self.text)
-        self.cleaned_text = re.sub(r"\n", "", self.cleaned_text)
+        self.cleaned_text = re.sub(r"\n", " ", self.cleaned_text)
+        self.cleaned_text = re.sub(r"\d", "", self.cleaned_text)
         self.cleaned_text = re.sub(r"–", "", self.cleaned_text).strip()
         # Segmenter le texte en paragraphes
         self.paragraphs = re.split(r"\n\n+", self.cleaned_text)
@@ -174,7 +181,7 @@ class RequirementsExtractor:
         else:
             print("Extension de fichier non prise en charge.")
             # return
-
+        self.clean_text()
         self.extract_background_subsection()
 
         self.paragraphs = self.segment_paragraphs()

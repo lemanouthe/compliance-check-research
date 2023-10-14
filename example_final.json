@@ -1,0 +1,56 @@
+{
+    "appel_d_offres": {
+        "titre": "Titre de l'appel d'offres",
+        "description": "Description de l'appel d'offres",
+        "date_debut": "2023-09-01",
+        "date_fin": "2023-09-30",
+        "organisme_emetteur": "Nom de l'organisme émetteur",
+        "exigences": [
+            {
+                "id": 1,
+                "original_RFP_context": "texteN3.txt",
+                "extracted_requirements": "Exigence 1",
+                "requirement_type": "Functional",
+                "RFP_domain": "Information Technology (IT)",
+                "requirement_domain": "Software",
+                "confidence_factor": 0,
+                "relationships": [],
+                "statut": "Accepté"
+            },
+            {
+                "id": 2,
+                "original_RFP_context": "texteN3.txt",
+                "extracted_requirements": "Exigence 2",
+                "requirement_type": "Business",
+                "RFP_domain": "Healthcare",
+                "requirement_domain": "Hardware",
+                "confidence_factor": 1,
+                "relationships": [],
+                "statut": "Rejeté"
+            }
+        ]
+    },
+    "reponses": [
+        {
+            "id": 1,
+            "fournisseur": "Nom du fournisseur 1",
+            "date_soumission": "2023-09-15",
+            "statut": "Acceptée",
+            "commentaires": "Commentaires sur la réponse 1"
+        },
+        {
+            "id": 2,
+            "fournisseur": "Nom du fournisseur 2",
+            "date_soumission": "2023-09-20",
+            "statut": "En attente",
+            "commentaires": "Commentaires sur la réponse 2"
+        },
+        {
+            "id": 3,
+            "fournisseur": "Nom du fournisseur 3",
+            "date_soumission": "2023-09-25",
+            "statut": "Rejetée",
+            "commentaires": "Commentaires sur la réponse 3"
+        }
+    ]
+}
