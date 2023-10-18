@@ -49,12 +49,13 @@
     # print(f"Requirement Detail: {requirement.strip()}\n")
 
 
-question = "Quelles sont les exigences principales de ce projet ?"
-texte_source = """
-Voici le texte à partir duquel nous voulons extraire des exigences. Les exigences sont généralement
-formulées de manière claire et concise, souvent sous forme de phrases courtes.
-"""
+# question = "Quelles sont les exigences principales de ce projet ?"
+# texte_source = """
+# Voici le texte à partir duquel nous voulons extraire des exigences. Les exigences sont généralement
+# formulées de manière claire et concise, souvent sous forme de phrases courtes.
+# """
 
-prompt = f"Question : {question}\nContexte : {texte_source}\nRéponse :"
+# prompt = f"Question : {question}\nContexte : {texte_source}\nRéponse :"
 
-print(prompt)
+# print(prompt)
+
