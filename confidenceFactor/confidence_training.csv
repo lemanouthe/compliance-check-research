@@ -2,9 +2,9 @@ text,category
 Support 20% increase in company sales within the first year.,specificity
 Display product catalog with images and descriptions.,unambiguous
 Ability to create a new account with a unique email address.,measurable
-"System compatibility with Windows, macOS, and Linux operating systems.",verifiable
-Provide 'Forgot Password' feature for account recovery.,specificity
-"The software must be able to process 1,000 transactions per minute.",unambiguous
+System compatibility with Windows macOS and Linux operating systems.,verifiable
+Provide Forgot Password feature for account recovery.,specificity
+The software must be able to process 1.000 transactions per minute.,unambiguous
 Users should be able to customize their profile settings.,measurable
 The network must have redundancy for fault tolerance.,verifiable
 The system should have a user-friendly interface.,specificity

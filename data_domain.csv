@@ -1,0 +1,401 @@
+category,filename,text
+artificial intelligence (AI),048.txt,Data encryption key management practices within AI systems must be documented.
+artificial intelligence (AI),049.txt,Data retention automation tools must enforce policies for AI-generated data.
+artificial intelligence (AI),003.txt,User consent must be obtained for data collection and processing by AI algorithms.
+artificial intelligence (AI),017.txt,User access reviews must be conducted to revoke unnecessary permissions within AI systems.
+artificial intelligence (AI),016.txt,AI model access logs must be maintained for auditing and monitoring.
+artificial intelligence (AI),002.txt,Data processing by AI models must adhere to data privacy regulations.
+artificial intelligence (AI),014.txt,Intrusion detection and prevention mechanisms must be employed by AI systems.
+artificial intelligence (AI),028.txt,Data recovery plans and procedures must be in place for AI-generated data.
+artificial intelligence (AI),029.txt,AI-generated data migrations must be performed with minimal disruption to operations.
+artificial intelligence (AI),001.txt,AI systems must comply with General Data Protection Regulation (GDPR) for personal data.
+artificial intelligence (AI),015.txt,Data loss prevention (DLP) mechanisms must be enforced within AI environments.
+artificial intelligence (AI),039.txt,Data privacy impact assessments (DPIA) must be conducted for new AI data processing activities.
+artificial intelligence (AI),011.txt,Access to AI model data must require strong user authentication.
+artificial intelligence (AI),005.txt,Data sharing from AI systems to third parties must follow privacy regulations.
+artificial intelligence (AI),004.txt,AI models must provide mechanisms for data anonymization to protect user identities.
+artificial intelligence (AI),010.txt,Data breach notification mechanisms must be in place for AI-generated data.
+artificial intelligence (AI),038.txt,AI systems must support data access reviews and audits to detect unauthorized access.
+artificial intelligence (AI),006.txt,Data retention policies for AI-generated data must align with legal and regulatory requirements.
+artificial intelligence (AI),012.txt,Data transmission to and from AI models must be encrypted to protect data in transit.
+artificial intelligence (AI),013.txt,AI models must apply security patches and updates promptly.
+artificial intelligence (AI),007.txt,Sensitive data used by AI models must be encrypted to prevent unauthorized access.
+artificial intelligence (AI),022.txt,AI-generated data must undergo validation to prevent errors.
+artificial intelligence (AI),036.txt,Data compliance officers or teams must be designated to oversee compliance efforts for AI-generated data.
+artificial intelligence (AI),037.txt,Compliance with industry-specific regulations must be maintained for AI-generated data.
+artificial intelligence (AI),023.txt,Changes to critical AI-generated data fields must be logged for auditing purposes.
+artificial intelligence (AI),035.txt,Data compliance reports for AI-generated data must be generated and submitted as required.
+artificial intelligence (AI),021.txt,Data used to train AI models must be of high quality and accuracy.
+artificial intelligence (AI),009.txt,AI models must implement security features to protect data during processing.
+artificial intelligence (AI),008.txt,Records of user consent for AI data processing activities must be maintained.
+artificial intelligence (AI),020.txt,AI models must support secure remote management to prevent unauthorized access.
+artificial intelligence (AI),034.txt,Data compliance audits for AI-generated data must be conducted to ensure adherence to regulations.
+artificial intelligence (AI),018.txt,Role-based access control (RBAC) must be applied to restrict access to AI-generated data.
+artificial intelligence (AI),030.txt,AI-generated data must adhere to defined data quality standards and guidelines.
+artificial intelligence (AI),024.txt,Data integration between AI models must maintain data consistency and integrity.
+artificial intelligence (AI),025.txt,Data imports and exports must follow industry-standard data formats in AI environments.
+artificial intelligence (AI),031.txt,Data governance policies and procedures for AI-generated data must be documented and followed.
+artificial intelligence (AI),019.txt,User accounts with AI systems must be disabled promptly upon user termination.
+artificial intelligence (AI),027.txt,AI-generated data must be regularly backed up to prevent data loss or corruption.
+artificial intelligence (AI),033.txt,Records of AI-generated data access modifications and security audits must be maintained.
+artificial intelligence (AI),032.txt,AI model providers must undergo security assessments and certifications.
+artificial intelligence (AI),026.txt,Metadata must be maintained to track AI-generated data lineage and origin.
+artificial intelligence (AI),041.txt,AI-generated data retention policies must specify the duration for which data is retained.
+artificial intelligence (AI),040.txt,AI models must comply with Payment Card Industry Data Security Standard (PCI DSS) for credit card data.
+artificial intelligence (AI),042.txt,AI models must support automated data archiving for long-term retention.
+artificial intelligence (AI),043.txt,Data disposal procedures for AI-generated data must be documented and followed.
+artificial intelligence (AI),047.txt,Requests for access to AI-generated data must be processed within legally required timeframes.
+artificial intelligence (AI),046.txt,Data portability mechanisms for AI-generated data must allow users to transfer their data to other systems.
+artificial intelligence (AI),044.txt,Data erasure mechanisms must be applied to decommissioned AI models.
+artificial intelligence (AI),050.txt,AI models must have data encryption key storage mechanisms in place.
+artificial intelligence (AI),045.txt,AI-generated data backup and recovery plans must be tested for compliance and data integrity.
+cloud computing,048.txt,Data encryption key management practices within cloud environments must be documented.
+cloud computing,049.txt,Data retention automation tools must enforce policies for data stored in the cloud.
+cloud computing,003.txt,Sensitive data must be encrypted during storage and transmission within cloud services.
+cloud computing,017.txt,Cloud data access and modification must be logged for auditing purposes.
+cloud computing,016.txt,Data loss prevention (DLP) mechanisms must be enforced within cloud platforms.
+cloud computing,002.txt,Data processing activities in the cloud must adhere to data privacy regulations.
+cloud computing,014.txt,Data transmission to and from the cloud must be encrypted using secure protocols.
+cloud computing,028.txt,Data recovery plans and procedures must be in place for disaster recovery within cloud environments.
+cloud computing,029.txt,Data migrations within the cloud must be performed with minimal disruption to operations.
+cloud computing,001.txt,Personal data stored in the cloud must comply with General Data Protection Regulation (GDPR) guidelines.
+cloud computing,015.txt,Cloud service providers must apply security patches and updates to protect data.
+cloud computing,039.txt,Data privacy impact assessments (DPIA) must be conducted for new cloud data processing activities.
+cloud computing,011.txt,Cloud services must provide strong authentication methods for user access control.
+cloud computing,005.txt,Cloud services must support data subject access requests (DSAR) within legal timeframes.
+cloud computing,004.txt,Cloud service providers must offer data anonymization techniques to protect privacy.
+cloud computing,010.txt,Records of user consent for cloud data processing activities must be maintained.
+cloud computing,038.txt,Cloud services must support data access reviews and audits to detect unauthorized access.
+cloud computing,006.txt,Data privacy impact assessments (DPIA) must be conducted for new data processing activities.
+cloud computing,012.txt,Access to cloud data must be restricted based on user roles and permissions.
+cloud computing,013.txt,Intrusion detection and prevention systems (IDPS/IPS) must be implemented within cloud environments.
+cloud computing,007.txt,User consent mechanisms for cloud data processing must be provided.
+cloud computing,022.txt,Data stored in the cloud must undergo regular cleaning and deduplication to maintain quality.
+cloud computing,036.txt,Data compliance officers or teams must be designated to oversee compliance efforts within cloud platforms.
+cloud computing,037.txt,Compliance with industry-specific regulations must be maintained within cloud environments.
+cloud computing,023.txt,Changes to critical data fields must be logged for auditing purposes.
+cloud computing,035.txt,Data compliance reports must be generated and submitted as required for cloud data.
+cloud computing,021.txt,Data validation rules must be enforced to ensure data accuracy within cloud systems.
+cloud computing,009.txt,Data retention policies for cloud-stored data must align with legal requirements.
+cloud computing,008.txt,Data sharing with third-party cloud services must follow privacy regulations.
+cloud computing,020.txt,User accounts within cloud services must be disabled promptly upon termination.
+cloud computing,034.txt,Data compliance audits must be conducted to ensure adherence to regulations within cloud environments.
+cloud computing,018.txt,User access reviews must be conducted to revoke unnecessary permissions within cloud systems.
+cloud computing,030.txt,Data within cloud systems must adhere to defined data quality standards and guidelines.
+cloud computing,024.txt,Data integration processes must maintain data consistency and integrity.
+cloud computing,025.txt,Data imports and exports must follow industry-standard data formats in cloud environments.
+cloud computing,031.txt,Data governance policies and procedures must be documented and followed within cloud services.
+cloud computing,019.txt,Role-based access control (RBAC) must be applied to restrict cloud data access.
+cloud computing,027.txt,Data must be regularly backed up to prevent data loss or corruption in the cloud.
+cloud computing,033.txt,Records of cloud data access modifications and security audits must be maintained.
+cloud computing,032.txt,Cloud service providers must undergo security assessments and certifications to ensure compliance.
+cloud computing,026.txt,Metadata must be maintained to track data lineage and origin within cloud platforms.
+cloud computing,041.txt,Data retention policies within cloud services must specify the duration for which data is retained.
+cloud computing,040.txt,Cloud service providers must comply with Payment Card Industry Data Security Standard (PCI DSS) for credit card data.
+cloud computing,042.txt,Cloud platforms must support automated data archiving for long-term retention.
+cloud computing,043.txt,Data disposal procedures for cloud-stored data must be documented and followed.
+cloud computing,047.txt,Requests for access to cloud-stored data must be processed within legally required timeframes.
+cloud computing,046.txt,Cloud data portability mechanisms must allow users to transfer their data to other systems.
+cloud computing,044.txt,Data erasure mechanisms must be applied to decommissioned cloud storage.
+cloud computing,050.txt,Cloud service providers must have data encryption key storage mechanisms in place.
+cloud computing,045.txt,Cloud backup and recovery plans must be tested for compliance and data integrity.
+data,048.txt,Data portability mechanisms must allow users to transfer their data to other systems.
+data,049.txt,Data subject access requests (DSAR) must be processed within legally required timeframes.
+data,003.txt,Data anonymization techniques must be applied to protect individual identities.
+data,017.txt,Data access and modification logs must be maintained for auditing.
+data,016.txt,Data loss prevention (DLP) mechanisms must be enforced.
+data,002.txt,Data processing activities must adhere to data privacy regulations.
+data,014.txt,Data encryption must be implemented to safeguard data in transit.
+data,028.txt,Data recovery plans and procedures must be in place for disaster recovery.
+data,029.txt,Data migrations must be performed with minimal disruption to operations.
+data,001.txt,Personal data must be processed in compliance with the General Data Protection Regulation (GDPR).
+data,015.txt,Security patches and updates must be applied promptly to data systems.
+data,039.txt,Compliance with Payment Card Industry Data Security Standard (PCI DSS) for credit card data must be maintained.
+data,011.txt,Access to sensitive data must require strong user authentication.
+data,005.txt,Data privacy impact assessments (DPIA) must be conducted for new processing activities.
+data,004.txt,Data subject access requests (DSAR) must be processed within legal timeframes.
+data,010.txt,Records of user consent for data processing must be maintained.
+data,038.txt,Data privacy impact assessments (DPIA) must be conducted for new data processing activities.
+data,006.txt,User consent mechanisms for data processing must be in place.
+data,012.txt,Access control lists (ACLs) must be configured to restrict unauthorized access.
+data,013.txt,Intrusion detection systems (IDS) and intrusion prevention systems (IPS) must be in place.
+data,007.txt,Data sharing with third parties must follow privacy regulations.
+data,022.txt,Data must undergo regular cleaning and deduplication to maintain quality.
+data,036.txt,Records of user consent and data processing activities must be maintained.
+data,037.txt,Compliance with industry-specific regulations must be ensured.
+data,023.txt,Changes to critical data fields must be logged for auditing purposes.
+data,035.txt,Data compliance training programs must be provided to employees.
+data,021.txt,Data validation rules must be enforced to ensure data accuracy.
+data,009.txt,Sensitive data must be encrypted to prevent unauthorized access.
+data,008.txt,Data retention policies must align with legal and regulatory requirements.
+data,020.txt,User accounts must be disabled promptly upon employee termination.
+data,034.txt,Data compliance officers or teams must be designated to oversee compliance efforts.
+data,018.txt,User access reviews must be conducted to revoke unnecessary permissions.
+data,030.txt,Data must adhere to defined data quality standards and guidelines.
+data,024.txt,Data integration processes must maintain data consistency and integrity.
+data,025.txt,Data imports and exports must follow industry-standard data formats.
+data,031.txt,Data governance policies and procedures must be documented and followed.
+data,019.txt,Role-based access control (RBAC) must be applied to restrict data access.
+data,027.txt,Data must be regularly backed up to prevent data loss or corruption.
+data,033.txt,Data compliance reports must be generated and submitted as required.
+data,032.txt,Data compliance audits must be conducted to ensure adherence to regulations.
+data,026.txt,Metadata must be maintained to track data lineage and origin.
+data,041.txt,Data retention policies must specify the duration for which data is retained.
+data,040.txt,Data access reviews and audits must be performed to detect unauthorized access.
+data,042.txt,Data archiving strategies must be in place to manage older data.
+data,043.txt,Data disposal procedures must be followed when data is no longer needed.
+data,047.txt,Archived data must be readily accessible when needed for compliance or legal purposes.
+data,046.txt,Data retention periods must align with legal and regulatory requirements.
+data,044.txt,Data backups must be tested for recoverability and compliance.
+data,050.txt,Data encryption key management practices must be documented and followed.
+data,045.txt,Data retention automation must enforce policies.
+hardware,048.txt,Hardware must encrypt data at rest to protect against unauthorized access.
+hardware,049.txt,Data retention automation tools must enforce policies on hardware storage.
+hardware,003.txt,Hardware must include intrusion detection systems to detect physical tampering.
+hardware,017.txt,Hardware components must support encryption of stored data.
+hardware,016.txt,Financial transaction data processing hardware must comply with SOX requirements.
+hardware,002.txt,Access to hardware components must be restricted through strong authentication methods.
+hardware,014.txt,Data retention policies for hardware-generated data must be defined and followed.
+hardware,028.txt,Hardware devices must have backup power sources to prevent data loss.
+hardware,029.txt,Data recovery plans must be in place for hardware failures.
+hardware,001.txt,Hardware devices must have secure boot processes to prevent unauthorized access.
+hardware,015.txt,Hardware used in healthcare settings must adhere to HIPAA regulations.
+hardware,039.txt,Hardware must comply with regulations governing electromagnetic interference (EMI).
+hardware,011.txt,Hardware must comply with data privacy regulations when processing personal data.
+hardware,005.txt,Hardware must support secure key management for data encryption.
+hardware,004.txt,Data transmitted between hardware components must be encrypted.
+hardware,010.txt,Hardware must support secure remote management to prevent unauthorized access.
+hardware,038.txt,Records of user consent for data generated by hardware must be maintained.
+hardware,006.txt,Physical access to data storage devices must be restricted and logged.
+hardware,012.txt,Data collected by hardware sensors must be anonymized to protect privacy.
+hardware,013.txt,Hardware devices must have mechanisms for user consent and data processing opt-outs.
+hardware,007.txt,Hardware devices must have built-in firewalls for network security.
+hardware,022.txt,Data generated by hardware must undergo validation to prevent errors.
+hardware,036.txt,Hardware components must undergo security assessments and certifications.
+hardware,037.txt,Hardware must support data access reviews and audits for compliance.
+hardware,023.txt,Hardware must include error-checking mechanisms for data integrity.
+hardware,035.txt,Compliance with industry-specific hardware regulations must be maintained.
+hardware,021.txt,Hardware sensors must be calibrated to ensure data accuracy.
+hardware,009.txt,Hardware components must comply with industry-specific security standards.
+hardware,008.txt,Security patches and firmware updates must be regularly applied to hardware.
+hardware,020.txt,Data access and transmission from hardware must comply with PCI DSS for credit card data.
+hardware,034.txt,Data compliance officers must oversee hardware data compliance efforts.
+hardware,018.txt,Data generated by hardware must be pseudonymized to prevent identification.
+hardware,030.txt,Data migration between hardware devices must be performed with data integrity checks.
+hardware,024.txt,Data generated by hardware must be time-stamped for accuracy.
+hardware,025.txt,Data from multiple hardware sensors must be synchronized for consistency.
+hardware,031.txt,Hardware vendors must provide documentation on data security and compliance.
+hardware,019.txt,Hardware must support compliance with industry-specific regulations.
+hardware,027.txt,Data integration between hardware systems must maintain data quality.
+hardware,033.txt,Data governance policies for hardware-generated data must be established.
+hardware,032.txt,Hardware devices must support compliance reporting and auditing.
+hardware,026.txt,Hardware components must support data compression and deduplication.
+hardware,041.txt,Data storage devices must have defined data retention periods.
+hardware,040.txt,Hardware components must adhere to environmental data compliance standards.
+hardware,042.txt,Hardware must support automated data archiving for long-term retention.
+hardware,043.txt,Data disposal procedures for hardware storage devices must be documented.
+hardware,047.txt,Requests for access to hardware-generated data must be processed within legal timeframes.
+hardware,046.txt,Hardware devices must support data portability for users.
+hardware,044.txt,Hardware must include mechanisms for secure data erasure.
+hardware,050.txt,Hardware must have data encryption key management practices in place.
+hardware,045.txt,Backup hardware components must be regularly tested for compliance.
+internet of things (IoT),048.txt,Data encryption key management practices within IoT systems must be documented.
+internet of things (IoT),049.txt,Data retention automation tools must enforce policies for IoT-generated data.
+internet of things (IoT),003.txt,IoT devices must provide mechanisms for data anonymization to protect user identities.
+internet of things (IoT),017.txt,User access reviews must be conducted to revoke unnecessary permissions within IoT systems.
+internet of things (IoT),016.txt,IoT device access logs must be maintained for auditing and monitoring.
+internet of things (IoT),002.txt,Data processing by IoT devices must adhere to data privacy regulations.
+internet of things (IoT),014.txt,Intrusion detection and prevention mechanisms must be employed by IoT devices.
+internet of things (IoT),028.txt,Data recovery plans and procedures must be in place for IoT data.
+internet of things (IoT),029.txt,IoT data migrations must be performed with minimal disruption to operations.
+internet of things (IoT),001.txt,Personal data collected by IoT devices must comply with General Data Protection Regulation (GDPR).
+internet of things (IoT),015.txt,Data loss prevention (DLP) mechanisms must be enforced within IoT systems.
+internet of things (IoT),039.txt,Data privacy impact assessments (DPIA) must be conducted for new IoT data processing activities.
+internet of things (IoT),011.txt,Access to IoT device data must require strong user authentication.
+internet of things (IoT),005.txt,Data sharing from IoT devices to third parties must follow privacy regulations.
+internet of things (IoT),004.txt,User consent for data collection and processing by IoT devices must be obtained.
+internet of things (IoT),010.txt,IoT devices must have data breach notification mechanisms in place.
+internet of things (IoT),038.txt,IoT systems must support data access reviews and audits to detect unauthorized access.
+internet of things (IoT),006.txt,IoT data retention policies must align with legal and regulatory requirements.
+internet of things (IoT),012.txt,IoT device data transmission must be encrypted to protect data in transit.
+internet of things (IoT),013.txt,IoT devices must implement security patches and updates promptly.
+internet of things (IoT),007.txt,Sensitive data collected by IoT devices must be encrypted to prevent unauthorized access.
+internet of things (IoT),022.txt,IoT data must undergo validation to prevent errors.
+internet of things (IoT),036.txt,Data compliance officers or teams must be designated to oversee compliance efforts for IoT data.
+internet of things (IoT),037.txt,Compliance with industry-specific regulations must be maintained for IoT data.
+internet of things (IoT),023.txt,Changes to critical IoT data fields must be logged for auditing purposes.
+internet of things (IoT),035.txt,Data compliance reports for IoT data must be generated and submitted as required.
+internet of things (IoT),021.txt,IoT sensors must be calibrated to ensure data accuracy.
+internet of things (IoT),009.txt,IoT device manufacturers must implement security features to protect data.
+internet of things (IoT),008.txt,Records of user consent for IoT data processing activities must be maintained.
+internet of things (IoT),020.txt,IoT devices must support secure remote management to prevent unauthorized access.
+internet of things (IoT),034.txt,Data compliance audits for IoT data must be conducted to ensure adherence to regulations.
+internet of things (IoT),018.txt,Role-based access control (RBAC) must be applied to restrict access to IoT data.
+internet of things (IoT),030.txt,IoT data must adhere to defined data quality standards and guidelines.
+internet of things (IoT),024.txt,Data integration between IoT devices must maintain data consistency and integrity.
+internet of things (IoT),025.txt,IoT data imports and exports must follow industry-standard data formats.
+internet of things (IoT),031.txt,Data governance policies and procedures for IoT data must be documented and followed.
+internet of things (IoT),019.txt,User accounts on IoT devices must be disabled promptly upon user termination.
+internet of things (IoT),027.txt,IoT data must be regularly backed up to prevent data loss or corruption.
+internet of things (IoT),033.txt,Records of IoT data access modifications and security audits must be maintained.
+internet of things (IoT),032.txt,IoT device manufacturers must undergo security assessments and certifications.
+internet of things (IoT),026.txt,Metadata must be maintained to track IoT data lineage and origin.
+internet of things (IoT),041.txt,IoT data retention policies must specify the duration for which data is retained.
+internet of things (IoT),040.txt,IoT devices must comply with Payment Card Industry Data Security Standard (PCI DSS) for credit card data.
+internet of things (IoT),042.txt,IoT devices must support automated data archiving for long-term retention.
+internet of things (IoT),043.txt,Data disposal procedures for IoT-generated data must be documented and followed.
+internet of things (IoT),047.txt,Requests for access to IoT-generated data must be processed within legally required timeframes.
+internet of things (IoT),046.txt,Data portability mechanisms for IoT-generated data must allow users to transfer their data to other systems.
+internet of things (IoT),044.txt,Data erasure mechanisms must be applied to decommissioned IoT devices.
+internet of things (IoT),050.txt,IoT devices must have data encryption key storage mechanisms in place.
+internet of things (IoT),045.txt,IoT data backup and recovery plans must be tested for compliance and data integrity.
+networks,048.txt,Network data storage must adhere to data encryption standards.
+networks,049.txt,Data retention automation tools must enforce policies on network storage.
+networks,003.txt,Intrusion detection systems (IDS) must be in place to monitor network traffic.
+networks,017.txt,Data transmitted over the network must be pseudonymized.
+networks,016.txt,Financial transactions over the network must comply with SOX requirements.
+networks,002.txt,Access to sensitive data must be restricted based on user roles and permissions.
+networks,014.txt,Network data retention policies must align with legal and regulatory requirements.
+networks,028.txt,Network routing must ensure data reaches its intended destination.
+networks,029.txt,Network traffic load balancing must be implemented for data distribution.
+networks,001.txt,Network access must require strong user authentication.
+networks,015.txt,Network devices in healthcare settings must adhere to HIPAA regulations.
+networks,039.txt,Network devices must undergo security assessments and certifications.
+networks,011.txt,Network data transmission must comply with GDPR requirements.
+networks,005.txt,Firewall rules must be configured to restrict unauthorized access.
+networks,004.txt,Network devices must undergo regular security assessments.
+networks,010.txt,Remote access to the network must be secured through VPNs.
+networks,038.txt,Compliance with environmental regulations for network equipment must be ensured.
+networks,006.txt,Network traffic must be encrypted using secure protocols.
+networks,012.txt,Personal data processing over the network must follow privacy regulations.
+networks,013.txt,Data anonymization must be applied to protect user identities.
+networks,007.txt,Security patches and updates must be applied to network devices promptly.
+networks,022.txt,Network data must be encrypted to prevent eavesdropping.
+networks,036.txt,Network devices must support data access reviews and audits.
+networks,037.txt,Network compliance officers must oversee data compliance efforts.
+networks,023.txt,Data integrity checks must be implemented during network transmission.
+networks,035.txt,Compliance with industry-specific network regulations must be maintained.
+networks,021.txt,Network traffic must be monitored for anomalies and security threats.
+networks,009.txt,Network access logs must be maintained and reviewed regularly.
+networks,008.txt,Network devices must support virtual LANs (VLANs) for segmentation.
+networks,020.txt,Network compliance reports must be generated and reviewed.
+networks,034.txt,Data governance policies for network data must be established.
+networks,018.txt,Network data access and transmission must adhere to PCI DSS for credit card data.
+networks,030.txt,Redundant network paths must be in place for fault tolerance.
+networks,024.txt,Network devices must support quality of service (QoS) for data prioritization.
+networks,025.txt,Network latency and jitter must be monitored for performance optimization.
+networks,031.txt,Network hardware and software must comply with regulatory standards.
+networks,019.txt,User consent mechanisms for data processing must be in place.
+networks,027.txt,Data compression and deduplication must be supported for efficient data transfer.
+networks,033.txt,Records of network access and security audits must be maintained.
+networks,032.txt,Network documentation must include data security and compliance information.
+networks,026.txt,Data loss prevention (DLP) mechanisms must be applied to network traffic.
+networks,041.txt,Data transmitted over the network must be retained according to legal requirements.
+networks,040.txt,Data compliance training programs must be provided to network staff.
+networks,042.txt,Network devices must support automated data archiving for compliance.
+networks,043.txt,Data disposal procedures for network storage devices must be documented.
+networks,047.txt,Requests for access to network-generated data must be processed within legal timeframes.
+networks,046.txt,Network data portability mechanisms must allow users to retrieve their data.
+networks,044.txt,Data erasure mechanisms must be applied to decommissioned network hardware.
+networks,050.txt,Network devices must have data encryption key management practices in place.
+networks,045.txt,Network backup and recovery plans must be tested for compliance.
+security,048.txt,Secure coding practices must be followed during software development.
+security,049.txt,Security policies must include guidelines for remote work.
+security,003.txt,User access reviews must be conducted regularly to revoke unnecessary permissions.
+security,017.txt,Encryption must be applied to email communications containing sensitive data.
+security,016.txt,Data loss prevention (DLP) mechanisms must be implemented.
+security,002.txt,Multi-factor authentication (MFA) must be enforced for secure access.
+security,014.txt,Sensitive data must be masked or pseudonymized to protect privacy.
+security,028.txt,Continuous security monitoring must be conducted.
+security,029.txt,Security assessments and vulnerability scans must be performed regularly.
+security,001.txt,Access to sensitive data must be restricted based on user roles and permissions.
+security,015.txt,Data backup and recovery processes must ensure data integrity.
+security,039.txt,Compliance with industry-specific regulations must be maintained.
+security,011.txt,Data at rest must be encrypted to prevent unauthorized access.
+security,005.txt,Access control lists (ACLs) must be configured to limit data access.
+security,004.txt,Strong password policies must be implemented for user accounts.
+security,010.txt,User accounts must be disabled promptly upon employee termination.
+security,038.txt,Data access reviews must be conducted to detect unauthorized access.
+security,006.txt,User authentication logs must be maintained for auditing.
+security,012.txt,Data in transit must be encrypted using secure protocols.
+security,013.txt,Encryption keys must be securely managed and rotated.
+security,007.txt,User sessions must be automatically logged out after inactivity.
+security,022.txt,Security events and incidents must be logged and analyzed.
+security,036.txt,Consent mechanisms for data processing must be in place.
+security,037.txt,Financial data handling must comply with Sarbanes-Oxley Act (SOX) requirements.
+security,023.txt,Security alerts must be investigated promptly.
+security,035.txt,Data privacy impact assessments (DPIA) must be conducted for new processing activities.
+security,021.txt,Intrusion detection systems (IDS) and intrusion prevention systems (IPS) must be in place.
+security,009.txt,Role-based access control (RBAC) must be applied to restrict permissions.
+security,008.txt,Access to sensitive data must be logged and monitored for unauthorized access.
+security,020.txt,Data classification must be performed to identify sensitive information.
+security,034.txt,Data subject access requests (DSAR) must be processed within legal timeframes.
+security,018.txt,Data encryption policies must align with industry-specific regulations.
+security,030.txt,Unauthorized access attempts must trigger alerts and investigations.
+security,024.txt,Incident response plans and procedures must be documented.
+security,025.txt,Data breach notification processes must be established.
+security,031.txt,Data processing must comply with General Data Protection Regulation (GDPR) requirements.
+security,019.txt,Encrypted storage devices must be used for data protection.
+security,027.txt,Security logs must be retained for a specified period.
+security,033.txt,Data anonymization and pseudonymization techniques must be applied.
+security,032.txt,Personal data processing must adhere to data privacy regulations.
+security,026.txt,Security incident reports must be submitted to regulatory authorities when required.
+security,041.txt,Information security policies and procedures must be documented.
+security,040.txt,Records of user consent for data processing activities must be maintained.
+security,042.txt,Security awareness training programs must be provided to employees.
+security,043.txt,Incident response plans must be tested through tabletop exercises.
+security,047.txt,Security awareness campaigns must educate employees about data protection.
+security,046.txt,Security assessments of third-party vendors must be conducted.
+security,044.txt,Security policies must align with industry-specific standards.
+security,050.txt,Security reports must be provided to executive management regularly.
+security,045.txt,Security risk assessments must be performed periodically.
+software,048.txt,Data portability mechanisms must allow users to transfer their data to other systems.
+software,049.txt,Data subject access requests (DSAR) must be processed within legally required timeframes.
+software,003.txt,Personal data processing must comply with General Data Protection Regulation (GDPR) guidelines.
+software,017.txt,Data transmission must be secured using encryption protocols.
+software,016.txt,The system must use intrusion detection and prevention systems (IDPS).
+software,002.txt,Data encryption must be implemented to safeguard sensitive information.
+software,014.txt,Secure coding practices must be followed to prevent security vulnerabilities.
+software,028.txt,Data must be regularly backed up to prevent data loss or corruption.
+software,029.txt,Data recovery plans and procedures must be in place for disaster recovery.
+software,001.txt,User data must be stored securely and protected from unauthorized access.
+software,015.txt,Regular security patches and updates must be applied to software components.
+software,039.txt,Compliance with Payment Card Industry Data Security Standard (PCI DSS) for credit card data must be maintained.
+software,011.txt,Strong authentication methods must be used for user access control.
+software,005.txt,The system must support data anonymization techniques to protect privacy.
+software,004.txt,Data must not be shared with third parties without explicit user consent.
+software,010.txt,Financial data handling must comply with Sarbanes-Oxley Act (SOX) requirements.
+software,038.txt,Data privacy impact assessments (DPIA) must be conducted for new data processing activities.
+software,006.txt,Data breach notification procedures must be in place as per legal requirements.
+software,012.txt,Access to sensitive data must be role-based and restricted as per RBAC principles.
+software,013.txt,Regular security audits and vulnerability assessments must be conducted.
+software,007.txt,Users must have the option to delete their accounts and associated data.
+software,022.txt,Data must be regularly cleaned and deduplicated to maintain quality.
+software,036.txt,Records of user consent and data processing activities must be maintained.
+software,037.txt,Compliance with industry-specific regulations must be ensured.
+software,023.txt,Changes to critical data fields must be logged for auditing purposes.
+software,035.txt,Data compliance training programs must be provided to employees.
+software,021.txt,Data validation rules must be enforced to ensure data accuracy.
+software,009.txt,Data access and processing must adhere to HIPAA regulations for healthcare data.
+software,008.txt,Consent tracking mechanisms must be implemented for data processing.
+software,020.txt,Logs of security events and incidents must be maintained for auditing.
+software,034.txt,Data compliance officers or teams must be designated to oversee compliance efforts.
+software,018.txt,Secure APIs must be implemented to protect data during external integrations.
+software,030.txt,Data migrations must be performed with minimal disruption to operations.
+software,024.txt,Data integration processes must maintain data consistency and integrity.
+software,025.txt,Data imports and exports must follow industry-standard data formats.
+software,031.txt,Data governance policies and procedures must be documented and followed.
+software,019.txt,Data at rest must be encrypted to prevent unauthorized access.
+software,027.txt,Metadata must be maintained to track data lineage and origin.
+software,033.txt,Data compliance reports must be generated and submitted as required.
+software,032.txt,Data compliance audits must be conducted to ensure adherence to regulations.
+software,026.txt,Data must adhere to defined data quality standards and guidelines.
+software,041.txt,Data retention policies must specify the duration for which data is retained.
+software,040.txt,Data access reviews and audits must be performed to detect unauthorized access.
+software,042.txt,Data archiving strategies must be in place to manage older data.
+software,043.txt,Data disposal procedures must be followed when data is no longer needed.
+software,047.txt,Archived data must be readily accessible when needed for compliance or legal purposes.
+software,046.txt,Data retention periods must align with legal and regulatory requirements.
+software,044.txt,Data backups must be tested for recoverability and compliance.
+software,050.txt,Data encryption key management practices must be documented and followed.
+software,045.txt,Data retention automation tools must be used to enforce policies.
