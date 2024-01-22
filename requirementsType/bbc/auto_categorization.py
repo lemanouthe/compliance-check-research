@@ -12,6 +12,8 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn import metrics
 import pickle
+from sklearn.metrics import confusion_matrix, classification_report
+
 
 try:
     _create_unverified_https_context = ssl._create_unverified_context
@@ -138,11 +140,15 @@ def evaluate_classifier(title, classifier, vectorizer, X_test, y_test):
     X_test_tfidf = vectorizer.transform(X_test)
     y_pred = classifier.predict(X_test_tfidf)
     
+    cm = confusion_matrix(y_test, y_pred)
+    
     precision = metrics.precision_score(y_test, y_pred, average='micro')
     recall = metrics.recall_score(y_test, y_pred, average='micro')
     f1 = metrics.f1_score(y_test, y_pred, average='micro')
     
     print("%s\t%f\t%f\t%f\n" % (title, precision, recall, f1))
+    # print(cm)
+    print(classification_report(y_test, y_pred))
     
 def train_classifier(docs):
     X_train, X_test, y_train, y_test = get_splits(docs)
@@ -186,10 +192,10 @@ def classify(text):
 
 if __name__ == "__main__":
     # create_data_set()
-    # docs = setup_docs()
+    docs = setup_docs()
 
     # print_frequency_dist(docs)
-    # train_classifier(docs)
+    train_classifier(docs)
     
     # deployement in production
     # new_doc = "Update existing databases or spreadsheets as needed." # non-functional
@@ -198,8 +204,8 @@ if __name__ == "__main__":
     # new_doc = "Prepare and submit documents in appropriate formats in accordance with the latest Air Force Handbook (AFH) 33-337, The Tongue and Quill."
     # new_doc = "Handle telephone calls and visitors efficiently, screening for requests that can be handled without assistance." # User
     # new_doc = "Reports shall be detailed at the  project level as specified per each task and shall include costs incurred to  date and planned costs to project completion."
-    new_doc = "Update existing databases or spreadsheets as needed"
+    # new_doc = "Update existing databases or spreadsheets as needed"
     
-    classify(new_doc)
+    # classify(new_doc)
 
     print("Done !!!")

@@ -204,8 +204,8 @@ if __name__ == "__main__":
     # new_doc = "The resulting technology and data should be re-usable by future entities and people whenever possible." # Internet of things
     # new_doc = "The Contractor shall maintain data and information that relates technical components of infrastructure with business requirements." # software
     # new_doc = "The technical component shall focus on areas such as data gathering, requirements definition; technical design; development; testing, installation,  interoperability, operational support, maintenance, and management of software as Government assets." # Hardware
-    new_doc = "IT Security Management and Compliance  Security Management services and compliance includes the physical and logical  security of all Government assets, software application components and data, access  protection and other IT related security services and shall be in compliance with ARPAH Security policies and all applicable federal regulatory requirements." # Security
+    # new_doc = "IT Security Management and Compliance  Security Management services and compliance includes the physical and logical  security of all Government assets, software application components and data, access  protection and other IT related security services and shall be in compliance with ARPAH Security policies and all applicable federal regulatory requirements." # Security
     
-    classify(new_doc)
+    # classify(new_doc)
 
     print("Done !!!")

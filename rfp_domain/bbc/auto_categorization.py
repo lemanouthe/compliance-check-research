@@ -12,6 +12,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn import metrics
 import pickle
+from sklearn.metrics import confusion_matrix, classification_report
 
 try:
     _create_unverified_https_context = ssl._create_unverified_context
@@ -136,12 +137,16 @@ def get_splits(docs):
 def evaluate_classifier(title, classifier, vectorizer, X_test, y_test):
     X_test_tfidf = vectorizer.transform(X_test)
     y_pred = classifier.predict(X_test_tfidf)
+    
+    cm = confusion_matrix(y_test, y_pred)
 
     precision = metrics.precision_score(y_test, y_pred, average="micro")
     recall = metrics.recall_score(y_test, y_pred, average="micro")
     f1 = metrics.f1_score(y_test, y_pred, average="micro")
 
     print("%s\t%f\t%f\t%f\n" % (title, precision, recall, f1))
+    # print(cm)
+    print(classification_report(y_test, y_pred))
 
 
 def train_classifier(docs):
@@ -191,54 +196,54 @@ def classify(text):
 
 if __name__ == "__main__":
     # create_data_set()
-    # docs = setup_docs()
+    docs = setup_docs()
 
     # print_frequency_dist(docs)
-    # train_classifier(docs)
+    train_classifier(docs)
 
     # deployement in production
-    new_doc = """
-    1. Background
-    Recent advances in biomedical and health sciences—from immunotherapy to treat
-    cancer, to the highly effective COVID-19 vaccines—demonstrate the strengths and
-    successes of the U.S. biomedical enterprise. Such advances present an opportunity to
-    revolutionize how to prevent, treat, and even cure a range of diseases including cancer,
-    infectious diseases, Alzheimer’s disease, and many others that together affect a
-    significant number of Americans.
-    To improve the U.S. Government’s capabilities to speed research that can improve the
-    health of all Americans, the White House has created the Advanced Research Projects
-    Agency for Health (ARPA-H). Included in the President’s FY2022 budget was a
-    component of the National Institutes of Health (NIH) with a funding level of $1B
-    available for three years. ARPA-H will be tasked with building high-risk, high-reward
-    capabilities (or platforms) to drive biomedical breakthroughs—ranging from molecular
-    to societal—that would provide transformative solutions for all patients.
-    Congress has funded the Advanced Research Project Agency (Health) which is led as an
-    initiative by the Office of Science and Technology Policy (OSTP). ARPA-H is viewed
-    as an approach to support quick scientific research in the biomedical arena and is an
-    agency within the Department of Human and Health Services (HHS).
-    During the rapid start of ARPA-H, CIT services were leveraged, such as the
-    ServiceNow instance for incident management, while relying on other service area
-    capabilities provided by CIT (e.g., NIH network, Identity and Access Management
-    (IAM) Facilities, and STRIDES, etc.) as well as other critical administrative services
-    (e.g., Acquisitions/Contracting, Financial Management, HR, onboarding, Property
-    Management, etc.) and Technology Management and Customer Support (Helpdesk,
-    Training, etc.).
-    As ARPA-H continues to mature as an organization, ARPA-H and NIH executives want
-    to ensure that ARPA-H can develop a full range of IT services, systems or capabilities,
-    equipment, and technical support that is specific to performing the mission of ARPA-H
-    as an independent organization. Over time ARPA-H will in some cases necessitate a
-    move away from some CIT provided services to tools and services that better fit the
-    unique mission of the agency.
-    It is expected that ARPA-H, having its beginnings as a start-up federal agency, will grow
-    exponentially in size (personnel, facility, and equipment) as research projects are added.
-    As it does, the service delivery architecture will diverge from CIT’s support and the
-    ARPA-H Information Technology (IT) will increasingly become a stand-alone
-    environment. This document seeks to establish the initial Scope of IT Services and
-    means for creating a baseline of services to support the agency’s mission. The
-    Contractor understands and agrees that over time ARPA-H may require different
-    approaches for its support.
-    """
+    # new_doc = """
+    # 1. Background
+    # Recent advances in biomedical and health sciences—from immunotherapy to treat
+    # cancer, to the highly effective COVID-19 vaccines—demonstrate the strengths and
+    # successes of the U.S. biomedical enterprise. Such advances present an opportunity to
+    # revolutionize how to prevent, treat, and even cure a range of diseases including cancer,
+    # infectious diseases, Alzheimer’s disease, and many others that together affect a
+    # significant number of Americans.
+    # To improve the U.S. Government’s capabilities to speed research that can improve the
+    # health of all Americans, the White House has created the Advanced Research Projects
+    # Agency for Health (ARPA-H). Included in the President’s FY2022 budget was a
+    # component of the National Institutes of Health (NIH) with a funding level of $1B
+    # available for three years. ARPA-H will be tasked with building high-risk, high-reward
+    # capabilities (or platforms) to drive biomedical breakthroughs—ranging from molecular
+    # to societal—that would provide transformative solutions for all patients.
+    # Congress has funded the Advanced Research Project Agency (Health) which is led as an
+    # initiative by the Office of Science and Technology Policy (OSTP). ARPA-H is viewed
+    # as an approach to support quick scientific research in the biomedical arena and is an
+    # agency within the Department of Human and Health Services (HHS).
+    # During the rapid start of ARPA-H, CIT services were leveraged, such as the
+    # ServiceNow instance for incident management, while relying on other service area
+    # capabilities provided by CIT (e.g., NIH network, Identity and Access Management
+    # (IAM) Facilities, and STRIDES, etc.) as well as other critical administrative services
+    # (e.g., Acquisitions/Contracting, Financial Management, HR, onboarding, Property
+    # Management, etc.) and Technology Management and Customer Support (Helpdesk,
+    # Training, etc.).
+    # As ARPA-H continues to mature as an organization, ARPA-H and NIH executives want
+    # to ensure that ARPA-H can develop a full range of IT services, systems or capabilities,
+    # equipment, and technical support that is specific to performing the mission of ARPA-H
+    # as an independent organization. Over time ARPA-H will in some cases necessitate a
+    # move away from some CIT provided services to tools and services that better fit the
+    # unique mission of the agency.
+    # It is expected that ARPA-H, having its beginnings as a start-up federal agency, will grow
+    # exponentially in size (personnel, facility, and equipment) as research projects are added.
+    # As it does, the service delivery architecture will diverge from CIT’s support and the
+    # ARPA-H Information Technology (IT) will increasingly become a stand-alone
+    # environment. This document seeks to establish the initial Scope of IT Services and
+    # means for creating a baseline of services to support the agency’s mission. The
+    # Contractor understands and agrees that over time ARPA-H may require different
+    # approaches for its support.
+    # """
 
-    classify(new_doc)
+    # classify(new_doc)
 
     print("Done !!!")
